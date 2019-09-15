@@ -1,0 +1,4 @@
+https://download.pytorch.org/whl/cu90/torch-1.0.0-cp36-cp36m-win_amd64.whl
+gensim==3.3.0
+numpy==1.15.0
+pandas==0.20.3
