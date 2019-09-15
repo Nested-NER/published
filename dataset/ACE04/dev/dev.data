@@ -1,0 +1,3316 @@
+chtb_283.eng NEWS STORY
+NN NN NN
+
+
+1994-08-31 21:56:30
+CD NN
+
+
+Vice prime minister of Malaysia ends visit to China
+NNP JJ NN IN NNP VBZ NN TO NNP
+
+
+Xinhua News Agency , Shanghai , August 31st , by reporter Jierong Zhou
+NNP NNP NNP , NNP , NNP NN , IN NN NNP NNP
+0,3,0,3 ORG|4,5,4,5 GPE|10,11,10,11 PER|10,13,11,13 PER
+
+Malaysian vice-prime minister Anwar ended a visit to China this afternoon , and left Shanghai for Tokyo .
+JJ JJ NN NNP VBD DT NN TO NNP DT NN , CC VBD NNP IN NNP .
+0,1,0,1 GPE|0,3,2,3 PER|0,4,3,4 PER|8,9,8,9 GPE|14,15,14,15 GPE|16,17,16,17 GPE
+
+Anwar arrived in Shanghai from Nanjing yesterday afternoon .
+NNP VBD IN NNP IN NNP NN NN .
+0,1,0,1 PER|3,4,3,4 GPE|5,6,5,6 GPE
+
+Last night , the vice-mayor of Shanghai , Qizheng Zhao represented mayor Ju Huang by meeting and inviting Anwar and his delegation to a banquet .
+JJ NN , DT NN IN NNP , NNP NNP VBD NN NNP NNP IN VBG CC VBG NNP CC PRP$ NN TO DT NN .
+3,7,4,5 PER|6,7,6,7 GPE|8,10,8,10 PER|11,12,11,12 PER|11,14,12,14 PER|18,19,18,19 PER|20,21,20,21 PER|20,22,21,22 PER
+
+This morning , Anwar attended the foundation laying ceremony of the Minhang China-Malaysia joint-venture enterprise , and after that toured Pudong 's Jingqiao export processing district .
+DT NN , NNP VBD DT NN VBG NN IN DT NNP NNP NN NN , CC IN DT VBD NNPS POS NNP NN NN NN .
+3,4,3,4 PER|10,15,11,15 ORG|20,21,20,21 GPE|20,26,25,26 GPE|22,23,22,23 GPE
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_051.eng NEWS STORY
+NN NN NN
+
+
+1997-12-16
+CD
+
+
+Henan Province and foreign investment financial institutions hold economic cooperation negotiation conference in Beijing
+NNP NNP CC JJ NN JJ NNS VBP JJ NN NN NN IN NNP
+
+
+Xinhua News Agency , Beijing , December 16th , by reporter Haisheng Yu
+NNP NNP NNP , NNP , NNP JJ , IN NN NNP NNP
+0,3,0,3 ORG|4,5,4,5 GPE|10,11,10,11 PER|10,13,11,13 PER
+
+Today , the Henan provincial government and more than 100 representatives from 88 foreign investment financial institutions stationed in Beijing held an economic cooperation negotiation conference here to promote mutual understanding between Henan Province and international finance circles , and to open financing channels for Henan 's economic development .
+NN , DT NNP JJ NN CC JJR IN CD NNS IN CD JJ NN JJ NNS VBN IN NNP VBD DT JJ NN NN NN RB TO VB JJ NN IN NNP NNP CC JJ NN NNS , CC TO JJ NN NNS IN NNP POS JJ NN .
+2,6,5,6 GPE|3,4,3,4 GPE|3,5,4,5 GPE|7,20,10,11 PER|12,17,16,17 ORG|19,20,19,20 GPE|26,27,26,27 GPE|32,34,32,34 GPE|45,46,45,46 GPE
+
+Yuan Chen , vice president of the People 's Bank Of China , said in his message of congratulations sent to the conference that the Chinese government decided to increase middle and western regions development effort , to encourage Chinese and foreign enterprises to invest in the middle and western regions , and that it had also decided from now on to spend more than 60 % of the loans from foreign banks and the Chinese government in the middle and western regions .
+NNP NNP , NN NN IN DT NNS POS NNP IN NNP , VBD IN PRP$ NN IN NNS VBN TO DT NN IN DT JJ NN VBD TO VB JJ CC JJ NNS NN NN , TO VB JJ CC JJ NNS TO VB IN DT JJ CC JJ NNS , CC IN PRP VBD RB VBN IN RB IN TO VB JJR IN CD NN IN DT NNS IN JJ NNS CC DT JJ NN IN DT JJ CC JJ NNS .
+0,12,0,2 PER|3,12,4,5 PER|6,12,7,12 ORG|15,16,15,16 PER|24,27,26,27 GPE|25,26,25,26 GPE|30,34,33,34 LOC|39,40,39,40 GPE|39,43,42,43 ORG|46,51,50,51 LOC|54,55,54,55 GPE|71,73,72,73 ORG|74,77,76,77 GPE|75,76,75,76 GPE|78,83,82,83 LOC
+
+Kershye , chairman of the Foreign Capital Financial Organization stationed in Beijing and chief representative of the Belgian General Bank 's Beijing Representative Office , expressed at the conference that the foreign capital financial institutions stationed in Beijing intend make contributions to Henan Province 's economic construction and the development of China 's middle and western regions .
+NNP , NN IN DT NNP NNP NNP NNP VBN IN NNP CC JJ NN IN DT JJ NNP NNP POS NNP NNP NNP , VBN IN DT NN IN DT JJ NN JJ NNS VBN IN NNP VBP VB NNS TO NNP NNP POS JJ NN CC DT NN IN NNP POS JJ CC JJ NNS .
+0,24,0,1 PER|2,12,2,3 PER|4,12,5,9 ORG|11,12,11,12 GPE|13,24,14,15 PER|16,20,17,20 ORG|16,25,21,24 ORG|30,38,34,35 ORG|37,38,37,38 GPE|42,44,42,44 GPE|51,52,51,52 GPE|51,57,56,57 LOC
+
+Chengyu Li , standing vice governor of Henan Province , presented the province 's natural resources and economic development situation at the conference .
+NNP NNP , NN NN NN IN NNP NNP , VBD DT NN POS JJ NNS CC JJ NN NN IN DT NN .
+0,9,0,2 PER|3,9,5,6 PER|7,9,7,9 GPE|11,13,12,13 GPE
+
+He said that Henan Province possessed not only the hardware required for foreign investment , but also integrated the reality of this province to formulate a preferential policy to encourage foreign investors to invest and develop foreign economic , trade and technological cooperation on the basis of national policies .
+PRP VBD IN NNP NNP VBD RB RB DT NN VBN IN JJ NN , CC RB VBN DT NN IN DT NN TO VB DT JJ NN TO VB JJ NNS TO VB CC VB JJ JJ , NN CC JJ NN IN DT NN IN JJ NNS .
+0,1,0,1 PER|3,5,3,5 GPE|21,23,22,23 GPE
+
+Concerned departments of the Henan provincial government promulgated this province 's foreign economy and technological cooperation projects at the conference , and conference representatives negotiated on the cooperative intention of related projects .
+JJ NNS IN DT NNP JJ NN VBD DT NN POS JJ NN CC JJ NN NNS IN DT NN , CC NN NNS VBN IN DT JJ NN IN VBN NNS .
+0,7,1,2 ORG|3,7,6,7 GPE|4,5,4,5 GPE|4,6,5,6 GPE|8,10,9,10 GPE|22,24,23,24 PER
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_128.eng NEWS STORY
+NN NN NN
+
+
+1998-01-18
+CD
+
+
+Southern Fujian delta region 's economic development maintains a growth trend
+JJ JJ NN NN POS JJ NN VBZ DT NN NN
+
+
+Xinhua News Agency , Fuzhou , January 18 , by wire ( reporter Ting Xu )
+NNP NNP NNP , NNP , NNP CD , IN NN -LRB- NN NNP NNP -RRB-
+0,3,0,3 ORG|4,5,4,5 GPE|12,13,12,13 PER|12,15,13,15 PER
+
+The economy of China 's southern Fujian delta region has been growing rapidly in the past 5 years , having ascended to one of China 's most active economic regions .
+DT NN IN NNP POS JJ JJ NN NN VBZ VBN VBG RB IN DT JJ CD NNS , VBG VBN TO CD IN NNP POS JJS JJ JJ NNS .
+3,4,3,4 GPE|3,9,8,9 LOC|5,7,6,7 LOC|5,8,7,8 LOC|22,30,22,23 LOC|24,25,24,25 GPE|24,30,29,30 LOC
+
+Currently , this region 's economic development continues to maintain growth stamina .
+RB , DT NN POS JJ NN VBZ TO VB NN NN .
+2,4,3,4 LOC
+
+The southern Fujian delta region refers to the Xiamen Special Economic Zone , Quanzhou , and Zhangzhou .
+DT JJ JJ NN NN VBZ TO DT NNP JJ NNP NNP , NNP , CC NNP .
+0,5,4,5 LOC|1,3,2,3 LOC|1,4,3,4 LOC|7,12,8,12 GPE|13,14,13,14 GPE|16,17,16,17 GPE
+
+The region is a famous hometown of overseas Chinese .
+DT NN VBZ DT JJ NN IN RB JJ .
+0,2,1,2 LOC|3,9,5,6 LOC|7,8,7,8 LOC|7,9,8,9 PER
+
+The Xiamen Special Economic Zone is the dragon 's head area in southern Fujian 's economic development .
+DT NNP JJ NNP NNP VBZ DT NN POS NN NN IN JJ NNP POS JJ NN .
+0,5,1,5 GPE|6,17,10,11 GPE|12,14,13,14 LOC
+
+Currently , this city has already entered the list of the ten strongest of the country 's large and medium-sized cities , with per capita GDP reaching 27,700 yuan , having reached the basic level of the world 's middle-income countries .
+RB , DT NN VBZ RB VBN DT NN IN DT JJ JJS IN DT NN POS JJ CC JJ NNS , IN IN NN NNP VBG CD NN , VBG VBN DT JJ NN IN DT NN POS JJ NNS .
+2,4,3,4 GPE|10,21,12,13 GPE|14,16,15,16 GPE|14,21,20,21 GPE|36,38,37,38 LOC|36,41,40,41 GPE
+
+The city has formed over 60 industrial corporations with an annual production values of over 100 million yuan , 36 limited share-holding companies and 13 listed companies .
+DT NN VBZ VBN IN CD JJ NNS IN DT JJ NN NNS IN IN CD CD NN , CD VBD JJ NNS CC CD VBN NNS .
+0,2,1,2 GPE|4,18,7,8 ORG|19,23,22,23 ORG|24,27,26,27 ORG
+
+In the past 5 years , Xiamen has actually utilized 6.3 billion US dollars in foreign funds , and foreign trade exports have continuously ranked fourth among China 's cities , and nearly 50 % of local industrial products are sold overseas .
+IN DT JJ CD NNS , NNP VBZ RB VBN CD CD NNP NNS IN JJ NNS , CC JJ NN NNS VBP RB VBN JJ IN NNP POS NNS , CC RB CD NN IN JJ JJ NNS VBP VBN RB .
+6,7,6,7 GPE|12,13,12,13 GPE|27,28,27,28 GPE|27,30,29,30 GPE|41,42,41,42 LOC
+
+The actual realization rate of foreign merchant investments ranks first in the nation .
+DT JJ NN NN IN JJ NN NNS VBZ JJ IN DT NN .
+5,7,6,7 PER|11,13,12,13 GPE
+
+The delta region 's Quanzhou , over the past 5 years , has had a GNP that annually increases 42.9 % , and 3 cities under its administration , namely Jinjiang , Shishi and Nan'an , have ascended to the 100 strongest counties in the nation 's economy .
+DT NN NN POS NNP , IN DT JJ CD NNS , VBZ VBN DT NNP IN RB VBZ CD NN , CC CD NNS IN PRP$ NN , RB NNP , NNP CC NNP , VBP VBN TO DT CD JJS NNS IN DT NN POS NN .
+0,3,2,3 LOC|0,5,4,5 GPE|1,2,1,2 LOC|23,35,24,25 GPE|26,27,26,27 GPE|30,31,30,31 GPE|32,33,32,33 GPE|34,35,34,35 GPE|39,48,42,43 GPE|44,46,45,46 GPE
+
+In recent years , Quanzhou has brought its advantage of overseas Chinese from Hong Kong and Taiwan into full play , and has made actively , reasonably , effectively used foreign capital .
+IN JJ NNS , NNP VBZ VBN PRP$ NN IN RB JJ IN NNP NNP CC NNP IN JJ NN , CC VBZ VBN RB , RB , RB VBN JJ NN .
+4,5,4,5 GPE|7,8,7,8 GPE|10,11,10,11 LOC|10,20,11,12 PER|13,15,13,15 GPE|16,17,16,17 GPE
+
+Three-capital enterprises and foreign-investment enterprises develop vigorously .
+NN NNS CC JJ NNS VBP RB .
+0,2,1,2 ORG|3,5,4,5 ORG
+
+Within 5 years , the whole city built up 21 large-scale industrial development districts , approved over 4,000 foreign investment projects and actually utilized 3.4 billion US dollars of foreign capital .
+IN CD NNS , DT JJ NN VBD RB CD JJ JJ NN NNS , VBN IN CD JJ NN NNS CC RB VBN CD CD NNP NNS IN JJ NN .
+4,7,6,7 GPE|9,14,13,14 GPE|26,27,26,27 GPE
+
+The city has also diligently developed township enterprises , cultivated domestically famous advantageous industries such as clothing , shoemaking , ceramics , stone carving , slate material , etc .
+DT NN VBZ RB RB VBN NN NNS , VBN RB JJ JJ NNS JJ IN NN , VBG , NNS , NN VBG , NN NN , FW .
+0,2,1,2 GPE|6,7,6,7 GPE|6,8,7,8 ORG|10,29,13,14 ORG
+
+Last year , the gross output value of township enterprises of the whole city broke through 100 billion yuan for the first time , ranking first in the entire province .
+JJ NN , DT JJ NN NN IN NN NNS IN DT JJ NN VBD IN CD CD NN IN DT JJ NN , JJ RB IN DT JJ NN .
+8,9,8,9 GPE|8,14,9,10 ORG|11,14,13,14 GPE|27,30,29,30 GPE
+
+Zhangzhou , whose agriculture is usually well developed , has , in recent years , achieved a breakthrough in utilizing foreign capital , especially in introducing significant foreign-capital projects .
+NNP , WP$ NN VBZ RB RB VBN , VBZ , IN JJ NNS , VBD DT NN IN VBG JJ NN , RB IN VBG JJ JJ NNS .
+0,8,0,1 GPE|2,3,2,3 GPE
+
+From 1993 to October 1997 , this city 's contracts utilized foreign capital totally reached 4.88 billion US dollars , and actually realized 1.91 billion US dollars , equivalent to 90 % of the total of 18 years of reform and opening up .
+IN CD TO NNP CD , DT NN POS NNS VBD JJ NN RB VBD CD CD NNP NNS , CC RB VBD CD CD NNP NNS , JJ TO CD NN IN DT NN IN CD NNS IN NN CC VBG RP .
+6,8,7,8 GPE|17,18,17,18 GPE|25,26,25,26 GPE
+
+In 1997 , the growth rate of actually utilized foreign capital once again ranked first in the entire province , which showed strong growth stamina .
+IN CD , DT NN NN IN RB JJ JJ NN RB RB VBD JJ IN DT JJ NN , WDT VBD JJ NN NN .
+16,19,18,19 GPE
+
+Currently , there are 65 large scale and oversize projects being invested in Zhangzhou .
+RB , EX VBP CD JJ NN CC VB NNS VBG VBN IN NNP .
+13,14,13,14 GPE
+
+A number of big consortia , large enterprises with international influence have successively settled down in Zhangzhou , at the same time have brought along a large number of medium and small-sized enterprises to invest in Zhangzhou .
+DT NN IN JJ NN , JJ NNS IN JJ NN VBP RB VBN RP IN NNP , IN DT JJ NN VBP VBN IN DT JJ NN IN NN CC NN NNS TO VB IN NNP .
+0,5,1,2 ORG|3,5,4,5 ORG|6,11,7,8 ORG|16,17,16,17 GPE|25,33,27,28 ORG|29,33,32,33 ORG|36,37,36,37 GPE
+
+This city now has ten development districts , 18 square kilometers of developed area , 580 introduced projects , and 1.5 billion US dollars of contracted foreign capital .
+DT NN RB VBZ JJ NN NNS , CD JJ NNS IN VBN NN , CD VBN NNS , CC CD CD NNP NNS IN VBD JJ NN .
+0,2,1,2 GPE|4,7,6,7 GPE|22,23,22,23 GPE
+
+It is reported that the southern Fujian delta region has already established a regional economic collaboration and development system .
+PRP VBZ VBN IN DT JJ JJ NN NN VBZ RB VBN DT JJ JJ NN CC NN NN .
+4,9,8,9 LOC|5,7,6,7 LOC|5,8,7,8 LOC
+
+The three cities are currently striving to improve the region 's investment environment .
+DT CD NNS VBP RB VBG TO VB DT NN POS NN NN .
+0,3,2,3 GPE|8,10,9,10 LOC
+
+Currently , the Quanzhou-Xiamen and Xiamen-Zhangzhou expressways linking the three cities have been built or basically completed .
+RB , DT NNS CC NNP NNS VBG DT CD NNS VBP VBN VBN CC RB VBN .
+2,11,6,7 FAC|3,4,3,4 GPE|5,6,5,6 GPE|8,11,10,11 GPE
+
+A large number of key infrastructures such as the port , airport , railway , telecommunications , etc. have also been successively completed .
+DT JJ NN IN JJ NNS JJ IN DT NN , NN , NN , NNS , FW VBP RB VBN RB VBN .
+0,18,2,3 FAC|4,18,5,6 FAC|8,18,8,16 FAC
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_110.eng NEWS STORY
+NN NN NN
+
+
+1998-01-14
+CD
+
+
+Finland 's exports to southeast Asia increased substantially
+NNP POS NNS TO NN NNP VBD RB
+
+
+Xinhua News Agency , Helsinki , January 13th , by reporter Huanqing Zheng
+NNP NNP NNP , NNP , NNP NNP , IN NN VBG NNP
+0,3,0,3 ORG|4,5,4,5 GPE|10,11,10,11 PER|10,13,11,13 PER
+
+According to the latest statistics data published by Finland Customs , in 1997 , Finland 's exports to Southeast Asia grew by 28 % .
+VBG TO DT JJS NNS NNS VBN IN NNP NNP , IN CD , NNP POS NNS TO NNP NNP VBD IN CD NN .
+8,9,8,9 GPE|8,10,9,10 ORG|14,15,14,15 GPE|18,20,18,20 GPE
+
+Up till October of last year , Finland 's export volume to major trading partners , such as Hong Kong , China , Indonesia , Thailand , Singapore , Malaysia etc. , reached 10.7 billion Finland Marks ( 1 Finland Mark approximates 0.19 US dollar ) , which was equivalent to gross exports of the whole year of 1996 .
+IN IN NNP IN JJ NN , NNP POS NN NN TO JJ NN NNS , JJ IN NNP NNP , NNP , NNP , NNP , NNP , NNP FW , VBD CD CD NNP NNP -LRB- CD NNP NNP VBZ CD NNP NN -RRB- , WDT VBD JJ TO JJ NNS IN DT JJ NN IN CD .
+7,8,7,8 GPE|12,31,14,15 GPE|18,20,18,20 GPE|21,22,21,22 GPE|23,24,23,24 GPE|25,26,25,26 GPE|27,28,27,28 GPE|29,30,29,30 GPE|30,31,30,31 GPE|35,36,35,36 GPE|39,40,39,40 GPE|43,44,43,44 GPE
+
+The proportion of Finland 's exports to this region in its total exports increased from 1 % ten years ago to 6.2 % .
+DT NN IN NNP POS NNS TO DT NN IN PRP$ JJ NNS VBN IN CD NN JJ NNS IN TO CD NN .
+3,4,3,4 GPE|7,9,8,9 GPE|10,11,10,11 GPE
+
+The main commodities Finland exports to this region are mechanical and electronic industry products as well as transport equipment , etc .
+DT JJ NNS NNP NNS TO DT NN VBP JJ CC JJ NN NNS RB RB IN NN NN , FW .
+3,4,3,4 GPE|6,8,7,8 GPE|9,13,12,13 ORG
+
+At the same time , Finland 's imports from Southeast Asia grew by 5 % .
+IN DT JJ NN , NNP POS NNS IN NNP NNP VBD IN CD NN .
+5,6,5,6 GPE|9,11,9,11 GPE
+
+In recently years , Finland has been keeping an obvious trade surplus in this region .
+IN RB NNS , NNP VBZ VBN VBG DT JJ NN NN IN DT NN .
+4,5,4,5 GPE|13,15,14,15 GPE
+
+Finland Customs estimated that , the financial crisis in Southeast Asia may weaken Finland 's exports to this region , in particular , the export of electromechanical products would be impacted .
+NNP NNP VBD IN , DT JJ NN IN NNP NNP MD VB NNP POS NNS TO DT NN , IN JJ , DT NN IN JJ NNS MD VB VBN .
+0,1,0,1 GPE|0,2,1,2 ORG|9,11,9,11 GPE|13,14,13,14 GPE|17,19,18,19 GPE|26,27,26,27 ORG
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_165.eng NEWS STORY
+NN NN NN
+
+
+1997-04-03 10:41:51
+CD NN
+
+
+Foreign capital banks rush to settle down in Pudong , Shanghai
+JJ NN NNS VBP TO VB RP IN NNP , NNP
+
+
+Xinhua News Agency , Shanghai , April 3rd , by reporter Jierong Zhou
+NNP NNP NNP , NNP , NNP NN , IN NN NNP NNP
+0,3,0,3 ORG|4,5,4,5 GPE|10,11,10,11 PER|10,13,11,13 PER
+
+Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui financial trading district , becoming the third foreign capital bank to be approved to operate RMB business and shift to Pudong .
+RB , NNP VBZ VBN PRP$ NNP NN TO DT NNP NNP NNP IN DT IN NNP JJ NN NN , VBG DT JJ JJ NN NN TO VB VBN TO VB NNP NN CC VB TO NNPS .
+2,3,2,3 ORG|5,6,5,6 ORG|5,8,7,8 ORG|6,7,6,7 GPE|9,20,10,13 FAC|14,20,15,20 GPE|22,27,26,27 ORG|37,38,37,38 GPE
+
+At the moment , Shanghai already has 8 foreign capital banks approved to operate RMB business .
+IN DT NN , NNP RB VBZ CD JJ NN NNS VBN TO VB NNP NN .
+4,5,4,5 GPE|7,16,10,11 ORG
+
+They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and Chartered Bank , Shanghai 's BNP Paris Bank , the Shanghai Branch of Japan 's Dai-Ichi Kangyo Bank and the Shanghai Branch of Japan 's Sanwa Bank .
+PRP VBP DT NNP POS NNP , NNP NNP POS NNP , NNP POS NNP NNP NNP , NNP POS NNP NNP , DT NNP NNP IN DT NNP CC NNP NNP , NNP POS NNP NNP NNP , DT NNP NNP IN NNP POS NNP NNP NNP CC DT NNP NNP IN NNP POS NNP NNP .
+0,1,0,1 ORG|2,4,3,4 GPE|2,6,5,6 ORG|7,9,7,9 GPE|7,11,10,11 ORG|12,13,12,13 GPE|12,17,14,17 ORG|18,19,18,19 GPE|18,22,20,22 ORG|23,32,25,26 ORG|24,25,24,25 GPE|27,32,28,32 ORG|33,34,33,34 GPE|33,38,35,38 ORG|39,48,41,42 ORG|40,41,40,41 GPE|43,44,43,44 GPE|43,48,45,48 ORG|49,57,51,52 ORG|50,51,50,51 GPE|53,54,53,54 GPE|53,57,55,57 ORG
+
+According to regulations , these 8 banks will all move to Pudong soon .
+VBG TO NNS , DT CD NNS MD DT VB TO NNPS RB .
+4,7,6,7 ORG|8,9,8,9 ORG|11,12,11,12 GPE
+
+After the policy was formally announced for the Pudong Lujiazui Financial Trade District to allow foreign capital banks to operate RMB business , more than 40 foreign capital banks and financial institutions have submitted applications to establish branches in Pudong .
+IN DT NN VBD RB VBN IN DT IN NNP NNP NNP NNP TO VB JJ NN NNS TO VB NNP NN , JJR IN CD JJ NN NNS CC JJ NNS VBP VBN NNS TO VB NNS IN RB .
+7,13,8,13 GPE|15,18,17,18 ORG|23,32,28,32 ORG|37,40,37,38 ORG|39,40,39,40 GPE
+
+When selecting locations in Lujiazui , some foreign financial institutions do not mind the real estate prices , but focus more on whether the class of the building is compatible with the standing of the company .
+WRB VBG NNS IN NNP , DT JJ JJ NNS VBP RB VB DT JJ NN NNS , CC VB JJR IN IN DT NN IN DT NN VBZ JJ IN DT NN IN DT NN .
+2,5,2,3 LOC|4,5,4,5 LOC|6,10,9,10 ORG|14,16,15,16 FAC|26,28,27,28 FAC|34,36,35,36 ORG
+
+The Franklin Templeton Company , whose headquarters are in California , the US , and has registered capital of 130 billion US dollars all around the world , decided to establish its local China headquarters in Pudong .
+DT NNP NNP NNP , WP$ NN VBP IN NNP , DT NNP , CC VBZ VBN NN IN CD CD NNP NNS DT IN DT NN , VBD TO VB PRP$ JJ NNP NN IN RB .
+0,27,1,4 ORG|5,6,5,6 ORG|5,7,6,7 FAC|9,13,9,10 GPE|11,13,12,13 GPE|21,22,21,22 GPE|25,27,26,27 LOC|31,32,31,32 ORG|31,35,34,35 FAC|33,34,33,34 GPE|36,37,36,37 GPE
+
+The president of the company and the Asian regional president personally surveyed Pudong and decided to choose office locations in the Shanghai Securities Building , which has a floor rate of more than 2700 US dollars per square meter .
+DT NN IN DT NN CC DT JJ JJ NN RB VBN NNPS CC VBD TO VB NN NNS IN DT NNP NNPS NNP , WDT VBZ DT NN NN IN JJR IN CD NNP NNS IN JJ NN .
+0,5,1,2 PER|3,5,4,5 ORG|6,10,9,10 PER|7,8,7,8 GPE|7,9,8,9 LOC|12,13,12,13 GPE|17,18,17,18 FAC|17,39,18,19 FAC|20,24,21,24 FAC|25,26,25,26 FAC|34,35,34,35 GPE
+
+Now , the Templeton Company has formally signed a contract , and bought the floor area of the entire 18th floor of the Securities Building .
+RB , DT NNP NNP VBZ RB VBN DT NN , CC VBD DT NN NN IN DT JJ JJ NN IN DT NNPS NNP .
+2,5,3,5 ORG|13,25,15,16 FAC|17,25,20,21 FAC|22,25,23,25 FAC
+
+Currently , foreign-capital banks and financial institutions such as Hong Kong 's HSBC , the Shanghai Branch of the Japan Industrial Bank , the Holland Co-operation Bank , Shanghai Branch of the Belgium Credit Bank , etc. , have successively settled down in the Lujiazui Financial Trading District .
+RB , JJ NNS CC JJ NNS JJ IN NNP NNP POS NNP , DT NNP NNP IN DT NNP NNP NNP , DT NNP NNP NNP , NNP NNP IN DT NNP NNP NNP , FW , VBP RB VBN RP IN DT NNP NNP NNP NNP .
+2,37,3,7 ORG|9,11,9,11 GPE|9,13,12,13 ORG|14,22,16,17 ORG|15,16,15,16 GPE|18,22,19,22 ORG|23,27,24,27 ORG|28,29,28,29 GPE|28,35,29,30 ORG|31,35,32,35 ORG|36,37,36,37 ORG|43,48,44,48 GPE
+
+Soon , a large number of domestic and foreign financial institutions , and large companies will also come to successively settle down , including the finance street which has already formed in the Waitan district , and the Shanghai central commercial district framework that is forming .
+RB , DT JJ NN IN JJ CC JJ JJ NNS , CC JJ NNS MD RB VB TO RB VB RB , VBG DT NN NN WDT VBZ RB VBN IN DT NNP NN , CC DT NNP JJ JJ NN NN WDT VBZ VBG .
+2,15,4,5 ORG|6,15,10,15 ORG|24,35,26,27 FAC|27,28,27,28 FAC|32,35,33,35 GPE|38,42,38,42 GPE
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_139.eng NEWS STORY
+NN NN NN
+
+
+1998-01-21
+CD
+
+
+News Analysis : Mexico 's Foreign Trade - between joy and sorrow
+NNP NNP : NNP POS NNP NNP : IN NN CC NN
+
+
+Xinhua News Agency , City Of Mexico , January 20th , by wire .
+NNP NNP NNP , NNP IN NNP , NNP JJ , IN NN .
+
+
+News Analysis : Mexico 's Foreign Trade - between joy and sorrow
+NNP NNP : NNP POS NNP NNP : IN NN CC NN
+
+
+By Xiaqin Zhuang of the Xinhua News Agency
+IN NNP NNP IN DT NNP NNP NNP
+
+
+In 1997 , Mexico 's total amount of foreign trade broke through 220 billion US dollars , which created a new historical record .
+IN CD , NNP POS JJ NN IN JJ NN VBD IN CD CD NNP NNS , WDT VBD DT JJ JJ NN .
+3,4,3,4 GPE|14,15,14,15 GPE
+
+However , in reviewing Mexico 's foreign trade situation this year , it might be appropriate to say that it is between joy and sorrow .
+RB , IN VBG NNP POS JJ NN NN DT NN , PRP MD VB JJ TO VB IN PRP VBZ IN NN CC NN .
+4,5,4,5 GPE|19,20,19,20 GPE
+
+The joy lies in that the total amount of foreign trade still maintains a strong growth momentum , and has realized trade surpluses for the third year in a row , whereas the sorrow is that the amount of trade surplus has sharply reversed , and this year , a relatively large deficit may appear .
+DT NN VBZ IN IN DT JJ NN IN JJ NN RB VBZ DT JJ NN NN , CC VBZ VBN NN NNS IN DT JJ NN IN DT NN , IN DT NN VBZ IN DT NN IN NN NN VBZ RB VBN , CC DT NN , DT RB JJ NN MD VB .
+
+
+According to official journals published recently by Mexico 's Treasury Department , in 1997 , foreign trade continues to grow at high speed , the total amount of imports and exports reached 220.178 billion US dollars , 18.85 % higher than that of the previous year , among which the amount of exports is 110.38 billion US dollars , imports were 109.798 billion US dollars , being 15 % and 22.7 % higher than that of 1996 respectively .
+VBG TO JJ NNS VBN RB IN NNP POS NNP NNP , IN CD , JJ NN VBZ TO VB IN JJ NN , DT JJ NN IN NNS CC NNS VBD CD CD NNP NNS , CD NN JJR IN DT IN DT JJ NN , IN WDT DT NN IN NNS VBZ CD CD NNP NNS , NNS VBD CD CD NNP NNS , VBG CD NN CC CD NN JJR IN DT IN CD RB .
+7,8,7,8 GPE|7,11,9,11 ORG|34,35,34,35 GPE|56,57,56,57 GPE|63,64,63,64 GPE
+
+The trade surplus was 582 million US dollars .
+DT NN NN VBD CD CD NNP NNS .
+6,7,6,7 GPE
+
+Foreign trade occupies a pivotal position in Mexico 's economy .
+JJ NN VBZ DT JJ NN IN NNP POS NN .
+7,8,7,8 GPE
+
+At present , exports account for more than 30 % of its GDP , which is one of the primary economic growth forces .
+IN JJ , NNS VBP IN JJR IN CD NN IN PRP$ NNP , WDT VBZ CD IN DT JJ JJ NN NNS .
+11,12,11,12 GPE
+
+After the outbreak of Mexico 's financial crisis in 1994 , Mexico 's currency , the peso was greatly devalued , thus greatly strengthening Mexico 's export competitiveness .
+IN DT NN IN NNP POS JJ NN IN CD , NNP POS NN , DT NN VBD RB VBN , RB RB VBG NNP POS NN NN .
+4,5,4,5 GPE|11,12,11,12 GPE|24,25,24,25 GPE
+
+In the last several years , the government has been vigorously supporting exports , and exports grew rapidly .
+IN DT JJ JJ NNS , DT NN VBZ VBN RB VBG NNS , CC NNS VBD RB .
+6,8,7,8 GPE
+
+In 1995 , the situation of successive foreign trade deficit reversed , and up to now , has maintained trade surpluses for three years in a row .
+IN CD , DT NN IN JJ JJ NN NN VBD , CC RB TO RB , VBZ VBN NN NNS IN CD NNS IN DT NN .
+
+
+However , in the past three years , Mexico 's foreign trade surplus showed a substantial degradation : 7.889 billion US dollars in 1995 , 6.424 billion US dollars in 1996 , and only 582 million US dollars last year .
+RB , IN DT JJ CD NNS , NNP POS JJ NN NN VBD DT JJ NN : CD CD NNP NNS IN CD , CD CD NNP NNS IN CD , CC RB CD CD NNP NNS JJ NN .
+8,9,8,9 GPE|20,21,20,21 GPE|27,28,27,28 GPE|36,37,36,37 GPE
+
+Especially deserving to be pointed out is that , after the first monthly deficit in July last year , the rest of the year saw successive monthly deficits with the amounts of deficit almost doubling , roaring from 20 million US dollars in July to 722 million US dollars in December , reducing the 1997 annual accumulative trade surplus amount to a trivial number .
+RB JJ TO VB VBN RP VBZ IN , IN DT JJ JJ NN IN NNP JJ NN , DT NN IN DT NN VBD JJ JJ NNS IN DT NNS IN NN RB VBG , VBG IN CD CD NNP NNS IN NNP TO CD CD NNP NNS IN NNP , VBG DT CD JJ JJ NN NN NN TO DT JJ NN .
+40,41,40,41 GPE|47,48,47,48 GPE
+
+Local economic analysts felt that the trade deficit in the second half of last year was mainly due to an overly high import growth rate , which is even higher than that of exports .
+JJ JJ NNS VBD IN DT NN NN IN DT JJ NN IN JJ NN VBD RB JJ TO DT RB JJ NN NN NN , WDT VBZ RB JJR IN DT IN NNS .
+0,3,2,3 PER
+
+In the second half of last year , the average growth rate of imports was 6 % to 7 % higher than that of exports .
+IN DT JJ NN IN JJ NN , DT JJ NN NN IN NNS VBD CD NN TO CD NN JJR IN DT IN NNS .
+
+
+Among import sectors , swift growth comes mainly from imports of consumer products and capital goods , 39.9 % and 38.2 % higher than that of 1996 respectively .
+IN NN NNS , JJ NN VBZ RB IN NNS IN NN NNS CC NN NNS , CD NN CC CD NN JJR IN DT IN CD RB .
+11,12,11,12 PER
+
+The growth of imports of semi-finished products was up by 18.8 % .
+DT NN IN NNS IN JJ NNS VBD RP IN CD NN .
+
+
+Secondly , the overly high valuation of the peso is also an indispensable factor .
+RB , DT RB JJ NN IN DT NN VBZ RB DT JJ NN .
+
+
+An overly high peso exchange rate stimulated imports , but hindered exports .
+DT RB JJ NN NN NN VBN NNS , CC VBD NNS .
+
+
+It is commonly known that in 1994 , before the outbreak of the financial crisis , the trade deficit was once as high as more than 18 billion US dollars .
+PRP VBZ RB VBN IN IN CD , IN DT NN IN DT JJ NN , DT NN NN VBD RB RB JJ IN JJR IN CD CD NNP NNS .
+28,29,28,29 GPE
+
+The huge trade deficit was one of the internal reasons that triggered this crisis .
+DT JJ NN NN VBD CD IN DT JJ NNS WDT VBD DT NN .
+
+
+Hence , the trade situation last year has caused extreme concern among people from economic circles , who even predicted that in 1998 , foreign trade deficit would revive .
+RB , DT NN NN JJ NN VBZ VBN JJ NN IN NNS IN JJ NNS , WP RB VBD IN IN CD , JJ NN NN MD VB .
+12,29,12,13 PER|17,18,17,18 PER
+
+They pointed out that , this year , except for an overly high peso exchange rate , exports would also face some new unfavorable factors .
+PRP VBD RP IN , DT NN , IN IN DT RB JJ NN NN NN , NNS MD RB VB DT JJ JJ NNS .
+0,1,0,1 PER
+
+For instance , Asian currency devaluation will decrease export competitiveness , and the fall of oil price will significantly reduce oil revenues .
+IN NN , JJ NN NN MD VB NN NN , CC DT NN IN NN NN MD RB VB NN NNS .
+3,4,3,4 GPE
+
+Under these circumstances , if the import growth momentum cannot be restrained , this year , a trade deficit of 4 to 5 billion US dollars may appear .
+IN DT NNS , IN DT NN NN NN NN VB JJ , DT NN , DT NN NN IN CD TO CD CD NNP NNS MD VB .
+24,25,24,25 GPE
+
+( End )
+-LRB- NN -RRB-
+
+
+chtb_028.eng NEWS STORY
+NN NN NN
+
+
+1996-03-19
+CD
+
+
+General Electric to establish a 14th joint venture enterprise in China
+NNP NNP TO VB DT JJ JJ NN NN IN NNP
+
+
+Xinhua News Agency , Beijing , March 18th
+NNP NNP NNP , NNP , NNP JJ
+0,3,0,3 ORG|4,5,4,5 GPE
+
+General Electric of the US and the Southwest Medical Equipment Factory of the Medical Appliance Industry Company of China recently signed a contract to jointly invest 6 million US dollars to establish a joint venture enterprise in Chengdu .
+NNP NNP IN DT NNP CC DT NNP NNP NNP NN IN DT NNP NNP NNP NNP IN NNP RB VBD DT NN TO RB VB CD CD NNP NNS TO VB DT JJ NN NN IN NNP .
+0,5,0,2 ORG|3,5,4,5 GPE|6,19,7,11 ORG|12,17,13,17 ORG|18,19,18,19 GPE|28,29,28,29 GPE|37,38,37,38 GPE
+
+It is reported that this is the 14th joint venture enterprise to be established in China by the investment by General Electric .
+PRP VBZ VBN IN DT VBZ DT JJ JJ NN NN TO VB VBN IN NNP IN DT NN IN NNP NNP .
+15,16,15,16 GPE|20,22,20,22 ORG
+
+At present , the total amount of investment of GE in China has reached 150 million US dollars .
+IN JJ , DT JJ NN IN NN IN NNP IN NNP VBZ VBN CD CD NNP NNS .
+9,10,9,10 ORG|11,12,11,12 GPE|16,17,16,17 GPE
+
+This new enterprise , named Chengdu General Medical Equipment ( Southwest ) Co. , Ltd. , will be engaged mainly in developing , producing , manufacturing , assembling and marketing X-ray equipment for medical diagnoses purposes , in import and export trade , consultation and technical cooperation , etc .
+DT JJ NN , VBN NNP NNP NNP NNP -LRB- NNP -RRB- NNP , NNP , MD VB VBN RB IN VBG , VBG , VBG , VBG CC VBG NN NN IN JJ NNS NNS , IN NN CC NN NN , NN CC JJ NN , FW .
+5,15,5,15 ORG
+
+Apart from setting up joint venture enterprises , GE also invested more than 1 billion US dollars in China by means of airplane and container leasing .
+RB IN VBG RP JJ NN NNS , NNP RB VBD JJR IN CD CD NNP NNS IN NNP IN NNS IN NN CC NN NN .
+8,9,8,9 ORG|15,16,15,16 GPE|18,19,18,19 GPE|22,23,22,23 VEH
+
+GE now has more than 8,000 employees in China .
+NNP RB VBZ JJR IN CD NNS IN NNP .
+0,1,0,1 ORG|3,7,6,7 PER|8,9,8,9 GPE
+
+Moreover , in 1994 , GE purchased more than 40 million US dollars in products in China , and planned to increase purchasing volume of Chinese products in the next two years .
+RB , IN CD , NNP VBD JJR IN CD CD NNP NNS IN NNS IN NNP , CC VBD TO VB VBG NN IN JJ NNS IN DT JJ CD NNS .
+5,6,5,6 ORG|11,12,11,12 GPE|16,17,16,17 GPE|25,26,25,26 GPE
+
+( End )
+-LRB- NN -RRB-
+
+
+NYT20001109.1946.0315 NEWS STORY 2000-11-09 20:10:00
+NNP NN NN CD NN
+
+
+A3555 & Cx1f ; taf-z u p BC-ELN-NADER-NYT & LR ; 11-09 0796
+NNP CC NNP : NN NN NN NNP CC NNP : CD CD
+
+
+BC-ELN-NADER-NYT
+NNP
+
+
+NADER VOTERS GO ONLINE TO EXPRESS ANGER , REGRET AND SOME SUPPORT
+IN NNS NNP NNP TO NNP NNP , NNP CC NNP NNP
+
+
+& UR ; By JAMES DAO & LR ; & QC ; & QL ; & UR ; c.2000 N.Y. Times News Service & LR ; & QC ; & QL ;
+CC NNP : IN NNP NNP CC NNP : CC NNP : CC NNP : CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+WASHINGTON _ Ralph Nader may not be feeling any regrets about his Green Party presidential campaign , but some visitors to the chat room on Nader2000.org , Nader 's official campaign website , sounded as if a bad hangover had come crashing down on them .
+NNP NN NNP NNP MD RB VB VBG DT NNS IN PRP$ NNP NNP JJ NN , CC DT NNS TO DT VB NN IN NNP , NNP POS JJ NN NN , VBD IN IN DT JJ NN VBD VBN VBG RP IN PRP .
+0,1,0,1 GPE|2,4,2,4 PER|11,12,11,12 PER|12,14,12,14 ORG|14,15,14,15 PER|18,32,19,20 PER|27,28,27,28 PER|44,45,44,45 PER
+
+There was this entry , for instance , posted Thursday morning by a writer named `` wreckz '' :
+EX VBD DT NN , IN NN , VBD NNP NN IN DT NN VBN `` NN '' :
+12,17,13,14 PER|16,17,16,17 PER
+
+`` I , too , feel I should apologize to America .
+`` PRP , RB , VB PRP MD VB TO NNP .
+1,2,1,2 PER|6,7,6,7 PER|10,11,10,11 GPE
+
+I was duped .
+PRP VBD VBN .
+0,1,0,1 PER
+
+Ralph Nader 's enjoyment of all of this is an indication of a man more concerned with vindictive politics than the future of our country and planet .
+NNP NNP POS NN IN DT IN DT VBZ DT NN IN DT NN JJR VBN IN JJ NNS IN DT NN IN PRP$ NN CC NN .
+0,2,0,2 PER|12,27,13,14 PER|23,24,23,24 GPE|23,27,24,27 GPE
+
+I am no longer a member of the Green Party .
+PRP VBP DT JJR DT NN IN DT NNP NNP .
+0,1,0,1 PER|4,10,5,6 PER|7,10,8,10 ORG
+
+Instead , I 'm a member of the green movement _ a movement without Ralph Nader . ''
+RB , PRP VBP DT NN IN DT JJ NN NN DT NN IN NNP NNP . ''
+2,3,2,3 PER|4,16,5,6 PER|7,10,9,10 ORG|11,16,12,13 ORG|14,16,14,16 PER
+
+Or this one , also posted Thursday morning , from `` Noni '' :
+CC DT NN , RB VBD NNP NN , IN `` NNP '' :
+11,12,11,12 PER
+
+`` I saw an interview with Ralph Nader today and he seemed to be enjoying what has happened !
+`` PRP VBD DT NN IN NNP NNP NN CC PRP VBD TO VB VBG WP VBZ VBN .
+1,2,1,2 PER|6,8,6,8 PER|10,11,10,11 PER
+
+I 've never seen him smile so broadly .
+PRP VBP RB VBN PRP VBP RB RB .
+0,1,0,1 PER|4,5,4,5 PER
+
+I regret my support .
+PRP VBP PRP$ NN .
+0,1,0,1 PER|2,3,2,3 PER
+
+Nader , you 're a well-intending man and I agree with most of your positions .
+NNP , PRP VBP DT JJ NN CC PRP VBP IN JJS IN PRP$ NNS .
+0,1,0,1 PER|2,3,2,3 PER|4,7,6,7 PER|8,9,8,9 PER|13,14,13,14 PER
+
+But the symbolic run for the White House has destroyed our Party and our cause .
+CC DT JJ NN IN DT NNP NNP VBZ VBN PRP$ NNP CC PRP$ NN .
+5,8,6,8 ORG|10,11,10,11 ORG|10,12,11,12 ORG|13,14,13,14 ORG
+
+Very bad things are in our future .
+NNP JJ NNS VBP IN PRP$ NN .
+5,6,5,6 ORG
+
+You should not be smiling .
+PRP MD RB VB VBG .
+0,1,0,1 PER
+
+And we , the misled , should feel shame for what we 've done . ''
+CC PRP , DT VBD , MD VB NN IN WP PRP VBP VBN . ''
+1,2,1,2 PER|11,12,11,12 PER
+
+The remarks expressed fears that votes for Nader may have put Gov. George W. Bush in a position to defeat Vice President Al Gore .
+DT NNS VBD NNS IN NNS IN NNP MD VB VBN NNP NNP NNP NNP IN DT NN TO VB NNP NNP NNP NNP .
+7,8,7,8 PER|11,12,11,12 PER|11,15,12,15 PER|20,22,21,22 PER|20,24,22,24 PER
+
+In Florida , where Gore trailed Bush by only a few hundred votes Thursday , a shift of just a fraction of Nader 's 95,000 votes could have given the state , and the White House , to Gore , the most likely major-party alternative for Nader 's supporters .
+IN NNP , WRB NNP VBD NNP IN RB DT JJ CD NNS NNP , DT NN IN RB DT NN IN NNP POS CD NNS MD VB VBN DT NN , CC DT NNP NNP , TO NNP , DT RBS JJ JJ NN IN NNP POS NNS .
+1,13,1,2 GPE|3,4,3,4 GPE|4,5,4,5 PER|6,7,6,7 PER|22,23,22,23 PER|29,31,30,31 GPE|33,36,34,36 ORG|38,49,38,39 PER|40,49,44,45 PER|46,47,46,47 PER|46,49,48,49 PER
+
+John Ruth , for example , wrote on the Nader2000 site Thursday morning that he voted for Nader because he thought they `` shared a common goal '' but that he was now regretting it .
+NNP NNP , IN NN , VBD IN DT NNP NN NNP NN IN PRP VBD IN NNP IN PRP VBD PRP `` VBD DT JJ NN '' CC IN PRP VBD RB VBG PRP .
+0,2,0,2 PER|14,15,14,15 PER|17,18,17,18 PER|19,20,19,20 PER|21,22,21,22 PER|30,31,30,31 PER
+
+`` Gore ( despite what you have said ) is NOT an environmental clone of G.W. Bush .
+`` NNP -LRB- IN WP PRP VBP VBD -RRB- VBZ NNP DT JJ NN IN NNP NNP .
+1,2,1,2 PER|5,6,5,6 PER|11,17,13,14 PER|15,17,15,17 PER
+
+Because of your actions and statements prior to Nov. 7th , we are on the brink of a Bush presidency .
+IN IN PRP$ NNS CC NNS RB TO NNP NN , PRP VBP IN DT NN IN DT NNP NN .
+2,3,2,3 PER|11,12,11,12 PER|18,19,18,19 PER
+
+No money , no support , no respect for you , Ralph , ever again ! ''
+DT NN , DT NN , DT NN IN PRP , NNP , RB RB . ''
+9,10,9,10 PER|11,12,11,12 PER
+
+And in Oregon , a state that was still too close to call Thursday afternoon , Nader won about 5 percent of the vote _ enough to cause some Nader voters to feel morning-after qualms .
+CC IN NNP , DT NN WDT VBD RB RB VB TO VB NNP NN , NNP VBD IN CD NN IN DT NN NN RB TO VB DT NNP NNS TO VB JJ NNS .
+2,3,2,3 GPE|4,15,5,6 GPE|16,17,16,17 PER|28,31,30,31 PER|29,30,29,30 PER
+
+Julie Quastler , 28 , who voted for Nader in Portland , said on Wednesday that she was feeling `` a little alarmed and disappointed '' that Bush seemed on the brink of winning the presidency _ suggesting that she did not accept Nader 's assertion that the two parties were equally bad .
+NNP NNP , CD , WP VBD IN NNP IN NNP , VBD IN NNP IN PRP VBD VBG `` DT RB VBN CC VBN '' IN NNP VBD IN DT NN IN VBG DT NN NN VBG IN PRP VBD RB VB NNP POS NN IN DT CD NNS VBD RB JJ .
+0,11,0,2 PER|5,6,5,6 PER|8,9,8,9 PER|10,11,10,11 GPE|16,17,16,17 PER|27,28,27,28 PER|39,40,39,40 PER|43,44,43,44 PER|47,50,49,50 ORG
+
+`` I 'm just so sad , '' she said .
+`` PRP VBP RB RB JJ , '' PRP VBD .
+1,2,1,2 PER
+
+`` Bush is probably going to be our president and Nader did n't get his 5 percent .
+`` NNP VBZ RB VBG TO VB PRP$ NN CC NNP VBD RB VB PRP$ CD NN .
+1,2,1,2 PER|7,8,7,8 GPE|7,9,8,9 PER|10,11,10,11 PER|14,15,14,15 PER
+
+It seems like a lose-lose end result in some ways . ''
+PRP VBZ IN DT JJ NN NN IN DT NNS . ''
+
+
+Winning 5 percent of the vote nationwide would have qualified the Green Party for millions of dollars in federal campaign funds in 2004 .
+VBG CD NN IN DT NN JJ MD VB VBN DT NNP NNP IN NNS IN NNS IN JJ NN NNS IN CD .
+10,13,11,13 ORG
+
+But Quastler , the development director for a nonprofit cafe , said she did not feel guilty about her vote .
+CC NNP , DT NN NN IN DT JJ NN , VBD PRP VBD RB VB JJ IN PRP$ NN .
+1,2,1,2 PER|3,10,5,6 PER|7,10,9,10 ORG|12,13,12,13 PER|18,19,18,19 PER
+
+`` I voted for Nader because he was most aligned with my values , '' she said .
+`` PRP VBD IN NNP IN PRP VBD RBS VBN IN PRP$ NNS , '' PRP VBD .
+1,2,1,2 PER|4,5,4,5 PER|6,7,6,7 PER|11,12,11,12 PER|15,16,15,16 PER
+
+Of course , there were also countless verbal high-fives among Nader supporters Thursday who felt the Green Party had sent a bracing wake-up call to the two major parties .
+IN NN , EX VBD RB JJ JJ NN IN NNP NNS NNP WP VBD DT NNP NNP VBD VBN DT VBG NN NN TO DT CD JJ NNS .
+10,11,10,11 PER|10,29,11,12 PER|13,14,13,14 PER|15,18,16,18 ORG|25,29,28,29 ORG
+
+`` Stand tall and proud , fellow Nader supporters , '' said one message on the Nader2000 site signed GO LOOK ELSEWHERE FOR SCAPEGOATS .
+`` VB JJ CC JJ , JJ NNP NNS , '' VBD CD NN IN DT NNP NN VBD NNP NNP NNP IN NNS .
+7,8,7,8 PER
+
+`` We fought the good fight for what we believed in .
+`` PRP VBD DT JJ NN IN WP PRP VBD IN .
+1,2,1,2 PER|8,9,8,9 PER
+
+This does not make us villains . ''
+DT VBZ RB VB PRP NNS . ''
+4,5,4,5 PER|5,6,5,6 PER
+
+Such sentiments seemed particularly strong in Florida .
+JJ NNS VBD RB JJ IN NNP .
+6,7,6,7 GPE
+
+Dorothy Byrne , a state coordinator for the Florida Green Party , said she had been inundated with angry phone calls and e-mails from Democrats , but has yet to receive one regretful note from a Nader voter .
+NNP NNP , DT NN NN IN DT NNP NNP NNP , VBD PRP VBD VBN VBN IN JJ NN NNS CC JJ IN NNPS , CC VBZ RB TO VB CD JJ NN IN DT NNP NN .
+0,2,0,2 PER|3,11,5,6 PER|4,5,4,5 GPE|7,11,9,11 ORG|8,9,8,9 GPE|13,14,13,14 PER|24,25,24,25 PER|35,38,37,38 PER|36,37,36,37 PER
+
+`` I can see positives for the Greens with either Bush or Gore being president , '' she said .
+`` PRP MD VB NNS IN DT NNP IN DT NNP CC NNP VBG NN , '' PRP VBD .
+1,2,1,2 PER|6,8,7,8 ORG|10,11,10,11 PER|12,13,12,13 PER|14,15,14,15 PER|17,18,17,18 PER
+
+`` If Gore was in , we would n't have to worry about women 's reproductive rights .
+`` IN NNP VBD IN , PRP MD RB VB TO VB IN NNS POS JJ NNS .
+2,3,2,3 PER|13,14,13,14 PER
+
+But his record on the environment is so abysmal I do n't see how Bush can be any worse . ''
+CC PRP$ NN IN DT NN VBZ RB JJ PRP VBP RB VB WRB NNP MD VB DT JJR . ''
+1,2,1,2 PER|9,10,9,10 PER|14,15,14,15 PER
+
+Barbara Lange , the Everglades chairwoman for the Florida chapter of the Sierra Club , said she and other environmentalists voted for Nader because Gore had not taken a stand against the development of a commercial airport near the Everglades .
+NNP NNP , DT NNS NN IN DT NNP NN IN DT NNP NNP , VBD PRP CC JJ NNS VBD IN NNP IN NNP VBD RB VBN DT NN IN DT NN IN DT JJ NN IN DT NNS .
+0,2,0,2 PER|3,14,5,6 PER|4,5,4,5 LOC|7,14,9,10 ORG|8,9,8,9 GPE|11,14,12,14 ORG|16,17,16,17 PER|18,20,19,20 PER|22,23,22,23 PER|24,25,24,25 PER|34,40,36,37 FAC|38,40,39,40 LOC
+
+`` I voted my conscience , '' she said .
+`` PRP VBD PRP$ NN , '' PRP VBD .
+1,2,1,2 PER|3,4,3,4 PER|7,8,7,8 PER
+
+`` And I 'm okay with that . ''
+`` CC PRP VBP JJ IN DT . ''
+2,3,2,3 PER
+
+Patricia Newell , an organizer for Nader at the University of Florida in Gainesville , said that Nader had won far fewer votes in Florida than his supporters had expected _ due , she said , to `` scare tactics '' by the Democrats .
+NNP NNP , DT NN IN NNP IN DT NNP IN NNP IN NNP , VBD IN NNP VBD VBN RB JJR NNS IN NNP IN PRP$ NNS VBD VBN NN JJ , PRP VBD , TO `` VB NNS '' IN DT NNPS .
+0,2,0,2 PER|3,14,4,5 PER|6,7,6,7 PER|8,14,9,12 ORG|13,14,13,14 GPE|17,18,17,18 PER|24,25,24,25 GPE|26,27,26,27 PER|26,28,27,28 PER|33,34,33,34 PER|42,44,43,44 ORG
+
+`` Anyone who voted with Nader on Tuesday knew exactly what they were doing , '' she said .
+`` NN WP VBD IN NNP IN NNP VBD RB WP PRP VBD VBG , '' PRP VBD .
+1,8,1,2 PER|2,3,2,3 PER|5,6,5,6 PER|11,12,11,12 PER|16,17,16,17 PER
+
+`` On the contrary to feeling guilty , they feel very good about sticking with the candidate that they felt was best . ''
+`` IN DT NN TO VBG JJ , PRP VBP RB JJ IN VBG IN DT NN IN PRP VBD VBD JJS . ''
+8,9,8,9 PER|15,22,16,17 PER|17,18,17,18 PER|18,19,18,19 PER
+
+NYT-11-09-00 2010EST
+NNP JJS
+
+
+NYT20001114.0210.0200 NEWS STORY 2000-11-14 15:53:00
+NNP NN NN CD NN
+
+
+A8685 & Cx1f ; taf-z u d BC-SIMPLE-COOKING-NYT & LR ; 11-14 0619
+NNP CC NNP : NN NN SYM NNP CC NNP : CD CD
+
+
+BC-SIMPLE-COOKING-NYT
+NNP
+
+
+PUDDING , SWEET AND NOT
+VBG , NNP CC NNP
+
+
+& UR ; By MARK HULBERT & LR ; & QC ; & QL ; & UR ; c.2000 N.Y. Times News Service & LR ; & QC ; & QL ;
+CC NNP : IN NNP NNP CC NNP : CC NNP : CC NNP : CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+NEW YORK _ Bread pudding is one of the most traditional American dishes ; cookbooks from the 18th century have recipes for it that are more or less the same as what we make today .
+NNP NNP NN NN NN VBZ CD IN DT RBS JJ JJ NNS : NNS IN DT JJ NN VBP NNS IN PRP WDT VBP JJR CC JJR DT JJ IN WP PRP VBP NN .
+0,2,0,2 GPE|11,12,11,12 GPE|32,33,32,33 PER
+
+But bread pudding is also a minimalist sort of dish , no more than dry bread mixed together with milk and eggs and whatever flavor strikes the cook , and then baked until it is rich and custardy .
+CC NN NN VBZ RB DT JJ NN IN NN , RB JJR IN JJ NN JJ RB IN NN CC NNS CC WDT NN VBZ DT NN , CC RB JJ IN PRP VBZ JJ CC JJ .
+26,28,27,28 PER
+
+It can be savory or sweet , and either makes a simple , interesting substitute for a standard part of the Thanksgiving meal .
+PRP MD VB JJ CC JJ , CC DT VBZ DT JJ , JJ NN IN DT JJ NN IN DT NNP NN .
+
+
+Savory bread pudding is a luxurious side dish that can be served in place of stuffing .
+NN NN NN VBZ DT JJ NN NN WDT MD VB VBN IN NN IN VBG .
+
+
+Or it can be the extra stuffing that everyone always wants ( but not dry like the usual kind baked outside a turkey can be ) .
+CC PRP MD VB DT JJ NN DT NN RB VBZ -LRB- CC RB JJ IN DT JJ NN JJ IN DT NN MD VB -RRB- .
+8,9,8,9 PER
+
+My basic recipe combines the cubed bread , eggs and milk with a couple of cheeses .
+PRP$ JJ NN VBZ DT VBN NN , NNS CC NN IN DT NN IN NNS .
+0,1,0,1 PER
+
+( If you 're desperate for oven space , bake it and then heat it just before serving , or serve it at room temperature . )
+-LRB- IN PRP VBP JJ IN VBN NN , NN PRP CC RB NN PRP RB IN VBG , CC VB PRP IN NN NN . -RRB-
+2,3,2,3 PER
+
+You can make it without the mushrooms , too .
+PRP MD VB PRP IN DT NNS , RB .
+0,1,0,1 PER
+
+The pudding can also be varied by adding a pinch of thyme or sage , chopped nuts or cooked chestnuts , or about a cup of grated sweet potato or chopped scallions .
+DT NN MD RB VB VBN IN VBG DT NN IN NN CC NN , VBN NNS CC VBN NNS , CC IN DT NN IN JJ JJ NN CC VBN NNS .
+
+
+If you want a pudding that tastes more like stuffing , just add chopped celery , onions , carrots and herbs .
+IN PRP VBP DT NN IN NNS RBR IN VBG , RB VB VBN NN , NNS , NNS CC NNS .
+1,2,1,2 PER
+
+Sweet bread pudding is made the same way , but with fewer ingredients .
+NNP NN NN VBZ VBN DT JJ NN , CC IN JJR NNS .
+
+
+I use maple syrup instead of sugar for the extra flavor and moisture .
+PRP VBP JJ NN RB IN NN IN DT JJ NN CC NN .
+0,1,0,1 PER
+
+You can add more spices , including a small grating of nutmeg , chopped crystallized ginger , raisins or prunes soaked in Armagnac .
+PRP MD VB JJR NNS , VBG DT JJ NN IN NN , VBN VBN NN , NNS CC NNS VBD IN NNP .
+0,1,0,1 PER
+
+The kind of bread you choose makes a difference .
+DT NN IN NN PRP VBP VBZ DT NN .
+4,5,4,5 PER
+
+Fluffy packaged white bread disappears ; the crusts of crisp baguettes and peasant breads never become tender .
+NNP VBN JJ NN VBZ : DT NNS IN JJ NNS CC NN NNS RB VBP NN .
+
+
+For savory pudding , stick to long , wide inexpensive loaves , usually called Italian bread ; for sweet pudding , stale hallah is best .
+IN JJ NN , VBP TO JJ , JJ JJ NNS , RB VBN JJ NN : IN JJ NN , JJ NN VBZ JJS .
+
+
+And make sure the bread is thoroughly and evenly soaked before it 's baked ; I like to submerge the bread with a weighted plate before baking .
+CC VB JJ DT NN VBZ RB CC RB JJ IN PRP VBZ JJ : PRP VBP TO VB DT NN IN DT JJ NN IN VBG .
+15,16,15,16 PER
+
+Then you do n't even have to stir .
+RB PRP VBP RB RB VB TO VB .
+1,2,1,2 PER
+
+& UR ; SWEET BREAD PUDDING & LR ;
+CC NNP : NNP NNP VBG CC NNP :
+
+
+& UR ; Time : 1 hour , largely unattended & LR ;
+CC NNP : NNP : CD NN , RB JJ CC NNP :
+
+
+4 tablespoons butter
+CD NNS NN
+
+
+6 cups white bread , cut or torn into 1-inch chunks
+CD NNS JJ NN , VBN CC VBN IN JJ NNS
+
+
+2 cups half-and-half
+CD NNS JJ
+
+
+4 eggs
+CD NNS
+
+
+} cup maple syrup or sugar
+-RRB- NN JJ NN CC NN
+
+
+{ teaspoon cinnamon
+-LRB- NN NN
+
+
+Pinch salt .
+NNP NN .
+
+
+1 .
+CD .
+
+
+Butter an 8-inch souffle or baking dish , and add bread .
+IN DT JJ NN CC VBG NN , CC VB NN .
+
+
+Cut remaining butter into bits , and combine with all other ingredients ; pour over bread .
+NNP VBG NN IN NNS , CC VB IN DT JJ NNS : VBP IN NN .
+
+
+Submerge bread with weighted plate , and turn oven to 350 degrees .
+JJ NN IN JJ NN , CC VB VBN TO CD NNS .
+
+
+2 .
+CD .
+
+
+When oven is hot , remove the plate and bake until pudding is just set , 35 to 45 minutes .
+WRB JJ VBZ JJ , VB DT NN CC NN IN NN VBZ RB VBN , CD TO CD NNS .
+
+
+Serve with or without whipped cream .
+NNP IN CC IN VBN NN .
+
+
+Yield : 6 or more servings .
+NN : CD CC JJR NNS .
+
+
+Variation : To make chocolate bread pudding , melt 2 ounces chopped bittersweet chocolate in the milk , let cool slightly and add to mixture .
+NN : TO VB NN NN NN , VB CD NNS VBN JJ NN IN DT NN , VB JJ RB CC VB TO NN .
+
+
+& UR ; SAVORY BREAD PUDDING & LR ;
+CC NNP : NN RB VBG CC NNP :
+
+
+& UR ; Time : 1 hour , largely unattended & LR ;
+CC NNP : NNP : CD NN , RB JJ CC NNP :
+
+
+2 tablespoons butter or olive oil , plus more for greasing the pan
+CD NNS NN CC JJ NN , CC JJR IN VBG DT VB
+
+
+6 cups dense white bread , cut or torn into 1-inch chunks
+CD NNS JJ JJ NN , VBN CC VBN IN JJ NNS
+
+
+2 cups milk
+CD NNS NN
+
+
+4 eggs
+CD NNS
+
+
+Salt and fresh black pepper
+NNP CC JJ JJ NN
+
+
+2 ounces grated Parmesan
+CD NNS VBD NNP
+
+
+4 ounces freshly grated semisoft cheese , like Emmenthal
+CD NNS RB VBD NN NN , IN NNP
+
+
+1 cup sliced shiitake mushroom caps .
+CD NN VBD NN NN NNS .
+
+
+1 .
+CD .
+
+
+Butter or oil an 8-inch souffle or baking dish , and put bread in it .
+NN CC NN DT JJ NN CC VBG NN , CC VBD NN IN PRP .
+
+
+Combine everything but shiitakes , and pour over bread .
+JJ NN CC NN , CC VBP IN NN .
+
+
+Submerge bread with a weighted plate , and turn oven to 350 degrees .
+JJ NN IN DT JJ NN , CC VB VBN TO CD NNS .
+
+
+Heat 2 tablespoons butter or oil in a saute pan , add shiitakes and saute until tender , about 10 minutes .
+NNP CD NNS NN CC NN IN DT NN VB , VB NN CC NN IN NN , IN CD NNS .
+
+
+2 .
+CD .
+
+
+Remove plate , and stir in mushrooms .
+NNP NN , CC VB IN NNS .
+
+
+Bake until pudding is just set , 35 to 45 minutes .
+NNP IN NN VBZ RB VBN , CD TO CD NNS .
+
+
+Yield : At least 6 servings .
+NN : IN JJS CD NNS .
+
+
+NYT-11-14-00 1553EST
+NNP JJS
+
+
+NYT20001021.1123.0068 NEWS STORY 2000-10-21 11:23:00
+NNP NN NN CD NN
+
+
+A1772 & Cx1f ; taf-z u i BC-POPE-RETIRE-NYT & LR ; 10-21 0573
+NNP CC NNP : NN NN FW NNP CC NNP : CD CD
+
+
+BC-POPE-RETIRE-NYT
+NNP
+
+
+CARDINAL'S BOOK FUELS TALK THAT POPE WILL STEP DOWN
+NNP NNP NNP NNP WDT NNP MD NNP NNP
+
+
+& UR ; By ALESSANDRA STANLEY & LR ; & QC ; & QL ; & UR ; c.2000 N.Y. Times News Service & LR ; & QC ; & QL ;
+CC NNP : IN NNP NNP CC NNP : CC NNP : CC NNP : CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+ROME _ Fueling speculation that John Paul II might retire at the end of this year , a Belgian cardinal says he believes that the frail , ailing pope could do exactly that .
+NNP NN VBG NN IN NNP NNP NNP MD VB IN DT NN IN DT NN , DT JJ NN VBZ PRP VBZ IN DT JJ , VBG NN MD VB RB DT .
+0,1,0,1 GPE|5,8,5,8 PER|17,20,19,20 PER|18,19,18,19 GPE|21,22,21,22 PER|24,29,28,29 PER
+
+`` It would not surprise me if the pope were to retire after 2000 , '' says Cardinal Godfried Danneels in a book to be published on Monday in Belgium .
+`` PRP MD RB VB PRP IN DT NN VBD TO VB IN CD , '' VBZ NNP VBD NNS IN DT NN TO VB VBN IN NNP IN NNP .
+5,6,5,6 PER|7,9,8,9 PER|17,18,17,18 PER|17,20,18,20 PER|29,30,29,30 GPE
+
+`` He wanted at all costs to reach the Jubilee year 2000 , but I consider him capable of retiring afterward . ''
+`` PRP VBD IN DT NNS TO VB DT NNP NN CD , CC PRP VBP PRP JJ IN VBG RB . ''
+1,2,1,2 PER|14,15,14,15 PER|16,17,16,17 PER
+
+Danneels is not the first Roman Catholic Church official to broach a topic considered taboo at the Vatican , but he is the highest-ranking leader to address the question so openly .
+NNP VBZ RB DT JJ NNP NNP NNP NN TO VB DT NN VBN JJ IN DT NNP , CC PRP VBZ DT JJ NN TO VB DT NN RB RB .
+0,1,0,1 PER|3,9,8,9 PER|5,8,5,8 ORG|16,18,17,18 ORG|20,21,20,21 PER|22,25,24,25 PER
+
+The Vatican spokesman , Joaquin Navarro-Valls , issued a terse reaction , saying `` this is the personal opinion of Cardinal Danneels that we do not confirm . ''
+DT NNP NN , NNP NNP , VBD DT JJ NN , VBG `` DT VBZ DT JJ NN IN NNP NNPS IN PRP VBP RB VB . ''
+0,3,2,3 PER|1,2,1,2 ORG|4,6,4,6 PER|20,21,20,21 PER|20,22,21,22 PER|23,24,23,24 ORG
+
+The cardinal spoke in answer to a question in an interview included in his book , `` Frankly Speaking : Six Conversations with the Cardinal . ''
+DT NN VBD IN NN TO DT NN IN DT NN VBD IN PRP$ NN , `` RB VBG : CD NNS IN DT NNP . ''
+0,2,1,2 PER|13,14,13,14 PER|23,25,24,25 PER
+
+Speculation that John Paul might step down if his health deteriorates to the extent that he cannot fulfill his duties has echoed around the church ever since he turned 75 , the mandatory retirement age for bishops , in 1995 .
+NN IN NNP NNP MD VB RP IN PRP$ NN VBZ TO DT NN IN PRP NN VBP PRP$ NNS VBZ VBN IN DT NN RB IN PRP VBD CD , DT JJ NN NN IN NNS , IN CD .
+2,4,2,4 PER|8,9,8,9 PER|15,16,15,16 PER|18,19,18,19 PER|23,25,24,25 ORG|27,28,27,28 PER|36,37,36,37 PER
+
+The rumors grew louder as the pope visibly weakened and this year passed his 80th birthday , the age at which cardinals become ineligible to vote in a conclave for the next pope .
+DT NNS VBD JJR IN DT NN RB VBD CC DT NN VBD PRP$ NN NN , DT NN IN WDT NNS VBP JJ TO VB IN DT NN IN DT JJ NN .
+5,7,6,7 PER|13,14,13,14 PER|21,22,21,22 PER|30,33,32,33 PER
+
+In January , Bishop Karl Lehmann , leader of the German Bishops Conference , unleashed a flurry of articles in the Italian press when he told a questioner on German radio that he believed that the pope would resign for the good of the church if he felt he could not fulfill his papal functions .
+IN NNP , NNP NNP NNP , NN IN DT JJ NNS NNP , VBD DT NN IN NNS IN DT JJ NN WRB PRP VBD DT NN IN JJ NN IN PRP VBD IN DT NN MD VB IN DT JJ IN DT NN IN PRP VBD PRP MD RB VB PRP$ NN NNS .
+3,4,3,4 PER|3,6,4,6 PER|7,13,7,8 PER|9,13,10,13 ORG|21,22,21,22 GPE|24,25,24,25 PER|26,28,27,28 PER|29,30,29,30 GPE|32,33,32,33 PER|35,37,36,37 PER|43,45,44,45 ORG|46,47,46,47 PER|48,49,48,49 PER|52,53,52,53 PER|53,54,53,54 PER
+
+The pope , whose speech is slurred and who shakes badly because of a neurological disorder , has nevertheless marshaled his strength to preside over this year 's Jubilee , a Holy Year of the church .
+DT NN , WP$ NN VBZ VBN CC WP VBZ RB IN IN DT JJ NN , VBZ RB VBN PRP$ NN TO RB IN DT NN POS NNP , DT NNP NN IN DT NN .
+0,16,1,2 PER|3,4,3,4 PER|8,9,8,9 PER|20,21,20,21 PER|34,36,35,36 ORG
+
+Once the Holy Year ends on Jan. 6 , however , many wonder whether he might retire .
+RB DT NNP NN VBZ IN NNP CD , RB , JJ NN IN PRP MD VB .
+11,12,11,12 PER|14,15,14,15 PER
+
+The pope has not addressed the issue directly , but his few comments on the subject suggest that he is determined to serve out his full term .
+DT NN VBZ RB VBN DT NN RB , CC PRP$ JJ NNS IN DT NN VBP IN PRP VBZ VBN TO VB RP PRP$ JJ NN .
+0,2,1,2 PER|10,11,10,11 PER|18,19,18,19 PER|24,25,24,25 PER
+
+On his 75th birthday , he told an audience of pilgrims at St. Peter 's , referring to God , `` I leave it to him to decide when and how he wants to relieve me of this service . ''
+IN PRP$ JJ NN , PRP VBD DT NN IN NNS IN NNP NNP POS , VBG TO NNP , `` PRP VBP PRP TO PRP TO VB WRB CC WRB PRP VBZ TO VB PRP IN DT NN . ''
+1,2,1,2 PER|5,6,5,6 PER|7,15,8,9 PER|10,11,10,11 PER|12,15,12,15 FAC|18,19,18,19 PER|21,22,21,22 PER|25,26,25,26 PER|31,32,31,32 PER|35,36,35,36 PER
+
+The pope keeps up a full schedule , and the Vatican says he wants to make other important trips in 2001 .
+DT NN VBZ RP DT JJ NN , CC DT NNP VBZ PRP VBZ TO VB JJ JJ NNS IN CD .
+0,2,1,2 PER|9,11,10,11 ORG|12,13,12,13 PER
+
+There is no detailed procedure for a papal resignation , and little precedent .
+EX VBZ DT JJ NN IN DT JJ NN , CC JJ NN .
+7,8,7,8 PER
+
+The last pope to resign voluntarily was Celestine V in 1294 .
+DT JJ NN TO VB RB VBD JJ NNP IN CD .
+0,6,2,3 PER|7,9,7,9 PER
+
+But canon law does allow a pope to resign , saying it is valid as long as the pope does it freely .
+CC NN NN VBZ VB DT NN TO VB , VBG PRP VBZ JJ IN RB IN DT NN VBZ PRP RB .
+5,7,6,7 PER|17,19,18,19 PER
+
+There are no explicit instructions on how the Vatican should function if a pope had a stroke or went into a coma and could not express his wishes .
+EX VBP DT JJ NNS IN WRB DT NNP MD VB IN DT NN VBD DT NN CC VBD IN DT NN CC MD RB VB PRP$ NNS .
+7,9,8,9 ORG|12,14,13,14 PER|26,27,26,27 PER
+
+The Rev. Thomas J. Reese , an American Jesuit who wrote a book on Vatican procedure , `` Inside the Vatican : The Politics and Organization of the Catholic Church , '' said , `` The real problem is if the pope can no longer govern , and is incapable of resigning . ''
+DT NNP NNP NNP NNP , DT NNP NNP WP VBD DT NN IN NNP NN , `` IN DT NNP : DT NNP CC NNP IN DT NNP NNP , '' VBD , `` DT JJ NN VBZ IN DT NN MD RB RB VB , CC VBZ JJ IN VBG . ''
+0,2,1,2 PER|0,5,2,5 PER|6,16,8,9 PER|7,8,7,8 GPE|9,10,9,10 PER|14,15,14,15 ORG|40,42,41,42 PER
+
+Some reform-minded Catholics believe that it would be healthier for the church if popes resigned when their health failed .
+DT JJ NNPS VBP IN PRP MD VB RBR IN DT NN IN NNS VBD WRB PRP$ NN VBD .
+0,3,2,3 PER|10,12,11,12 ORG|13,14,13,14 PER|16,17,16,17 PER
+
+Traditionalists reject all talk of papal resignations , fearful that such a precedent would undermine the special nature of papal authority , which Catholics believe comes directly from God .
+NNS VBP DT NN IN JJ NNS , JJ IN JJ DT NN MD VB DT JJ NN IN JJ NN , WDT NNPS VBP VBZ RB IN NNP .
+0,1,0,1 PER|5,6,5,6 PER|19,20,19,20 PER|23,24,23,24 PER|28,29,28,29 PER
+
+NYT-10-21-00 1123EDT
+NNP NN
+
+
+APW20001017.1313.0395 NEWS STORY 2000-10-17 13:42:09
+NNP NN NN CD NN
+
+
+Herblock 's-Acid-Pen
+JJR NN
+
+
+Congress Library Honors Cartoonist
+NNP NNP NNP NN
+
+
+WASHINGTON ( AP ) _ Herbert Lawrence Block is not subtle .
+NNP -LRB- NNP -RRB- NN NNP NNP NNP VBZ RB JJ .
+0,1,0,1 GPE|2,3,2,3 ORG|5,8,5,8 PER
+
+But then subtlety is not a trait of political cartoonists , a trade that Block _ better known as Herblock _ has plied for the past 71 years .
+CC RB NN VBZ RB DT NN IN JJ NNS , DT NN IN NNP NN JJR VBN IN NNP NN VBZ VBN IN DT JJ CD NNS .
+8,28,9,10 PER|14,20,14,15 PER|16,20,19,20 PER
+
+From his base on The Washington Post 's editorial page , Herblock has sprayed ink on big issues and big shots , from Vietnam to Watergate and the Soviet bear , from presidents Truman to Nixon and Clinton .
+IN PRP$ NN IN DT NNP NNP POS NN NN , NNP VBZ VBN NN IN JJ NNS CC JJ NNS , IN NNP TO NNP CC DT NNP NN , IN NNS JJ TO NNP CC NNP .
+1,2,1,2 PER|4,7,5,7 ORG|11,12,11,12 PER|19,21,20,21 PER|23,24,23,24 GPE|28,29,28,29 GPE|32,33,32,33 PER|33,34,33,34 PER|35,36,35,36 PER|37,38,37,38 PER
+
+`` You see a cartoon in the newspapers and it goes ` Boom !
+`` PRP VBP DT NN IN DT NNS CC PRP VBZ `` NNP .
+1,2,1,2 PER
+
+Bang ! '''
+NNP . NN
+
+
+Herblock , who turned 91 on Friday , once told a reporter .
+NN , WP VBD CD IN NNP , RB VBD DT NN .
+0,7,0,1 PER|2,3,2,3 PER|10,12,11,12 PER
+
+Tuesday , a retrospective of his work goes on display at the Library of Congress .
+NNP , DT NN IN PRP$ NN VBZ IN NN IN DT NNP IN NNP .
+5,6,5,6 PER|11,15,12,15 FAC
+
+Lately , his shrapnel has stung Slobodan Milosevic , Yasser Arafat , the National Rifle Association and others .
+RB , PRP$ NN VBZ VBN NNP NNP , NNP NNP , DT NNP NNP NNP CC NNS .
+2,3,2,3 PER|6,8,6,8 PER|9,11,9,11 PER|12,16,13,16 ORG|17,18,17,18 PER
+
+Al Gore and George W. Bush have taken fire , and whoever wins in November will take more .
+NNP NNP CC NNP NNP NNP VBP VBN NN , CC WP VBZ IN NNP MD VB JJR .
+0,2,0,2 PER|3,6,3,6 PER|11,12,11,12 PER
+
+They can ask Clinton .
+PRP MD VB NNP .
+0,1,0,1 PER|3,4,3,4 PER
+
+Few Herblock targets , however , were as favored as Nixon , drawn with deep-set , malevolent eyes , five o'clock shadow and , when he was vice president in Eisenhower 's administration , with a bloodstained hatchet in hand .
+JJ NNP NNS , RB , VBD IN VBN IN NNP , VBN IN NN , JJ NNS , CD RB NN CC , WRB PRP VBD NN NN IN NNP POS NN , IN DT JJ NN IN NN .
+0,3,2,3 PER|1,2,1,2 PER|10,40,10,11 PER|25,26,25,26 PER|27,33,27,29 PER|30,31,30,31 PER|30,33,32,33 ORG|35,38,37,38 WEA
+
+But Herblock offered a truce when Nixon was elected president in 1968 .
+CC NNP VBD DT NN WRB NNP VBD VBN NN IN CD .
+1,2,1,2 PER|6,7,6,7 PER|9,10,9,10 PER
+
+He gave Nixon a shave .
+PRP VBD NNP DT VB .
+0,1,0,1 PER|2,3,2,3 PER
+
+`` I gave him a chance , but after a while people saw he was the same old Nixon , '' Herblock said in an interview Monday .
+`` PRP VBD PRP DT NN , CC IN DT IN NNS VBD PRP VBD DT JJ JJ NNP , '' NNP VBD IN DT NN NNP .
+1,2,1,2 PER|3,4,3,4 PER|11,12,11,12 PER|13,14,13,14 PER|15,19,18,19 PER|21,22,21,22 PER
+
+Herblock also was an unrelenting opponent of Sen. Joe McCarthy , and the artist coined the term McCarthyism .
+NN RB VBD DT VBG NN IN NNP NNP NNP , CC DT NN VBN DT NN NN .
+0,1,0,1 PER|3,10,5,6 PER|7,8,7,8 PER|7,10,8,10 PER|12,14,13,14 PER
+
+For a March 29 , 1950 , cartoon he drew four Republican stalwarts hauling a reluctant GOP elephant toward a teetering stack of tar buckets , topped by a dripping barrel labeled `` McCarthyism '' and a little platform above that .
+IN DT NNP CD , CD , NN PRP VBD CD JJ NNS VBG DT JJ NNP NN IN DT VBG VB IN NN NNS , VBN IN DT VBG NN VBN `` NNP '' CC DT JJ NN IN DT .
+8,9,8,9 PER|10,13,12,13 PER|11,12,11,12 ORG|16,17,16,17 ORG
+
+He and the library agree that was the origin of the word _ `` with no thought of creating a new term , '' Herblock wrote later .
+PRP CC DT NN VBP DT VBD DT NN IN DT NN NN `` IN DT NN IN VBG DT JJ NN , '' NNP VBD RB .
+0,1,0,1 PER|2,4,3,4 FAC|24,25,24,25 PER
+
+In the caption , the elephant says : `` You mean I 'm supposed to stand on that ? ''
+IN DT NN , DT NN VBZ : `` PRP VBP PRP VBP VBN TO VB IN DT . ''
+9,10,9,10 PER
+
+Still , McCarthy , Herblock noted , even adopted the term as a title for a book `` McCarthyism : The Fight for America . ''
+RB , NNP , NNP VBD , RB VBD DT NN IN DT NN IN DT NN `` NN : DT VB IN NNP . ''
+2,3,2,3 PER|4,5,4,5 PER
+
+Every president has had his turn under Herblock 's pen .
+DT NN VBZ VBN PRP$ NN IN NNP POS NN .
+0,2,1,2 PER|4,5,4,5 PER|7,8,7,8 PER
+
+Other subjects include U.S. intervention in Vietnam , Soviet and Chinese oppression , nuclear weapons , curtailed voting rights for the District of Columbia , slum housing , campaign fund raising , drunk drivers and racism .
+JJ NNS VBP NNP NN IN NNP , JJ CC JJ NN , JJ NNS , VBD NN NNS IN DT NNP IN NNP , NN NN , NN NN VBG , JJ NNS CC NN .
+3,4,3,4 GPE|6,7,6,7 GPE|8,9,8,9 GPE|10,11,10,11 GPE|13,14,13,14 WEA|13,15,14,15 WEA|20,24,21,24 GPE|32,34,33,34 PER
+
+He apparently has no intention of retiring any time soon from the Post , where he has toiled for 54 years .
+PRP RB VBZ DT NN IN VBG DT NN RB IN DT NNP , WRB PRP VBZ VBN IN CD NNS .
+0,1,0,1 PER|11,21,12,13 ORG|14,15,14,15 ORG|15,16,15,16 PER
+
+At a reception Monday , James H. Billington , the librarian of Congress , said Herblock 's cartoons will be seen 100 years from now .
+IN DT NN NNP , NNP NNP NNP , DT NN IN NNP , VBD NNP POS NNS MD VB VBN CD NNS IN RB .
+5,8,5,8 PER|9,13,10,11 PER|12,13,12,13 ORG|15,16,15,16 PER
+
+To that , the artist said : `` Yes , and I hope they will be saying 'That was a good one this morning . '''
+TO DT , DT NN VBD : `` UH , CC PRP VBP PRP MD VB VBG WDT VBD DT JJ CD DT NN . NN
+3,5,4,5 PER|11,12,11,12 PER|13,14,13,14 PER
+
+Jean Rickard , Herblock 's assistant for 43 years , said the cartoonist goes to the office daily to keep close to the news and check his facts .
+NNP NNP , NNP POS NN IN CD NNS , VBD DT NN VBZ TO DT NN JJ TO VB RB TO DT NN CC VB PRP$ NNS .
+0,2,0,2 PER|3,4,3,4 PER|3,9,5,6 PER|11,13,12,13 PER|15,17,16,17 ORG|26,27,26,27 PER
+
+`` I was just about to turn in a finished cartoon one day , '' Herblock writes in the catalog to the show , `` only to learn that a major story had broken and kept the newsroom people too busy to tell me about it .
+`` PRP VBD RB IN TO VB IN DT VBN NN CD NN , '' NNP VBZ IN DT NN TO DT NN , `` RB TO VB IN DT JJ NN VBD VBN CC VBN DT NN NNS RB JJ TO VB PRP IN PRP .
+1,2,1,2 PER|15,16,15,16 PER|36,39,38,39 PER|37,38,37,38 FAC|43,44,43,44 PER
+
+The quick return to the drawing board to produce a new cartoon in minutes was an experience I would n't want to repeat . ''
+DT JJ NN TO DT NN NN TO VB DT JJ NN IN NNS VBD DT NN PRP MD RB VB TO VB . ''
+17,18,17,18 PER
+
+Born and raised in Chicago , Herblock 's first full-time cartoonist 's job was on the Chicago Daily News .
+VBN CC VBN IN NNP , NNP POS JJ JJ NN POS NN VBD IN DT NNP NNP NNP .
+4,5,4,5 GPE|6,7,6,7 PER|10,11,10,11 PER|15,19,16,19 ORG
+
+His father , a chemist and contributor to humor magazines , suggested joining the first and last syllables of his name .
+PRP$ NN , DT NN CC NN TO NN NNS , VBD VBG DT JJ CC JJ NNS IN PRP$ NN .
+0,1,0,1 PER|0,2,1,2 PER|3,5,4,5 PER|6,10,6,7 PER|19,20,19,20 PER
+
+His first cartoon for the News _ April 24 , 1929 _ blasted the timber industry .
+PRP$ JJ NN IN DT NNP NN NNP CD , CD NN VBD DT NN NN .
+0,1,0,1 PER|4,6,5,6 ORG|13,16,15,16 ORG
+
+It was a bleak view of rough-cut tree stumps stretching to the horizon , with an ironic quote from the poet Henry Wadsworth Longfellow : `` This is the forest primeval . ''
+PRP VBD DT JJ NN IN JJ NN NNS VBG TO DT NN , IN DT JJ NN IN DT NN NNP NNP NNP : `` DT VBZ DT NN NN . ''
+19,21,20,21 PER|19,24,21,24 PER
+
+Since then Herblock has published a dozen books , won three Pulitzer Prizes and shared in a fourth .
+IN RB NNP VBZ VBN DT NN NNS , VBD CD NNP NNPS CC VBD IN DT JJ .
+2,3,2,3 PER
+
+APW20001118.1953.0594 NEWS STORY 2000-11-18 20:15:29
+NNP NN NN CD NN
+
+
+Jesse-Ventura
+NNP
+
+
+Callers Admonish Ventura
+NNS NNP NNP
+
+
+ST. PAUL ( AP ) _ Gov. Jesse Ventura 's weekly radio show has been flooded with calls about his new part-time job as a football commentator .
+NNP NNP -LRB- NNP -RRB- NN NNP NNP NNP POS JJ NN NN VBZ VBN VBN IN NNS IN PRP$ JJ JJ NN IN DT NN NN .
+0,2,0,2 GPE|3,4,3,4 ORG|6,7,6,7 PER|6,9,7,9 PER|19,20,19,20 PER|24,27,26,27 PER
+
+`` You belong to the people , 100 percent , 24-hours-a-day , seven days a week , '' one caller admonished Friday .
+`` PRP VBP TO DT NNS , CD NN , NN , CD NNS DT NN , '' CD NN VBD NNP .
+1,2,1,2 PER|4,6,5,6 PER|18,20,19,20 PER
+
+Others said his association with the XFL _ a rough-and-tumble league organized by NBC and the World Wrestling Federation _ degraded his office .
+NNS VBD PRP$ NN IN DT NNP NN DT JJ NN VBN IN NNP CC DT NNP NNP NNP NN JJ PRP$ NN .
+0,1,0,1 PER|2,3,2,3 PER|5,7,6,7 ORG|8,19,10,11 ORG|13,14,13,14 ORG|15,19,16,19 ORG|21,22,21,22 PER
+
+Ventura brushed aside the criticism , saying he would stop if the XFL becomes too raunchy or he deems it in `` any way unacceptable to my position as governor . ''
+NNP VBD RB DT NN , VBG PRP MD VB IN DT NNP VBZ RB JJ CC PRP VBZ PRP IN `` DT NN JJ TO PRP$ NN IN NN . ''
+0,1,0,1 PER|7,8,7,8 PER|11,13,12,13 ORG|17,18,17,18 PER|19,20,19,20 ORG|26,27,26,27 PER|29,30,29,30 PER
+
+Meanwhile , Democratic state Sen. Ellen Anderson said she would introduce a bill to make the job of governor a part-time position , similar to state lawmaker positions .
+RB , JJ NN NNP NNP NNP VBD PRP MD VB DT NN TO VB DT NN IN NN DT JJ NN , JJ TO VB NN NNS .
+2,3,2,3 ORG|2,5,4,5 PER|2,7,5,7 PER|3,4,3,4 GPE|8,9,8,9 PER|25,26,25,26 GPE
+
+`` It would fit in ( Ventura 's ) political philosophy and it would take away the criticism of him taking outside jobs , '' she said .
+`` PRP MD VB IN -LRB- NNP POS -RRB- JJ NN CC PRP MD VB RB DT NN IN PRP VBG JJ NNS , '' PRP VBD .
+6,7,6,7 PER|19,20,19,20 PER|25,26,25,26 PER
+
+In a contract announced Thursday , the former wrestler agreed to work 10 Saturday night games starting in February .
+IN DT NN VBD NNP , DT JJ NN VBD TO VB CD NNP NN NNS VBG IN NNP .
+6,9,8,9 PER
+
+He can miss them if state business demands it .
+PRP MD VB PRP IN NN NN VBZ PRP .
+0,1,0,1 PER|5,6,5,6 GPE
+
+NYT20001011.2209.0444 NEWS STORY 2000-10-11 22:19:00
+NNP NN NN CD NN
+
+
+A1407 & Cx1f ; taf-z u a BC-CHAPMAN-PAROLE-NYT & LR ; 10-11 0725
+NNP CC NNP : NN NN DT NNP CC NNP : CD CD
+
+
+BC-CHAPMAN-PAROLE-NYT
+NNP
+
+
+LENNON'S KILLER APOLOGIZED AT PAROLE HEARING , IN VAIN
+NNP NNP VBD NNP NNP NNP , IN NNP
+
+
+& UR ; By SHAILA K. DEWAN & QC ; & LR ; & QL ; & UR ; c.2000 N.Y. Times News Service & QC ; & LR ; & QL ;
+CC NNP : IN NNP NNP NNP CC NNP : CC NNP : CC NNP : CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+`` I do wish I was a big nobody again , '' Mark David Chapman told the New York State Parole Board at a closed hearing at the Attica state prison on Oct. 3 .
+`` PRP VBP VB PRP VBD DT JJ NN RB , '' NNP NNP NNP VBD DT NNP NNP NNP NNP NNP IN DT JJ NN IN DT NNP NN NN IN NNP CD .
+1,2,1,2 PER|4,5,4,5 PER|6,9,8,9 PER|12,15,12,15 PER|16,22,21,22 ORG|17,20,17,20 GPE|27,31,30,31 FAC|28,29,28,29 FAC|29,30,29,30 GPE
+
+But his words did not sway the board , which , citing his ongoing desire for notoriety , denied Chapman 's first bid for parole since he pleaded guilty to the Dec. 8 , 1980 , murder of John Lennon .
+CC PRP$ NNS VBD RB VB DT NN , WDT , VBG PRP$ JJ NN IN NN , VBD NNP POS JJ NN IN NN IN PRP VBD JJ TO DT NNP CD , CD , NN IN NNP NNP .
+1,2,1,2 PER|6,40,7,8 ORG|9,10,9,10 ORG|12,13,12,13 PER|19,20,19,20 PER|26,27,26,27 PER|38,40,38,40 PER
+
+In the hearing , a transcript of which was released Wednesday , Chapman said repeatedly that he did not have the right to ask for his release .
+IN DT NN , DT NN IN WDT VBD VBN NNP , NNP VBD RB IN PRP VBD RB VB DT NN TO VB IN PRP$ NN .
+12,13,12,13 PER|16,17,16,17 PER|25,26,25,26 PER
+
+But if he were paroled , he would try to work on a farm , speak at churches and be reunited with his wife , who flies from Hawaii twice a year to visit him , he said .
+CC IN PRP VBD VBN , PRP MD VB TO VB IN DT NN , VBP IN NNS CC VB VBN IN PRP$ NN , WP VBZ IN NNP RB DT NN TO VB PRP , PRP VBD .
+2,3,2,3 PER|6,7,6,7 PER|12,14,13,14 FAC|17,18,17,18 FAC|22,23,22,23 PER|22,35,23,24 PER|25,26,25,26 PER|28,29,28,29 GPE|34,35,34,35 PER|36,37,36,37 PER
+
+In a somewhat rambling apology to Lennon 's widow , Yoko Ono , Chapman , 45 , said first that he could not imagine her pain , and later that he had felt it for the first time after reading a recent Newsweek article in which she said she had been shaking uncontrollably the night of her husband 's death .
+IN DT RB JJ NN TO NNP POS NN , NNP NNP , NNP , CD , VBD JJ IN PRP MD RB VB PRP NN , CC RB IN PRP VBD VBN PRP IN DT JJ NN IN VBG DT JJ NNP NN IN WDT PRP VBD PRP VBD VBN VBG RB DT NN IN PRP$ NN POS NN .
+6,7,6,7 PER|6,9,8,9 PER|10,12,10,12 PER|13,16,13,14 PER|20,21,20,21 PER|24,25,24,25 PER|30,31,30,31 PER|42,43,42,43 ORG|46,47,46,47 PER|48,49,48,49 PER|56,57,56,57 PER|56,58,57,58 PER
+
+`` I 've come to grips with the fact that that John Lennon was a person , '' he said .
+`` PRP VBP VBN TO NNS IN DT NN IN IN NNP NNP VBD DT NN , '' PRP VBD .
+1,2,1,2 PER|11,13,11,13 PER|14,16,15,16 PER|18,19,18,19 PER
+
+Chapman told the board that after reading the article , he had almost skipped the hearing .
+NNP VBD DT NN IN IN VBG DT NN , PRP VBD RB VBD DT NN .
+0,1,0,1 PER|2,4,3,4 ORG|10,11,10,11 PER
+
+But he said , `` You have a right to know what happened . ''
+CC PRP VBD , `` PRP VBP DT NN TO VB WP VBD . ''
+1,2,1,2 PER|5,6,5,6 ORG
+
+Chapman would have been up for parole even if he had not attended , a parole board spokesman said .
+NNP MD VB VBN RP IN JJ RB IN PRP VBD RB VBN , DT JJ NN NN VBD .
+0,1,0,1 PER|9,10,9,10 PER|14,18,17,18 PER|15,17,16,17 ORG
+
+Ono did not attend the hearing , but had submitted a letter asking that parole be denied .
+NNP VBD RB VB DT NN , CC VBD VBN DT NN VBG IN NN VB VBN .
+0,1,0,1 PER
+
+Chapman , who has been criticized for seeming to revel in televised appearances after his conviction , was consistently self-deprecating throughout the 50-minute hearing .
+NNP , WP VBZ VBN VBN IN JJ TO VBP IN VBN NNS IN PRP$ NN , VBD RB JJ IN DT JJ NN .
+0,16,0,1 PER|2,3,2,3 PER|14,15,14,15 PER
+
+Describing an outburst early in his incarceration , he said : `` They were rough with me , which was fine .
+VBG DT RB JJ IN PRP$ NN , PRP VBD : `` PRP VBD JJ IN PRP , WDT VBD NN .
+5,6,5,6 PER|8,9,8,9 PER|12,13,12,13 PER|16,17,16,17 PER
+
+Which is probably what I needed to snap out of that . ''
+WDT VBZ RB WP PRP VBD TO JJ RP IN DT . ''
+4,5,4,5 PER
+
+Asked if he would be concerned for his safety if released , Chapman , who is being held in protective custody apart from other inmates , said he believed that God `` kept the lions ' mouths shut in Daniel 's den , '' adding , `` And I think he can do the same for me if he so chooses , and I would leave most of that up to him . ''
+VBN IN PRP MD VB VBN IN PRP$ NN IN VBN , NNP , WP VBZ VBG VBN IN JJ NN RB IN JJ NNS , VBD PRP VBD IN NNP `` VBD DT NNS POS NNS VBD IN NNP POS NN , '' VBG , `` CC PRP VBP PRP MD VB DT JJ IN PRP IN PRP RB VBZ , CC PRP MD VB JJS IN DT RP TO PRP . ''
+2,3,2,3 PER|7,8,7,8 PER|12,25,12,13 PER|14,15,14,15 PER|23,25,24,25 PER|27,28,27,28 PER|30,31,30,31 PER|39,40,39,40 PER|39,42,41,42 LOC|48,49,48,49 PER|50,51,50,51 PER|56,57,56,57 PER|58,59,58,59 PER|63,64,63,64 PER|71,72,71,72 PER
+
+Chapman 's pursuit of publicity occupied much of the discussion , despite his professed wish to return to the anonymity that had plagued him , as a security guard in Hawaii , enough to make him commit his notorious crime .
+NNP POS NN IN NN VBD RB IN DT NN , IN PRP$ VBN NN TO VB TO DT NN WDT VBD VBN PRP , IN DT NN NN IN NNP , RB TO VB PRP VB PRP$ JJ NN .
+0,1,0,1 PER|12,13,12,13 PER|23,24,23,24 PER|26,31,28,29 PER|30,31,30,31 GPE|35,36,35,36 PER|37,38,37,38 PER
+
+When the board denied parole in a written statement issued shortly after the hearing , it said : `` Your most vicious and violent act was apparently fueled by your need to be acknowledged .
+WRB DT NN VBD NN IN DT VBN NN VBN RB IN DT NN , PRP VBD : `` PRP$ RBS JJ CC JJ NN VBD RB VBN IN PRP$ NN TO VB VBN .
+1,3,2,3 ORG|15,16,15,16 ORG|19,20,19,20 PER|29,30,29,30 PER
+
+During your parole hearing , this panel noted your continued interest in maintaining your notoriety . ''
+IN PRP$ JJ NN , DT NN VBD PRP$ JJ NN IN VBG PRP$ NN . ''
+1,2,1,2 PER|5,7,6,7 ORG|8,9,8,9 PER|13,14,13,14 PER
+
+Asked what he had done to attract attention since he was incarcerated , Chapman recalled a 1987 interview with People magazine , for which he received $5,000 , according to news reports at the time .
+VBN WP PRP VBD VBN TO VB NN IN PRP VBD VBN , NNP VBD DT CD NN IN NNS NN , IN WDT PRP VBD NN , VBG TO NN NNS IN DT NN .
+2,3,2,3 PER|9,10,9,10 PER|13,14,13,14 PER|19,21,19,21 ORG|24,25,24,25 PER
+
+He also recalled interviews with Barbara Walters and Larry King when a book about him was published in 1992 .
+PRP RB VBD NNS IN NNP NNP CC NNP NNP WRB DT NN IN PRP VBD VBN IN CD .
+0,1,0,1 PER|5,7,5,7 PER|8,10,8,10 PER|14,15,14,15 PER
+
+`` Other than that , '' he said , `` I 've consistently , especially the last 10 years , denied any press requests . ''
+`` JJ IN DT , '' PRP VBD , `` PRP VBP RB , RB DT JJ CD NNS , VBD DT NN NNS . ''
+6,7,6,7 PER|10,11,10,11 PER
+
+But when prompted , Chapman did acknowledge a three-hour interview in July with Jack Jones , a Rochester journalist who wrote the 1992 book `` Let Me Take You Down : Inside the Mind of Mark David Chapman , the Man Who Killed John Lennon '' ( Villard Books ) .
+CC WRB VBN , NNP VBD VB DT JJ NN IN NNP IN NNP NNP , DT NNP NN WP VBD DT CD NN `` VB PRP VB PRP RB : IN DT NNP IN NNP NNP NNP , DT NN WP VBD NNP NNP '' -LRB- NN NNS -RRB- .
+4,5,4,5 PER|13,15,13,15 PER|16,49,18,19 PER|17,18,17,18 GPE|19,20,19,20 PER|47,49,47,49 ORG
+
+Jones , reached by telephone Wednesday , said that in the July interview , Chapman had told him for the first time that he wanted to be released from prison .
+NNP , VBN IN NN NNP , VBD IN IN DT NNP NN , NNP VBD VBN PRP IN DT JJ NN IN PRP VBD TO VB VBN IN NN .
+0,6,0,1 PER|14,15,14,15 PER|17,18,17,18 PER|23,24,23,24 PER|29,30,29,30 FAC
+
+But after the hearing last week , `` he was relieved that they made the decision that they made , '' said Jones , who spoke to him then .
+CC IN DT NN JJ NN , `` PRP VBD VBN IN PRP VBD DT NN IN PRP VBD , '' VBD NNP , WP VBD TO PRP RB .
+8,9,8,9 PER|12,13,12,13 ORG|17,18,17,18 ORG|22,29,22,23 PER|24,25,24,25 PER|27,28,27,28 PER
+
+The interview was conducted for the book 's newly published second edition .
+DT NN VBD VBN IN DT NN POS RB VBN JJ NN .
+
+
+Chapman said that after getting permission from God , he had allowed parts of it to be released to Court TV .
+NNP VBD IN IN VBG NN IN NNP , PRP VBD VBN NNS IN PRP TO VB VBN TO NNP NN .
+0,1,0,1 PER|7,8,7,8 PER|9,10,9,10 PER
+
+In the interview , parts of which were also published in The Daily Express of London , Chapman made the widely publicized remark that Lennon was a liberal and would have wanted him to be released .
+IN DT NN , NNS IN WDT VBD RB VBN IN DT NNP NNP IN NNP , NNP VBD DT RB VBN NN IN NNP VBD DT JJ CC MD VB VBN PRP TO VB VBN .
+15,16,15,16 GPE|17,18,17,18 PER|24,25,24,25 PER|26,28,27,28 PER|32,33,32,33 PER
+
+But at the hearing , the inmate complained that the comment had been wrongly portrayed , and that he had not meant it as an argument in favor of his parole .
+CC IN DT NN , DT NN VBD IN DT NN VBD VBN RB VBN , CC IN PRP VBD RB VBN PRP IN DT NN IN NN IN PRP$ NN .
+5,7,6,7 PER|18,19,18,19 PER|29,30,29,30 PER
+
+`` He asked me , what did I think John Lennon would do , '' Chapman said .
+`` PRP VBD PRP , WP VBD PRP VBP NNP NNP MD VB , '' NNP VBD .
+1,2,1,2 PER|3,4,3,4 PER|7,8,7,8 PER|9,11,9,11 PER|15,16,15,16 PER
+
+`` And I thought about it for a minute , and I answered honestly . ''
+`` CC PRP VBD IN PRP IN DT NN , CC PRP VBD RB . ''
+2,3,2,3 PER|11,12,11,12 PER
+
+NYT-10-11-00 2219EDT
+NNP NN
+
+
+NYT20001001.2157.0225 NEWS STORY 2000-10-01 22:44:00
+NNP NN NN CD NN
+
+
+A8839 & Cx1f ; taf-z u k BC-EDIT-SCOTUS-NYT & LR ; 10-01 0557
+NNP CC NNP : NN NN NN NNP CC NNP : CD CD
+
+
+BC-EDIT-SCOTUS-NYT
+NNP
+
+
+EDITORIAL : ISSUES FOR THE SUPREME COURT
+JJ : NNS IN DT NNP NN
+
+
+& UR ; c.2000 N.Y. Times News Service & QC ; & LR ; & QL ;
+CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+The New York Times said in an editorial on Monday , Oct. 2 :
+DT NNP NNP NNP VBD IN DT NN IN NNP , NNP CD :
+0,4,1,4 ORG
+
+The new Supreme Court term , which opens today , has no high-profile cases to match last session 's tangles over partial birth abortion , gays in the Boy Scouts and organized prayer at high school football games .
+DT JJ NNP NNP NN , WDT VBZ NN , VBZ DT JJ NNS TO VB JJ NN POS NNS IN JJ NN NN , NN IN DT NNP NNPS CC JJ NN IN JJ NN NN NNS .
+2,4,2,4 ORG|25,26,25,26 PER|27,30,28,30 ORG|34,36,35,36 ORG
+
+But even shorn of the Microsoft case , this season will not lack for suspense or importance .
+CC RB VB IN DT NNP NN , DT NN MD RB NN IN NN CC NN .
+5,6,5,6 ORG
+
+The court 's docket includes cases that , depending on their outcome , could significantly bolster or weaken environmental protection , federal civil rights , freedom of the press and the Fourth Amendment 's shield against unreasonable searches and seizures .
+DT NN POS NN VBZ NNS IN , VBG IN PRP$ NN , MD RB VB CC VB JJ NN , JJ JJ NNS , NN IN DT NN CC DT JJ NNP POS NN IN JJ NNS CC NNS .
+0,2,1,2 ORG
+
+Once again , a prime battleground will be the constitutional allocation of power _ between the federal government and the states , and between Congress and federal regulatory agencies .
+RB RB , DT JJ NN MD VB DT JJ NN IN NN NN IN DT JJ NN CC DT NNS , CC IN NNP CC JJ JJ NNS .
+15,18,17,18 GPE|19,21,20,21 GPE|24,25,24,25 ORG|26,29,28,29 ORG
+
+Last term , the court lengthened its string of regrettable 5-to-4 decisions trimming federal authority by striking down portions of the Violence Against Women Act and the federal law barring age discrimination in employment .
+JJ NN , DT NN VBD PRP$ NN IN JJ NN NNS VBG JJ NN IN VBG RP NNS IN DT NN IN NNP NNP CC DT JJ NN VBG NN NN IN NN .
+3,5,4,5 ORG
+
+A case to be heard next week tests whether the majority 's constricted view of federal power extends to shielding states from lawsuits brought by their public employees under the Americans With Disabilities Act .
+DT NN TO VB VBN JJ NN NNS IN DT NN POS VBN NN IN JJ NN VBZ TO VBG NNS IN NNS VBN IN PRP$ JJ NNS IN DT NNPS IN NNPS NNP .
+20,21,20,21 GPE|25,26,25,26 GPE|25,28,27,28 PER
+
+In another big federalism case with implications for the environment , the court will consider whether Congress exceeded its Commerce Clause powers by allowing regulation of small , intrastate wetlands to protect the habitats of migratory birds .
+IN DT JJ NN NN IN NNS IN DT NN , DT NN MD VB IN NNP VBD PRP$ NNP NN NNS IN VBG NN IN JJ , JJ NNS TO VB DT NNS IN JJ NNS .
+11,13,12,13 ORG|16,17,16,17 ORG|26,30,29,30 LOC|32,37,33,34 LOC
+
+This term the court will also weigh a challenge to the authority of the Environmental Protection Agency to set national standards for air pollutants .
+DT NN DT NN MD RB VB DT NN TO DT NN IN DT NNP NNP NNP TO VB JJ NNS IN NN NNS .
+2,4,3,4 ORG|14,17,14,17 ORG
+
+The justices should resist this invitation to disrupt the modern regulatory system by overturning Congress ' broad delegation of authority to the EPA or otherwise diluting the agency 's power to set `` uncompromising '' health-based standards .
+DT NNS MD VB DT NN TO VB DT JJ JJ NN IN VBG NNP POS JJ NN IN NN TO DT NNP CC RB VBG DT NN POS NN TO VB `` VBG '' JJ NNS .
+0,2,1,2 PER|14,15,14,15 ORG|21,23,22,23 ORG|26,28,27,28 ORG
+
+On Tuesday , the court begins the term 's review of Fourth Amendment principles with an Indianapolis case involving the use of police checkpoints and drug-sniffing dogs to check motorists for illicit drugs .
+IN NNP , DT NN VBZ DT NN POS NN IN JJ NNP NNS IN DT NNP NN VBG DT NN IN NN NNS CC JJ NNS TO VB NNS IN JJ NNS .
+3,5,4,5 ORG|16,17,16,17 GPE|22,23,22,23 ORG|29,30,29,30 PER
+
+The court should view these law enforcement stops as an overly aggressive leap from the sobriety checkpoints it has previously approved to remove an immediate safety hazard .
+DT NN MD VB DT NN NN NNS IN DT RB JJ NN IN DT NN NNS PRP VBZ RB VBN TO VB DT JJ NN NN .
+0,2,1,2 ORG
+
+Then , on Wednesday , the court will consider the outrageous privacy violation committed against pregnant women who were selectively tested for cocaine use while seeking prenatal care at a South Carolina hospital , and subsequently arrested or threatened with arrest .
+RB , IN NNP , DT NN MD VB DT JJ NN NN VBN IN JJ NNS WP VBD RB VBN IN NN NN IN VBG JJ NN IN DT NNP NNP NN , CC RB VBN CC VBN IN NN .
+5,7,6,7 ORG|15,41,16,17 PER|17,18,17,18 PER|29,33,32,33 ORG|30,32,30,32 GPE
+
+Amicus briefs from leading medical and health groups caution that such punitive policies will drive women away from critically needed prenatal care and treatment programs .
+NNP NNS IN VBG JJ CC NN NNS VBP IN JJ JJ NNS MD VB NNS RB IN RB VBN JJ NN CC NN NNS .
+3,8,4,8 ORG|15,16,15,16 PER
+
+Later this term , the court will confront a major media case .
+RB DT NN , DT NN MD VB DT JJ NNS NN .
+4,6,5,6 ORG
+
+At issue is the liability of a Pennsylvania radio station under the federal wiretap statute for broadcasting an illegally taped cell phone conversation between two union officials .
+IN NN VBZ DT NN IN DT NNP NN NN IN DT JJ NN NN IN VBG DT RB VBN NN NN NN IN CD NN NNS .
+6,10,9,10 ORG|7,8,7,8 GPE|24,27,26,27 PER|25,26,25,26 ORG
+
+No one accuses the station of involvement in the taping , which was done by an anonymous third party .
+DT NN VBZ DT NN IN NN IN DT NN , WDT VBD VBN IN DT JJ JJ NN .
+0,2,1,2 PER|3,5,4,5 ORG|15,19,18,19 PER
+
+Should the court override the station 's First Amendment privilege here , the chilling impact on newsgathering cannot be overstated , much as The Times intends to argue in an amicus brief .
+MD DT NN VB DT NN POS NNP NNP NN RB , DT JJ NN IN VBG NN VB VBN , JJ IN DT NNP VBZ TO VB IN DT NN NN .
+1,3,2,3 ORG|4,6,5,6 ORG|23,25,24,25 ORG
+
+NYT-10-01-00 2244EDT
+NNP NN
+
+
+NYT20001214.1824.0331 NEWS STORY 2000-12-14 19:04:00
+NNP NN NN CD NN
+
+
+A0491 & Cx1f ; taf-z u f BC-NBC-APPOINT-ART-NYT & LR ; 12-14 0620
+NNP CC NNP : NN NN SYM NNP CC NNP : CD CD
+
+
+BC-NBC-APPOINT-ART-NYT
+NNP
+
+
+NBC PROMOTES ` TODAY' EXECUTIVE PRODUCER TO ENTERTAINMENT DIVISION
+NNP NNPS `` NNP NNP NNP TO NNP NN
+
+
+( ART ADV : Photo NYT21 is being sent to NYT photo clients .
+-LRB- NNP NNP : NNP NNP VBZ VBG VBN TO NNP NN NNS .
+
+
+Nonsubscribers can purchase one-time rights by calling 888-603-1036 or 888-346-9867.) & QL ; ( EDS : Story may update ) & QL ; & UR ; By BILL CARTER & LR ; & QC ; & QL ; & UR ; c.2000 N.Y. Times News Service & LR ; & QC ; & QL ;
+NNS MD VB JJ NNS IN VBG CD CC NN CC NNP : -LRB- NNP : NNP MD VB -RRB- CC NNP : CC NNP : IN NNP NNP CC NNP : CC NNP : CC NNP : CC NNP : NN NNP NNP NNP NNP CC NNP : CC NNP : CC NNP :
+
+
+Jeff Zucker , the longtime executive producer of NBC 's `` Today '' program , will be named Friday as the new president of NBC 's entertainment division , replacing Garth Ancier , NBC executives said .
+NNP NNP , DT JJ NN NN IN NNP POS `` NN '' NN , MD VB VBN NNP IN DT JJ NN IN NNP POS NN NN , VBG NNP NNP , NNP NNS VBD .
+0,2,0,2 PER|3,14,6,7 PER|8,9,8,9 ORG|20,32,22,23 PER|24,25,24,25 ORG|24,28,27,28 ORG|30,32,30,32 PER|33,34,33,34 ORG|33,35,34,35 PER
+
+The move will have a ripple effect on two NBC divisions , forcing the network to replace Zucker at `` Today , '' where he has led the program to its most dominant ratings position in decades , and shaking up the entertainment division , where Zucker has never worked .
+DT NN MD VB DT JJ NN IN CD NNP NNS , VBG DT NN TO VB NNP IN `` NN , '' WRB PRP VBZ VBN DT NN TO PRP$ RBS JJ NNS NN IN NNS , CC VBG RP DT NN NN , WRB NNP VBZ RB VBN .
+8,11,10,11 ORG|9,10,9,10 ORG|13,15,14,15 ORG|17,37,17,18 PER|20,21,20,21 ORG|23,24,23,24 ORG|24,25,24,25 PER|41,50,43,44 ORG|45,46,45,46 ORG|46,47,46,47 PER
+
+Zucker 's enormous success at `` Today , '' where he has served as executive producer since 1994 , has for several years set him up for a promotion at the network , and he has frequently expressed his desire to move on from `` Today . ''
+NNP POS JJ NN IN `` NN , '' WRB PRP VBZ VBN IN JJ NN IN CD , VBZ IN JJ NNS VBD PRP RP IN DT NN IN DT NN , CC PRP VBZ RB VBN PRP$ NN TO VB IN IN `` NN . ''
+0,1,0,1 PER|6,18,6,7 ORG|9,10,9,10 ORG|10,11,10,11 PER|14,18,15,16 PER|24,25,24,25 PER|30,32,31,32 ORG|34,35,34,35 PER|38,39,38,39 PER|45,46,45,46 ORG
+
+On Tuesday night , Zucker said that after covering the postelection news on `` Today '' and seeing that story help establish the third hour of the program , which was only added in October , he had little left to accomplish at `` Today . ''
+IN NNP NN , NNP VBD IN IN VBG DT NN NN IN `` NNP '' CC VBG DT NN NN VB DT JJ NN IN DT NN , WDT VBD RB VBN IN NNP , PRP VBD RB VBN TO VB IN `` NN . ''
+4,5,4,5 PER|14,15,14,15 ORG|36,37,36,37 PER|44,45,44,45 ORG
+
+But no job in the news division had either been available or of interest to Zucker .
+CC DT NN IN DT NN NN VBD RB VBN JJ CC IN NN TO NNP .
+4,7,6,7 ORG|15,16,15,16 PER
+
+The move to NBC Entertainment serves as the best way for NBC to retain an executive they regard as one of the best in television .
+DT NN TO NNP NNP VBZ IN DT JJS NN IN NNP TO VB DT NN PRP VBP IN CD IN DT JJS IN NN .
+3,5,3,5 ORG|11,12,11,12 ORG|14,25,15,16 PER|16,17,16,17 ORG|19,25,19,20 PER|21,25,22,23 PER|24,25,24,25 ORG
+
+The decision abruptly ends Ancier 's leadership of NBC Entertainment after only 18 months .
+DT NN RB VBZ JJR POS NN IN NNP NNP IN RB CD NNS .
+4,5,4,5 PER|8,10,8,10 ORG
+
+His tenure became extremely troubled this fall after the new lineup of NBC series stumbled badly .
+PRP$ NN VBD RB VBN DT NN IN DT JJ NN IN NNP NN VBD RB .
+0,1,0,1 PER|12,13,12,13 ORG
+
+But the move 's timing is still somewhat surprising because NBC had enough strength among its core group of hit shows to win last month 's ratings sweep competition .
+CC DT NN POS NN VBZ RB RB JJ IN NNP VBD JJ NN IN PRP$ NN NN IN VBN NNS TO VB JJ NN POS NNS NN NN .
+10,11,10,11 ORG|15,16,15,16 ORG
+
+In addition , three series _ `` The West Wing , '' `` Law and Order S.V.U. '' and `` Third Watch '' _ all added last fall , Ancier 's first at NBC , have since become significant hits for the network .
+IN NN , CD NN NN `` DT NNP NNP , '' `` NNP CC NNP NNP '' CC `` NNP NNP '' NN DT VBD JJ NN , JJR POS RB IN NNP , VBP IN VBN JJ NNS IN DT NN .
+29,30,29,30 PER|33,34,33,34 ORG|41,43,42,43 ORG
+
+But Ancier 's ouster had been the subject of widespread rumors in Hollywood in the last several weeks , largely because of the failure of this fall 's slate of programs .
+CC JJR POS NN VBD VBN DT NN IN JJ NNS IN NNP IN DT JJ JJ NNS , RB IN IN DT NN IN DT NN POS NN IN NNS .
+1,2,1,2 PER|12,13,12,13 GPE
+
+NBC has several aging hits , including `` Frasier '' and `` Friends , '' that may not have many more years on the network , and NBC executives have said this fall that it was especially crucial the network add some new replacements .
+NNP VBZ JJ VBG NNS , VBG `` NN '' CC `` NNPS , '' WDT MD RB VB JJ JJR NNS IN DT NN , CC NNP NNS VBP VBN DT NN IN PRP VBD RB JJ DT NN VB DT JJ NNS .
+0,1,0,1 ORG|23,25,24,25 ORG|27,28,27,28 ORG|27,29,28,29 PER|38,40,39,40 ORG
+
+Only one NBC show , `` Ed , '' has performed with any particular promise , although two others , `` DAG' and `` Cursed , '' have proved at least serviceable in time periods where they are protected by other NBC hits .
+RB CD NNP NN , `` NNP , '' VBZ VBN IN DT JJ NN , IN CD NNS , `` NNP CC `` JJ , '' VBP VBN IN JJS NN IN NN NNS WRB PRP VBP VBN IN JJ NNP NNS .
+2,3,2,3 ORG|41,42,41,42 ORG
+
+But many other new NBC series this fall collapsed quickly , including two high-profile shows , `` The Michael Richards Show '' and `` Titans . ''
+CC JJ JJ JJ NNP NN DT NN VBD RB , VBG CD JJ NNS , `` DT NNP NNP NNP '' CC `` NNS . ''
+4,5,4,5 ORG
+
+Ancier was especially tied to the latter , having argued strenuously for it last spring before NBC selected its schedule .
+RBR VBD RB VBN TO DT JJ , VBG VBN RB IN PRP JJ NN IN NNP VBD PRP$ NN .
+0,1,0,1 PER|16,17,16,17 ORG|18,19,18,19 ORG
+
+The show had been opposed by several other senior NBC executives , including the network president , Bob Wright , on grounds that it was tasteless .
+DT NN VBD VBN VBN IN JJ JJ JJ NNP NNS , VBG DT NN NN , NNP NNP , IN NNS IN PRP VBD JJ .
+6,19,10,11 PER|9,10,9,10 ORG|13,16,15,16 PER|14,15,14,15 ORG|17,19,17,19 PER
+
+Ancier had dismissed that criticism .
+RBR VBD VBN DT NN .
+0,1,0,1 PER
+
+Ancier was also the target of some criticism from Wright last year after CBS , with `` Survivor , '' and ABC , with `` Who Wants To Be A Millionaire , '' turned their networks around with so-called reality programs .
+RBR VBD RB DT NN IN DT NN IN NNP JJ NN IN NNP , IN `` NNP , '' CC NNP , IN `` WP NNS TO VB DT NN , '' VBD PRP$ NNS IN IN JJ NN NNS .
+0,1,0,1 PER|9,10,9,10 PER|13,18,13,14 ORG|21,31,21,22 ORG|34,35,34,35 ORG|34,36,35,36 ORG
+
+Wright questioned why NBC Entertainment was the only network that had not picked up programs in the reality genre .
+NNP VBD WRB NNP NNP VBD DT JJ NN WDT VBD RB VBN RP NNS IN DT NN NN .
+0,1,0,1 PER|3,5,3,5 ORG|6,19,8,9 ORG|9,10,9,10 ORG
+
+Ancier had come to NBC with seemingly ideal qualifications .
+RBR VBD VBN TO NNP IN RB JJ NNS .
+0,1,0,1 PER|4,5,4,5 ORG
+
+He had previously worked at NBC Entertainment , then had run Fox 's programming in the first days of that network and most recently had managed programming at the WB Network , helping that network establish itself as a strong competitor for young audiences .
+PRP VBD RB VBN IN NNP NNP , RB VBD VBN NNP POS NN IN DT JJ NNS IN DT NN CC RBS RB VBD VBN NN IN DT NNP NNP , VBG DT NN VB PRP IN DT JJ NN IN JJ NNS .
+0,1,0,1 PER|5,7,5,7 ORG|11,12,11,12 ORG|19,21,20,21 ORG|28,31,29,31 ORG|33,35,34,35 ORG|36,37,36,37 ORG|38,44,40,41 ORG|42,44,43,44 PER
+
+NYT-12-14-00 1904EST
+NNP JJS
+
+
+APW20001006.0338.0184 NEWS STORY 2000-10-06 04:05:46
+NNP NN NN CD NN
+
+
+Debate-Veeps-TV
+NNP
+
+
+TV Pundits Give Debate High Marks
+NN NNS VB NN NNP NNP
+
+
+LOS ANGELES ( AP ) _ The Dick Cheney-Joe Lieberman debate was praised by some TV commentators as an exercise in good manners and condemned by others as bad politics .
+NNP NNP -LRB- NNP -RRB- NN DT NNP NNP NNP NN VBD VBN IN DT NN NNS IN DT NN IN JJ NNS CC VBN IN NNS IN JJ NNS .
+0,2,0,2 GPE|3,4,3,4 ORG|7,9,7,9 PER|8,10,8,10 PER|14,17,16,17 PER|26,27,26,27 PER
+
+`` Highly civilized , in many ways they articulated the positions of their campaigns more effectively than the top of their ticket when they met in Boston , '' Tom Brokaw said .
+`` NNP JJ , IN JJ NNS PRP VBD DT NNS IN PRP$ NNS RBR RB IN DT NN IN PRP$ NN WRB PRP VBD IN NNP , '' NNP NNP VBD .
+7,8,7,8 PER|12,13,12,13 PER|12,14,13,14 ORG|20,21,20,21 PER|23,24,23,24 PER|26,27,26,27 GPE|29,31,29,31 PER
+
+`` Give it a rave , '' said CBS anchor Dan Rather .
+`` VB PRP DT VB , '' VBD NNP VB NNP RB .
+8,9,8,9 ORG|8,10,9,10 PER|8,12,10,12 PER
+
+This will go down as the best vice presidential joint appearance on television since the television era in presidential and vice presidential campaigns began . ''
+DT MD VB RP IN DT JJS NN JJ JJ NN IN NN IN DT NN NN IN JJ CC NN JJ NNS VBD . ''
+18,23,22,23 ORG
+
+His colleague , Bob Schieffer , wondered whether their `` bosses , '' George W. Bush and Al Gore , were watching .
+PRP$ NN , NNP NNP , VBD IN PRP$ `` NNS , '' NNP NNP NNP CC NNP NNP , VBD VBG .
+0,1,0,1 PER|0,2,1,2 PER|3,5,3,5 PER|8,9,8,9 PER|8,11,10,11 PER|13,16,13,16 PER|17,19,17,19 PER
+
+Instant polls and in-studio audiences also gave the vice presidential candidates high marks .
+JJ NNS CC JJ NNS RB VBD DT NN JJ NNS JJ NNS .
+3,5,4,5 PER|7,11,10,11 PER
+
+But some observers pronounced themselves frustrated by the debate .
+CC DT NNS VBD PRP VBD IN DT NN .
+1,3,2,3 PER|4,5,4,5 PER
+
+Fox News Channel 's Mort Kondracke called it `` an opportunity wasted by Cheney to go after Gore . ''
+NNP NNP NNP POS NNP NNP VBD PRP `` DT NN VBN IN NNP TO VB IN NNP . ''
+0,3,0,3 ORG|0,6,4,6 PER|13,14,13,14 PER|17,18,17,18 PER
+
+`` Maybe somebody could have given the candidates a hot foot or put a joy buzzer on their seat , '' said his colleague , Fred Barnes .
+`` RB NN MD VB VBN DT NNS DT JJ NN CC VBD DT NN NN IN PRP$ NN , '' VBD PRP$ NN , NNP NNP .
+2,3,2,3 PER|6,8,7,8 PER|17,18,17,18 PER|22,23,22,23 PER|22,24,23,24 PER|25,27,25,27 PER
+
+Conservative commentator Bill Kristol , also on FNC , said `` the Bush campaign failed to do what it had to do ... which to assault al Gore 's policies and his credibility . ''
+JJ NN NNP NNP , RB IN NNP , VBD `` DT NNP NN VBD TO VB WP PRP VBD TO VB : WDT TO NN NN NNP POS NNS CC PRP$ NN . ''
+0,2,1,2 PER|0,8,2,4 PER|7,8,7,8 ORG|11,14,13,14 ORG|12,13,12,13 PER|18,19,18,19 ORG|26,28,26,28 PER
+
+ABC 's Sam Donaldson asked plaintively when it was decreed that campaigners had to act like `` gentlemen and ladies . ''
+NNP POS NNP NNP VBD RB WRB PRP VBD VBN IN NNS VBD TO VB IN `` NNS CC NNS . ''
+0,1,0,1 ORG|0,4,2,4 PER|11,12,11,12 PER|17,18,17,18 PER|19,20,19,20 PER
+
+`` I think that 's nonsense , '' Donaldson said .
+`` PRP VBP IN POS NN , '' NNP VBD .
+1,2,1,2 PER|8,9,8,9 PER
+
+The night was put in perspective .
+DT NN VBD VBN IN NN .
+
+
+ABC anchorman Peter Jennings , who noted that `` bottom of the ticket '' does n't necessarily have that much affect on voter decisions .
+NNP NN NNP NNPS , WP VBD IN `` NN IN DT NN '' VBZ RB RB VB IN JJ VBP IN NN NNS .
+0,1,0,1 ORG|0,2,1,2 PER|0,24,2,4 PER|5,6,5,6 PER|22,23,22,23 PER
+
+NBC 's Tim Russert of predicted the veep debate 's `` effect on the election will practically be nonexistent . ''
+NNP POS NNP NNP IN VBD DT NN NN POS `` NN IN DT NN MD RB VB JJ . ''
+0,1,0,1 ORG|0,4,2,4 PER|7,8,7,8 PER
+
+A group of undecided voters recruited by NBC in Tampa , Fla. , were impressed with both candidates _ and , with a non-show of hands , all indicated they remained on the fence .
+DT NN IN JJ NNS VBN IN NNP IN NNP , NNP , VBD VBN IN DT NNS NN CC , IN DT NN IN NNS , DT VBD PRP VBD IN DT NN .
+0,12,1,2 PER|3,5,4,5 PER|7,8,7,8 ORG|9,12,9,10 GPE|11,12,11,12 GPE|16,18,17,18 PER|29,30,29,30 PER
+
+On Tuesday , an estimated 46.5 million people watched the first presidential debate between Gore and Bush , which some commentators deemed rancorous .
+IN NNP , DT VBN CD CD NNS VBD DT JJ JJ NN IN NNP CC NNP , WDT DT NNS VBD JJ .
+3,8,7,8 PER|14,15,14,15 PER|16,17,16,17 PER|19,21,20,21 PER
+
+Lieberman and Cheney were probably on their best behavior because focus groups told the campaigns that conflict does n't pay , commentators mused .
+NNP CC NNP VBD RB IN PRP$ JJS NN IN NN NNS VBD DT NNS IN NN VBZ RB VB , NNS VBD .
+0,1,0,1 PER|2,3,2,3 PER|6,7,6,7 PER|10,12,11,12 PER|13,15,14,15 ORG|21,22,21,22 PER
+
+That Gore-Bush audience was comparable to the 46.1 million people who watched the first duel between President Clinton and Bob Dole four years ago , but fell short of the all-time record : 80 million people watched President Carter and Ronald Reagan square off in 1980 .
+DT NNP NN VBD JJ TO DT CD CD NNS WP VBD DT JJ NN IN NNP NNP CC NNP NNP CD NNS RB , CC VBD JJ IN DT JJ NN : CD CD NNS VBD NNP NNP CC NNP NNP RB RB IN CD .
+0,3,2,3 PER|1,2,1,2 PER|6,24,9,10 PER|10,11,10,11 PER|16,17,16,17 PER|16,18,17,18 PER|19,21,19,21 PER|33,36,35,36 PER|37,38,37,38 PER|37,39,38,39 PER|40,42,40,42 PER
+
+Cheney and Lieberman , with moderator Bernie Shaw , met at Centre College in Danville , Ky. , for their only debate .
+NNP CC NNP , IN NN NNP NNP , VBD IN NNP NNP IN NNP , NNP , IN PRP$ JJ NN .
+0,1,0,1 PER|2,3,2,3 PER|5,6,5,6 PER|5,8,6,8 PER|11,17,11,13 FAC|14,17,14,15 GPE|16,17,16,17 GPE|19,20,19,20 PER
+
+Bush and Gore have two more debates scheduled , on Oct. 11 and 17 .
+NNP CC NNP VBP CD JJR NNS VBN , IN NNP CD CC CD .
+0,1,0,1 PER|2,3,2,3 PER
+
+APW20001106.1252.0310 NEWS STORY 2000-11-06 13:40:39
+NNP NN NN CD NN
+
+
+British-Airways-Sale
+NNP
+
+
+British Airways To Sell Go Division
+JJ NNPS TO VB VB NNP
+
+
+LONDON ( AP ) _ British Airways PLC plans to sell Go , its profitable cut-price subsidiary launched two years ago , the company said Monday .
+NNP -LRB- NNP -RRB- NN NNP NNP NNP VBZ TO VB VB , PRP$ JJ JJ NN VBD CD NNS RB , DT NN VBD NNP .
+0,1,0,1 GPE|2,3,2,3 ORG|5,8,5,8 ORG|11,12,11,12 ORG|13,14,13,14 ORG|13,21,16,17 ORG|22,24,23,24 ORG
+
+BA announced the sale as it reported 160 percent growth in its second-quarter pretax profit , an improvement that suggests Britain 's unofficial flag carrier may finally be entering sunnier financial skies .
+NNP VBD DT NN IN PRP VBD CD NN NN IN PRP$ JJ JJ NN , DT NN WDT VBZ NNP POS JJ NN NN MD RB VB VBG RBR JJ NNS .
+0,1,0,1 ORG|5,6,5,6 ORG|11,12,11,12 ORG|20,21,20,21 GPE|20,25,24,25 ORG
+
+`` Thanks to everyone who works at Go , it is now a leading European brand , '' said Rod Eddington , British Airways ' recently appointed chief executive .
+`` NNS TO NN WP VBZ IN VB , PRP VBZ RB DT VBG JJ NN , '' VBD NNP NNP , NNP NNP POS RB VBN JJ NN .
+3,8,3,4 PER|4,5,4,5 PER|7,8,7,8 ORG|9,10,9,10 ORG|12,16,15,16 ORG|14,15,14,15 GPE|19,21,19,21 PER|22,24,22,24 ORG|22,29,28,29 PER
+
+`` It has made a profit every month this year .
+`` PRP VBZ VBN DT NN DT NN DT NN .
+1,2,1,2 ORG
+
+However , given the strategic goals we have set for the group as a whole , now is the time for British Airways to gain the benefits of its investment and realize the considerable value created in Go . ''
+RB , VBN DT JJ NNS PRP VBP VBN IN DT NN IN DT NN , RB VBZ DT NN IN JJ NNPS TO VB DT NNS IN PRP$ NN CC VB DT JJ NN VBN IN VB . ''
+6,7,6,7 PER|10,15,11,12 ORG|13,15,14,15 ORG|21,23,21,23 ORG|28,29,28,29 ORG|37,38,37,38 ORG
+
+Go is based at Stansted airport , northeast of London , a major base for low-fare carriers operating in Britain .
+VB VBZ VBN IN VBN NN , RB IN NNP , DT JJ NN IN NN NNS VBG IN NNP .
+0,1,0,1 ORG|4,10,4,6 FAC|9,10,9,10 GPE|11,20,13,14 FAC|15,20,16,17 ORG|19,20,19,20 GPE
+
+BA set up Go when smaller rivals began nibbling away at its market share by offering cheaper flights across much of Europe .
+NNP VBD RP VB WRB JJR NNS VBD VBG RB IN PRP$ NN NN IN VBG JJR NNS RB RB IN NNP .
+0,1,0,1 ORG|3,4,3,4 ORG|5,7,6,7 ORG|11,12,11,12 ORG|19,22,19,20 LOC|21,22,21,22 GPE
+
+One such competitor , easyJet , has long accused BA of unfairly subsidizing Go .
+CD JJ NN , NN , VBZ RB VBN NNP IN RB VBG VB .
+0,3,2,3 ORG|4,5,4,5 ORG|9,10,9,10 ORG|13,14,13,14 ORG
+
+BA has denied the accusation but until now has not said whether Go was making money .
+NNP VBZ VBN DT NN CC IN RB VBZ RB VBN IN VB VBD VBG NN .
+0,1,0,1 ORG|12,13,12,13 ORG
+
+British Airways reported a pretax profit of 200 million pounds ( $ 290 million ) in the second quarter ending Sept. 30 , compared to 40 million pounds a year ago .
+NNP NNPS VBD DT JJ NN IN CD CD NNS -LRB- $ CD CD -RRB- IN DT JJ NN VBG NNP CD , VBN TO CD CD NNS DT NN RB .
+0,2,0,2 ORG
+
+Its quarterly operating profit improved to 361 million pounds ( $ 523 million ) from 211 million pounds a year ago .
+PRP$ JJ NN NN VBD TO CD CD NNS -LRB- $ CD CD -RRB- IN CD CD NNS DT NN RB .
+0,1,0,1 ORG
+
+This income growth indicated that BA 's new strategy of trying to attract more business and first-class passengers has started to pay off .
+DT NN NN VBD IN NNP POS JJ NN IN VBG TO VB JJR NN CC JJ NNS VBZ VBN TO VB RP .
+5,6,5,6 ORG|13,18,17,18 PER
+
+BA said its number of premium passengers increased by 7.7 percent during the quarter , while revenues for the first six months of the year rose 4.9 percent to 4.86 billion pounds ( $ 7.05 billion ) .
+NNP VBD PRP$ NN IN NN NNS VBN IN CD NN IN DT NN , IN NNS IN DT JJ CD NNS IN DT NN VBD CD NN TO CD CD NNS -LRB- $ CD CD -RRB- .
+0,1,0,1 ORG|2,3,2,3 ORG|5,7,6,7 PER
+
+`` We are taking a ruthless approach towards poorly performing routes and assets , '' said Eddington .
+`` PRP VBP VBG DT JJ NN IN RB VBG NNS CC NNS , '' VBD NNP .
+1,2,1,2 ORG|16,17,16,17 PER
+
+`` Those not adding value are being removed .
+`` DT RB VBG NN VBP VBG VBN .
+
+
+It is imperative that each of our aircraft generates shareholder value . ''
+PRP VBZ JJ IN DT IN PRP$ NN VBZ NN NN . ''
+4,8,4,5 VEH|6,7,6,7 ORG|6,8,7,8 VEH|9,10,9,10 PER
+
+The airline said it plans to cut capacity worldwide by 10 percent in next summer 's schedule .
+DT NN VBD PRP VBZ TO VB NN RB IN CD NN IN JJ NN POS NN .
+0,2,1,2 ORG|3,4,3,4 ORG
+
+`` We have a number of different businesses operating separately within Europe .
+`` PRP VBP DT NN IN JJ NNS VBG RB IN NNP .
+1,2,1,2 ORG|3,12,7,8 ORG|11,12,11,12 GPE
+
+We are currently examining how we can better rationalize and integrate their activities to deliver better value for the group overall , '' Eddington said .
+PRP VBP RB VBG WRB PRP MD RBR VB CC VB PRP$ NNS TO VB JJR NN IN DT NN NN , '' NNP VBD .
+0,1,0,1 ORG|5,6,5,6 ORG|11,12,11,12 ORG|18,21,19,20 ORG|23,24,23,24 PER
+
+Company shares jumped 7 percent to 352 pence ( $ 5.10 ) each in midday trading on the London Stock Exchange .
+NN NNS VBD CD NN TO CD NN -LRB- $ CD -RRB- DT IN NN NN IN DT NNP NNP NNP .
+0,1,0,1 ORG|17,21,18,21 ORG
+
+BA , the world 's fourth-biggest airline in terms of passenger traffic , has struggled to find its way in recent years .
+NNP , DT NN POS JJ NN IN NNS IN NN NN , VBZ VBN TO VB PRP$ NN IN JJ NNS .
+0,1,0,1 ORG|2,4,3,4 LOC|2,12,6,7 ORG|10,11,10,11 PER|17,18,17,18 ORG
+
+It lost 50 million pounds ( $ 75 million ) in the first quarter , due to high fuel costs and competition , and last year was the airline 's worst since the British government privatized it .
+PRP VBD CD CD NNS -LRB- $ CD CD -RRB- IN DT JJ NN , JJ TO JJ NN NNS CC NN , CC JJ NN VBD DT NN POS JJS IN DT JJ NN VBN PRP .
+0,1,0,1 ORG|27,29,28,29 ORG|32,35,34,35 GPE|33,34,33,34 GPE|36,37,36,37 ORG
+
+Competition has become intense , particularly on its core trans-Atlantic flights , and former chief executive Bob Ayling resigned in March after a troubled four-year stint .
+NN VBZ VBN JJ , RB IN PRP$ NN JJ NNS , CC JJ JJ NN NNP VBG VBD IN NNP IN DT JJ JJ NN .
+7,8,7,8 ORG|9,10,9,10 LOC|13,16,15,16 PER|13,18,16,18 PER
+
+Talks on a long-planned merger with KLM Royal Dutch Airlines collapsed in September .
+NNS IN DT JJ NN IN NNP NNP NNP NNPS VBD IN NNP .
+6,10,6,10 ORG
+
+ABC20001010.1830.0037 NEWS STORY 10/10/2000 18:30:37.22
+NNP NN NN NN NN
+
+
+-- has in the world , one in the middle east is all too obvious , and as of is in broadcast tonight , the clinton administration is not making much progress getting palestinians and israelis to lay off each other and talk about it. the other is north korea .
+: VBZ IN DT NN , CD IN DT JJ JJ VBZ DT RB JJ , CC IN IN VBZ IN NN NN , DT NN NN VBZ RB VBG JJ NN VBG NNS CC NN TO VB RP DT JJ CC NN IN NN DT JJ VBZ RB NN .
+3,5,4,5 LOC|8,11,9,11 LOC|24,27,26,27 ORG|25,26,25,26 PER|33,34,33,34 GPE|35,36,35,36 GPE|39,41,40,41 GPE|48,50,48,50 GPE
+
+today , after a year working the problem , the clinton administration and the highest ranking official from there that 's ever been here have had discussions , described to us as direct , and positive and warm. we 'll get to korea in a minute .
+NN , IN DT NN VBG DT NN , DT NN NN CC DT JJS JJ NN IN RB IN NNS RB VBN RB VBP VBN NNS , VBN TO PRP IN JJ , CC JJ CC NN PRP MD VB TO NN IN DT NN .
+9,12,11,12 ORG|10,11,10,11 PER|13,24,16,17 PER|18,19,18,19 GPE|19,20,19,20 PER|23,24,23,24 GPE|38,39,38,39 PER|42,43,42,43 GPE
+
+there is no substantial change for the better in the middle east tonight .
+EX VBZ DT JJ NN IN DT JJR IN DT JJ JJ NN .
+9,12,10,12 LOC
+
+israelis and palestinians still having the series of running battles to confirm each other 's worst , even stereotype view of the other .
+NN CC NNS RB VBG DT NN IN VBG NNS TO VB DT JJ POS JJS , RB NN NN IN DT JJ .
+0,1,0,1 GPE|2,3,2,3 GPE|12,14,13,14 GPE|21,23,22,23 GPE
+
+abc 's gillian finley begins in palestinian gaza .
+NN POS NN NN VBZ IN NN NN .
+0,1,0,1 ORG|0,4,2,4 PER|6,7,6,7 GPE|6,8,7,8 LOC
+
+in gaza today , israeli soldiers opened fire on school boys , throwing stones .
+IN NN NN , NN NNS VBD NN IN NN NNS , VBG NNS .
+1,2,1,2 LOC|4,5,4,5 GPE|4,6,5,6 PER|9,10,9,10 ORG|9,14,10,11 PER
+
+a 12-year-old is in critical condition .
+DT JJ VBZ IN JJ NN .
+0,2,1,2 PER
+
+in ramallah , troops battled older students in what has become a daily event here. but for the first time today , israel 's military said the level of violence was significantly lower .
+IN NN , NNS VBD JJR NNS IN WP VBZ VBN DT JJ NN NN CC IN DT JJ NN NN , NN POS NN VBD DT NN IN NN VBD RB JJR .
+1,2,1,2 GPE|3,4,3,4 PER|5,7,6,7 PER|14,15,14,15 GPE|22,23,22,23 GPE|22,25,24,25 ORG
+
+and prime minister barak held open the possibility that the harsh action he has been threatening may not be needed .
+CC JJ NN NN VBD VB DT NN IN DT JJ NN PRP VBZ VBN VBG MD RB VB VBN .
+1,3,2,3 PER|1,4,3,4 PER|12,13,12,13 PER
+
+if there is a beginning of change , he said , we will take that into consideration .
+IN EX VBZ DT NN IN NN , PRP VBD , PRP MD VB IN IN NN .
+8,9,8,9 PER|11,12,11,12 PER
+
+i think it helps .
+FW VB PRP VBZ .
+0,1,0,1 PER
+
+i think we need relative calm to work out these things .
+FW VBP PRP VBP JJ NN TO VB RP DT NNS .
+0,1,0,1 PER|2,3,2,3 PER
+
+relative calm may have come to the palestinian territories , but in israel itself , tension is growing .
+JJ NN MD VB VBN TO DT JJ NNS , CC IN NN PRP , NN VBZ VBG .
+6,9,8,9 LOC|7,8,7,8 GPE|12,14,12,13 GPE|13,14,13,14 GPE
+
+particularly at night .
+RB IN NN .
+
+
+in many cities , angry crowds roam the streets .
+IN JJ NNS , JJ NNS VBP DT NNS .
+1,3,2,3 GPE|4,6,5,6 PER|7,9,8,9 FAC
+
+jews and palestinians looking for confrontation .
+NN CC NNS VBG IN NN .
+0,1,0,1 PER|2,3,2,3 PER
+
+last night in tel aviv , jews attacked a restaurant and employs palestinians .
+JJ NN IN NN NN , NN VBD DT NN CC VBZ NNS .
+3,5,3,5 GPE|6,7,6,7 PER|8,13,9,10 FAC|8,13,9,10 ORG|12,13,12,13 PER
+
+" we want war , " the crowd chanted .
+'' PRP VBP NN , `` DT NN VBD .
+1,2,1,2 PER|6,8,7,8 PER
+
+today , one newspaper headline warned of civil war. israelis have so often felt insulated from this kind of violence .
+NN , CD NN NN VBD IN JJ NN NN VBP RB RB VBD VBN IN DT NN IN NN .
+9,10,9,10 GPE
+
+the last 13 days have changed all of that. gillian findlay , abc news , jerusalem .
+DT JJ CD NNS VBP VBN DT IN NN NN NN , NN NN , NN .
+9,16,9,11 PER|12,14,12,14 ORG|15,16,15,16 GPE
+
+10/10/2000 18:32:41.33
+NN NN
+
+
+CNN20001025.0900.0149 NEWS STORY 10/25/2000 9:02:29.03
+NNP NN NN NN NN
+
+
+george w. bush is campaigning in the hotly contested sunshine state today .
+VB NN NN VBZ NN IN DT RB VBN NN NN NN .
+0,3,0,3 PER|6,11,10,11 GPE
+
+bush is stumping with his brother jeb , who is governor of the state .
+NN VBZ VBG IN PRP$ NN NN , WP VBZ NN IN DT NN .
+0,1,0,1 PER|4,5,4,5 PER|4,6,5,6 PER|4,14,6,7 PER|8,9,8,9 PER|10,14,10,11 PER|12,14,13,14 GPE
+
+also on hand , arizona senator john m cain. meanwhile , gore is expected to deliver what aides are calling a major speech on education in tennessee this morning .
+RB IN NN , NN NN NN NN NN RB , VB VBZ VBN TO VB WP NNS VBP VBG DT JJ NN IN NN IN NN DT NN .
+4,5,4,5 GPE|4,6,5,6 PER|4,9,6,9 PER|11,12,11,12 PER|17,18,17,18 PER|26,27,26,27 GPE
+
+the vice president is campaigning with running mate joe lieberman .
+DT NN NN VBZ NN IN VBG NN NN NN .
+0,3,2,3 PER|6,8,7,8 PER|6,10,8,10 PER
+
+polls in gore 's home state show him nearly even with bush. nationwide , the race appears to be seesawing back and forth .
+NNS IN VB POS NN NN VBP PRP RB RB IN NN JJ , DT NN VBZ TO VB VBG RB CC RB .
+2,3,2,3 PER|2,6,5,6 GPE|7,8,7,8 PER|11,12,11,12 PER
+
+we have not seen the lead change hands , after labor day , according to the gallup poll , in a presidential election since 1980. this is the first time. in 1984 , 1988 , 1992 and 1996 , the candidate who was ahead on labor day never went behind .
+PRP VBP RB VBN DT JJ NN NNS , IN NN NN , VBG TO DT NN NN , IN DT JJ NN IN CD DT VBZ DT JJ NN IN CD , CD , CD CC CD , DT NN WP VBD RB IN NN NN RB VBD IN .
+0,1,0,1 PER|16,17,16,17 ORG|39,50,40,41 PER|41,42,41,42 PER
+
+now , unless i 've lost track , because a 's been a little hard to keep track , today is the fifth lead change in gallup polling after labor day between gore and bush. the lead did change hands .
+RB , IN FW VBP VBN NN , IN DT PRP VBN DT RB JJ TO VB NN , NN VBZ DT JJ JJ NN IN NN NN IN NN NN IN VB CC NN DT NN VBD NN NNS .
+3,4,3,4 PER|26,27,26,27 ORG|32,33,32,33 PER|34,35,34,35 PER
+
+yesterday 's cnn / " usa today " / gallup tracking poll shows gore with a slight edge for the first time in two weeks .
+NN POS NN NN '' NN NN `` NN NN NN NN VBZ VB IN DT JJ NN IN DT JJ NN IN CD NNS .
+2,3,2,3 ORG|5,7,5,7 ORG|9,10,9,10 ORG|13,14,13,14 PER
+
+the new numbers show that if the election were held today , 46 % of the likely voters questioned would choose gore .
+DT JJ NNS VBP IN IN DT NN VBD VBN NN , CD NN IN DT JJ NNS VBD MD VB VB .
+12,19,12,14 PER|15,19,17,18 PER|21,22,21,22 PER
+
+45 % would choose bush. but the pollsters say the change is statistically insignificant when the margin of error is considered .
+CD NN MD VB NN CC DT NNS VBP DT NN VBZ RB JJ WRB DT NN IN NN VBZ VBN .
+0,2,0,2 PER|4,5,4,5 PER|6,8,7,8 PER
+
+10/25/2000 9:03:47.96
+NN NN
+
+
+CNN20001204.1400.0438 NEWS STORY 12/04/2000 14:07:18.00
+NNP NN NN NN NN
+
+
+israeli helicopter gunships opened fire on a palestinian position in bethlehem overnight .
+NN NN NNS VBD NN IN DT JJ NN IN NN RB .
+0,1,0,1 GPE|0,3,2,3 VEH|6,11,8,9 LOC|7,8,7,8 GPE|10,11,10,11 GPE
+
+the army says the choppers were firing on gunmen who were shooting at rachel 's tomb for several hours .
+DT NN VBZ DT NNS VBD NN IN NNS WP VBD VBG IN NN POS NN IN JJ NNS .
+0,2,1,2 ORG|3,5,4,5 VEH|8,19,8,9 PER|9,10,9,10 PER|13,16,13,16 FAC
+
+that holy shrine is the traditional burial place of the biblical matriarch .
+IN JJ NN VBZ DT JJ NN NN IN DT JJ NN .
+0,3,2,3 FAC|4,12,7,8 FAC|9,12,11,12 PER
+
+at least 25 palestinians were wounded in gun battles with israeli troops yesterday .
+IN JJS CD NNS VBD VBN IN NN NNS IN NN NNS NN .
+0,4,3,4 PER|7,8,7,8 WEA|10,11,10,11 GPE|10,12,11,12 PER
+
+earlier , two israeli soldiers were stabbed at a roadblock north of jerusalem .
+RBR , CD NN NNS VBD VBN IN DT NN RB IN NN .
+2,5,4,5 PER|3,4,3,4 GPE|8,13,9,10 FAC|12,13,12,13 GPE
+
+meantime , aides to israeli prime minister ehud barak say israel is willing to cooperate with a u.s. - led inquiry into the violence that has killed at least 319 people .
+NN , NNS TO NN JJ NN NN NN VBP NN VBZ JJ TO VB IN DT NN : VBD NN IN DT NN WDT VBZ VBN IN JJS CD NNS .
+2,9,2,3 PER|4,5,4,5 GPE|4,7,6,7 PER|4,9,7,9 PER|10,11,10,11 GPE|17,18,17,18 GPE|27,31,30,31 PER
+
+investigators are expected to arrive in mid-december .
+NNS VBP VBN TO VB IN NN .
+0,1,0,1 PER
+
+12/04/2000 14:07:55.25
+NN NN
+
+
+VOA20001117.2000.1387 NEWS STORY 11/17/2000 20:23:07.80
+NNP NN NN NN NN
+
+
+the Legend of Bagger Vants directed by Robert Redford is the latest movie to bring the game of golf to the screen and is one of the most popular attractions of theaters in the United States .
+DT NNP IN NNP NNS VBN IN NNP NNP VBZ DT JJS NN TO VB DT NN IN NN TO DT NN CC VBZ CD IN DT RBS JJ NNS IN NNS IN DT NNP NNPS .
+7,9,7,9 PER|31,36,31,32 ORG|33,36,34,36 GPE
+
+Entertainment reporter Chuck Rich discussed this and previous golf films with VOA 's Dave Arlington .
+NN NN NNP NNP VBD DT CC JJ NN NNS IN NNP POS NNP NNP .
+0,2,1,2 PER|0,4,2,4 PER|11,12,11,12 ORG|11,15,13,15 PER
+
+The movies 'The Natural' and 'Feel The Dreams ' brought mystical and nostalgic qualities to baseball and The Legend of Bagger Vants , set during the economic depression over the 1920s and 1930s , does the same thing for golf .
+DT NNS NN NNP CC NN DT NNPS POS VBN NN CC JJ NNS TO NN CC DT NNP IN NNP NNPS , VBN IN DT JJ NN IN DT CD CC CD , VBZ DT JJ NN IN NN .
+
+
+Will Smith plays a caddy who revives the confidence , as well as the skill of a golfer whose glory has faded .
+NNP NNP VBZ DT NN WP VBZ DT NN , RB RB IN DT NN IN DT JJR WP$ NN VBZ VBN .
+0,2,0,2 PER|3,22,4,5 PER|5,6,5,6 PER|16,22,17,18 PER|18,19,18,19 PER
+
+You know I understood everything Will Smith said in films like " Men in Black " and " Independence Day . "
+PRP VBP PRP VBD NN NNP NNP VBD IN NNS IN '' NN IN NNP `` CC '' NNP NNP . ``
+0,1,0,1 PER|2,3,2,3 PER|5,7,5,7 PER
+
+What was he talking about there ?
+WP VBD PRP VBG IN RB .
+2,3,2,3 PER
+
+Beats the heck out of me .
+NNS DT NN IN IN PRP .
+5,6,5,6 PER
+
+Seriously , I think golf and many golf films can be whatever you interpret them to be , what the player or the moviegoer decides they 'll be .
+RB , PRP VBP NN CC JJ NN NNS MD VB WDT PRP VB PRP TO VB , WP DT NN CC DT NN VBZ PRP MD VB .
+2,3,2,3 PER|12,13,12,13 PER|19,21,20,21 PER|22,24,23,24 PER
+
+Some people consider golf to be a silly and dull game , following a little ball around the course , others , including some filmmakers , view it as a symbol or as a gauge of a person 's philosophy or psychology .
+DT NNS VBP NN TO VB DT JJ CC JJ NN , VBG DT JJ NN IN DT NN , NNS , VBG DT NNS , VB PRP IN DT NN CC IN DT NN IN DT NN POS NN CC NN .
+0,2,1,2 PER|17,19,18,19 FAC|20,25,20,21 PER|23,25,24,25 PER|36,38,37,38 PER
+
+For example in the 1996 movie " Tin Cup " with Kevin Costner and Cheech Merrin , what might be an embarrassing experience in one golfers past is for him a badge of honor .
+IN NN IN DT CD NN '' NNP NNP `` IN NNP NNP CC NNP NNP , WP MD VB DT JJ NN IN CD NNS RB VBZ IN PRP DT NN IN NN .
+11,13,11,13 PER|14,16,14,16 PER|24,26,25,26 PER|29,30,29,30 PER
+
+Do you have to like golf to like golf movies ?
+VBP PRP VBP TO VB NN TO VB NN NNS .
+1,2,1,2 PER
+
+It helps , but it 's not necessary .
+PRP VBZ , CC PRP VBZ RB JJ .
+
+
+Some filmmakers and performers used golf as a setting for broad comedy with potential appeal both inside and outside of the sport .
+DT NNS CC NNS VBD NN IN DT NN IN JJ NN IN JJ NN DT IN CC IN IN DT NN .
+0,4,1,4 PER
+
+The 1996 golf movie " Happy Gilmore " starring and co-written by Adam Sandler , placed the temperamental ice hockey player in a professional sport that some people consider refine .
+DT CD NN NN '' JJ NNP `` VBG CC JJ IN NNP NNP , VBD DT JJ NN NN NN IN DT JJ NN IN DT NNS VBP VB .
+12,14,12,14 PER|16,21,20,21 PER|26,28,27,28 PER
+
+Golf can be a very frustrating game .
+NNP MD VB DT RB JJ NN .
+
+
+So , any golfer I guess would understand that gag in " Happy Gilmore . "
+RB , DT NN PRP VBP MD VB IN NN IN '' JJ NNP . ``
+2,4,3,4 PER|4,5,4,5 PER
+
+And anyone who dislikes or is bored by golf , might appreciate seeing the game played for laughs there .
+CC NN WP NN CC VBZ VBN IN NN , MD VB VBG DT NN VBN IN NNS RB .
+1,9,1,2 PER|2,3,2,3 PER
+
+What is your take on golf movies ?
+WP VBZ PRP$ NN IN NN NNS .
+2,3,2,3 PER
+
+I only play miniature golf and I do n't watch golf on television .
+PRP RB VBP JJ NN CC PRP VBP RB VB NN IN NN .
+0,1,0,1 PER|6,7,6,7 PER
+
+I think I am one of the people filmmakers are thinking of , when they try to give a golf movie wide appeal , humor , or a love story for example .
+PRP VBP PRP VBP CD IN DT NNS NNS VBP VBG IN , WRB PRP VBP TO VB DT NN NN JJ NN , NN , CC DT NN NN IN NN .
+0,1,0,1 PER|2,3,2,3 PER|4,32,4,5 PER|6,32,7,8 PER|8,9,8,9 PER|14,15,14,15 PER
+
+One film that 's attracted a lot of golf loving fans over the years is 1980s " Caddy Shack " .
+CD NN WDT VBZ VBN DT NN IN NN VBG NNS IN DT NNS VBZ CD '' NNP NNP `` .
+5,11,10,11 PER
+
+Set at the exclusive Bush Wood country club , it 's about class conflict or as movie advertising sometimes calls it , the snobs versus the flops .
+NNP IN DT JJ NNP NNP NN NN , PRP VBZ IN NN NN CC IN NN NN RB VBZ PRP , DT NN CC DT NNS .
+2,8,4,8 FAC|22,24,23,24 PER|25,27,26,27 PER
+
+Here is one golfer in " Caddy Shack " played by Rodney Dangerfield , bothering another , a judge played by the late Ted Night .
+RB VBZ CD JJR IN '' NNP NNP `` VBD IN NNP NNP , VBG DT , DT NN VBN IN DT JJ NNP NNP .
+2,25,3,4 PER|11,13,11,13 PER|15,16,15,16 PER|17,25,18,19 PER|21,25,23,25 PER
+
+As a comedian , Rodney Dangerfield often says he gets no respect , but were n't the filmmakers is really showing their respect for him and his drawing power by casting him in this film ?
+IN DT NN , NNP NNP RB VBZ PRP VBZ DT NN , CC VBD RB DT NNS VBZ RB VBG PRP$ NN IN PRP CC PRP$ VBG NN IN VBG PRP IN DT NN .
+1,3,2,3 PER|4,6,4,6 PER|8,9,8,9 PER|16,18,17,18 PER|21,22,21,22 PER|24,25,24,25 PER|26,27,26,27 PER|31,32,31,32 PER
+
+I think Dangerfield was a big selling point who attracted a lot of his fans , who include me , to see " Caddy Shack . "
+PRP VBP NNP VBD DT JJ NN NN WP VBD DT NN IN PRP$ NNS , WP VBP PRP , TO VB '' NNP NNP . ``
+0,1,0,1 PER|2,3,2,3 PER|4,27,7,8 PER|8,9,8,9 PER|10,19,11,12 PER|13,14,13,14 PER|13,19,14,15 PER|18,19,18,19 PER
+
+I do n't think it 's a very good film , but it 's a popular one and the music in " Caddy Shack " got some attention too .
+PRP VBP RB VB PRP VBZ DT RB JJ NN , CC PRP VBZ DT JJ CD CC DT NN IN '' NNP NNP `` VBD DT NN RB .
+0,1,0,1 PER
+
+We 're going to finish up our cinematic round of golf with some of that .
+PRP VBP VBG TO VB RP PRP$ JJ NN IN NN IN DT IN DT .
+0,1,0,1 PER|6,7,6,7 PER
+
+Thank you , Chuck .
+VB PRP , NNP .
+1,2,1,2 PER|3,4,3,4 PER
+
+You 're welcome , Dave .
+PRP VBP JJ , NNP .
+0,1,0,1 PER|4,5,4,5 PER
+
+11/17/2000 20:27:40.14
+NN NN
+
+
+ABC20001001.1830.0973 NEWS STORY 10/01/2000 18:46:13.59
+NNP NN NN NN NN
+
+
+like many heartland states , iowa has had trouble keeping young people down on the farm or anywhere within state lines .
+IN JJ NN NNS , NN VBZ VBN NN VBG JJ NNS RB IN DT NN CC RB IN NN NNS .
+1,4,3,4 GPE|2,3,2,3 LOC|5,6,5,6 GPE|10,12,11,12 PER|14,16,15,16 FAC|17,21,17,18 LOC|19,20,19,20 GPE|19,21,20,21 LOC
+
+with population waning , the state is looking beyond its borders for newcomers .
+IN NN VBG , DT NN VBZ VBG IN PRP$ NNS IN NNS .
+4,6,5,6 GPE|9,10,9,10 GPE|9,11,10,11 LOC|12,13,12,13 PER
+
+as abc 's jim sciutto reports , one little town may provide a big lesson .
+IN NN POS NN NN NNS , CD JJ NN MD VB DT JJ NN .
+1,2,1,2 ORG|1,5,3,5 PER|7,10,9,10 GPE
+
+on homecoming night postville feels like hometown , usa , but a look around this town of 2,000 shows it 's become a miniature ellis island .
+IN NN NN NN VBZ IN NN , NN , CC DT NN IN DT NN IN CD NNS PRP VBZ VBN DT JJ NN NN .
+3,4,3,4 GPE|6,9,6,7 GPE|8,9,8,9 GPE|14,18,15,16 GPE|17,18,17,18 PER|19,20,19,20 GPE|22,26,24,26 GPE
+
+this was an all-white , all-christian community that all the sudden was taken over -- not taken over , that 's a very bad choice of words , but invaded by , perhaps different groups .
+DT VBD DT JJ , JJ NN IN PDT DT JJ VBD VBN IN : RB VBN IN , IN VBZ DT RB JJ NN IN NNS , CC VBD IN , RB JJ NNS .
+0,1,0,1 GPE|2,35,6,7 GPE|3,4,3,4 PER|5,6,5,6 PER|7,8,7,8 GPE|33,35,34,35 PER
+
+it began when a hasidic jewish family bought one of the town 's two meat-packing plants 13 years ago. first they brought in other hasidic jews , then mexicans , palestinians , ukrainians .
+PRP VBD WRB DT JJ NN NN VBD CD IN DT NN POS CD NN NNS CD NNS NN JJ PRP VBD IN JJ JJ NN , RB NNS , NNS , NNS .
+3,7,6,7 PER|4,6,4,6 PER|8,16,8,9 FAC|10,12,11,12 GPE|10,16,15,16 FAC|20,21,20,21 PER|23,26,25,26 PER|28,29,28,29 PER|30,31,30,31 PER|32,33,32,33 PER
+
+the plant and another next store changed the face of postville .
+DT NN CC DT JJ NN VBD DT NN IN NN .
+0,2,1,2 FAC|3,6,3,4 FAC|10,11,10,11 GPE
+
+i think postville might be catching up with the rest of america .
+FW VBP NN MD VB VBG RP IN DT NN IN NN .
+0,1,0,1 PER|2,3,2,3 GPE|8,12,9,10 GPE|11,12,11,12 GPE
+
+if you look all over america , if you did a study of any great city , you would see the same thing .
+IN PRP VBP DT IN NN , IN PRP VBD DT NN IN DT JJ NN , PRP MD VB DT JJ NN .
+1,2,1,2 PER|5,6,5,6 GPE|8,9,8,9 PER|13,16,15,16 GPE|17,18,17,18 PER
+
+the plants helped spur economic development in a town that had long been stagnant .
+DT NNS VBD VB JJ NN IN DT NN WDT VBD RB VBN JJ .
+0,2,1,2 FAC|7,14,8,9 GPE|9,10,9,10 GPE
+
+stores are expanding .
+NNS VBP VBG .
+0,1,0,1 FAC
+
+new apartments and houses are being built .
+JJ NNS CC NNS VBP VBG VBN .
+0,4,1,4 FAC
+
+and there are hundreds of new jobs , making unemployment almost nonexistent .
+CC EX VBP NNS IN JJ NNS , VBG NN RB JJ .
+
+
+what else would you like ?
+WP RB MD PRP VB .
+3,4,3,4 PER
+
+postville now has 22 different nationalities , but some resident have n't welcomed the newcomers .
+NN RB VBZ CD JJ NNS , CC DT NN VBP RB VBN DT NNS .
+0,1,0,1 GPE|8,10,9,10 PER|13,15,14,15 PER
+
+they have no insurance on their cars. they do n't stop at stop signs .
+PRP VBP DT NN IN PRP$ NN PRP VBP RB VB IN NN NNS .
+0,1,0,1 PER|5,6,5,6 PER|5,7,6,7 VEH|7,8,7,8 PER
+
+they do not put their children in a cash -- they 're never heard of a car seat .
+PRP VBP RB VB PRP$ NNS IN DT NN : PRP VBP RB VBN IN DT NN NN .
+0,1,0,1 PER|4,5,4,5 PER|4,6,5,6 PER|10,11,10,11 PER|16,17,16,17 VEH
+
+you know we 've been here a long time and i think most people would meet them halfway , but that does n't seem to be what they want .
+PRP VBP PRP VBP VBN RB DT JJ NN CC FW VBP JJS NNS MD VB PRP JJ , CC DT VBZ RB VB TO VB WP PRP VBP .
+0,1,0,1 PER|2,3,2,3 PER|5,6,5,6 GPE|10,11,10,11 PER|12,14,13,14 PER|16,17,16,17 PER|27,28,27,28 PER
+
+for those who prefer the old postville , mayor john hyman has a simple answer .
+IN DT WP VBP DT JJ NN , NN NN NN VBZ DT JJ NN .
+1,7,1,2 PER|2,3,2,3 PER|4,7,6,7 GPE|8,9,8,9 PER|8,11,9,11 PER
+
+i just tell them , you 've got to change .
+FW RB VB PRP , PRP VBP VBN TO VB .
+0,1,0,1 PER|3,4,3,4 PER|5,6,5,6 PER
+
+they 're here to stay. they 're not gonna leave .
+PRP VBP RB TO NN PRP VBP RB NN NN .
+0,1,0,1 PER|2,3,2,3 GPE|5,6,5,6 PER
+
+and you 're going to have to adapt to these people .
+CC PRP VBP VBG TO VB TO VB TO DT NNS .
+1,2,1,2 PER|9,11,10,11 PER
+
+iowa 's governor is now looking to follow postville 's example , relaxing immigration quoteios .
+NN POS NN VBZ RB VBG TO VB NN POS NN , VBG NN NNS .
+0,1,0,1 GPE|0,3,2,3 PER|8,9,8,9 GPE
+
+it 's a goal that seems possible when on homecoming night the starting kicker is 14-year-old nikita kargalskiy , who may be 5,000 miles from his hometown in russia .
+PRP VBZ DT NN WDT VBZ JJ WRB IN NN NN DT VBG NN VBZ JJ NN NN , WP MD VB CD NNS IN PRP$ NN IN NN .
+11,14,13,14 PER|15,29,16,18 PER|19,20,19,20 PER|25,26,25,26 PER|25,29,26,27 GPE|28,29,28,29 GPE
+
+jim sciutto , abc news , postville iowa .
+NN NN , NN NN , NN NN .
+0,2,0,2 PER|3,5,3,5 ORG|6,8,6,7 GPE|7,8,7,8 GPE
+
+10/01/2000 18:48:39.30
+NN NN
+
+
+CNN20001217.1400.0883 NEWS STORY 12/17/2000 14:14:43.40
+NNP NN NN NN NN
+
+
+the federal reserve considers interest rates .
+DT JJ NN VBZ NN NNS .
+0,3,1,3 ORG
+
+and some key economic reports come out this week. kitty pilgrim has more in today 's edition of " ahead of the curve . "
+CC DT JJ JJ NNS VBP RP DT NN NN NN VBZ JJR IN NN POS NN IN '' RB IN DT NN . ``
+9,11,9,11 PER
+
+wall street will be on fed watch this week. on tuesday , the federal reserve open market committee meets for the final time this year to discuss interest rates .
+NN NN MD VB IN VBN VB DT NN IN NN , DT JJ NN JJ NN NN VBZ IN DT JJ NN DT NN TO VB NN NNS .
+0,2,0,2 ORG|5,6,5,6 ORG|12,18,17,18 ORG|13,15,13,15 ORG
+
+recent economic reports indicate the economy is slowing , leading analysts to believe that the fed will most likely ease the inflation-fighting policy and take a more neutral stance .
+JJ JJ NNS VBP DT NN VBZ VBG , VBG NNS TO VB IN DT VBN MD RBS RB VB DT JJ NN CC VB DT RBR JJ NN .
+9,11,10,11 PER|14,16,15,16 ORG
+
+now , the fed has held rates steady in its last four meetings .
+RB , DT NN VBZ VBN NNS JJ IN PRP$ JJ CD NNS .
+2,4,3,4 ORG
+
+also tuesday , october international trade figures are out. the deficit is expected to drop from september 's record high of $34.3 billion , to just over $33 billion .
+RB JJ , VB JJ NN NNS VBP NN DT NN VBZ VBN TO VB IN NN POS NN JJ IN NN CD , TO RB IN NN CD .
+
+
+also this week , november housing starts , which are forecast to hold steady .
+RB DT NN , NN NN NNS , WDT VBP VBN TO VB JJ .
+
+
+and the revised third-quarter gross domestic product is expected to remain in line with previous figures , up to .4 %. rounding out the week , november personal income and outlays figures and november durable goods .
+CC DT VBN JJ JJ JJ NN VBZ VBN TO VB IN NN IN JJ NNS , IN TO CD NN VBG RP DT NN , NN JJ NN CC NNS NNS CC VB JJ NNS .
+
+
+personal income and spending are both expected to rise. and sales of durable goods should climb slightly for the month , as well. to stay " ahead of the curve " all week long , watch " the moneyline news hour " with willow bay and stewart varney , week nights at on cnn. kitty pilgrim , " cnn financial news , " new york .
+JJ NN CC NN VBP DT VBN TO NN CC NNS IN JJ NNS MD VB RB IN DT NN , IN NN TO VB '' RB IN DT NN `` DT NN RB , VB '' DT JJ NN NN `` IN JJ NN CC NN NN , NN NNS IN IN NN NN NN , '' NN JJ NN , `` JJ NN .
+43,45,43,45 PER|46,48,46,48 PER|53,54,53,54 ORG|54,56,54,56 PER|58,61,58,61 ORG|63,65,63,65 GPE
+
+12/17/2000 14:16:07.18
+NN NN
+
+
+CNN20001008.1400.1441 NEWS STORY 10/08/2000 14:24:01.56
+NNP NN NN NN NN
+
+
+former russian president boris yeltsin takes readers behind closed doors at the kremlin in his new book. yeltsin writes in " midnight diaries " that he received intelligence reports about the monica lewinsky scandal before it went public , but he chose not to warn president clinton .
+JJ JJ NN NN NN VBZ NNS IN JJ NNS IN DT NN IN PRP$ JJ NN NN VBZ IN '' NN NNS `` IN PRP VBD NN NNS IN DT NN JJ NN IN PRP VBD JJ , CC PRP VBD RB TO VB NN NN .
+0,3,2,3 PER|0,5,3,5 PER|1,2,1,2 GPE|6,7,6,7 PER|11,13,12,13 FAC|14,15,14,15 PER|17,18,17,18 PER|25,26,25,26 PER|31,33,31,33 PER|40,41,40,41 PER|45,46,45,46 PER|45,47,46,47 PER
+
+he says he " thought clinton could handle it himself . "
+PRP VBZ PRP '' VBD NN MD VB PRP PRP . ``
+0,1,0,1 PER|2,3,2,3 PER|5,6,5,6 PER|9,10,9,10 PER
+
+yeltsin also admits he was drunk when he grabbed a baton and struck up a military orchestra in berlin six years ago .
+NN RB VBZ PRP VBD JJ WRB PRP VBD DT NN CC VBD RP DT JJ NN IN NN CD NNS RB .
+0,1,0,1 PER|3,4,3,4 PER|7,8,7,8 PER|14,17,16,17 ORG|15,16,15,16 ORG|18,19,18,19 GPE
+
+10/08/2000 14:24:28.38
+NN NN
+
+
+CNN20001027.1400.0436 NEWS STORY 10/27/2000 14:07:16.39
+NNP NN NN NN NN
+
+
+microsoft confirms hackers broke into the company 's computer network and gained access to software code information .
+NN VBZ NNS VBD IN DT NN POS NN NN CC VBD NN TO NN NN NN .
+0,1,0,1 ORG|2,3,2,3 PER|5,7,6,7 ORG
+
+the fbi is investigating .
+DT NN VBZ VBG .
+0,2,1,2 ORG
+
+a microsoft executive calls the break-in an " issue of great importance , " but says none of the codes were tampered with. the company says computers running microsoft software should n't be affected .
+DT NN NN VBZ DT NN DT '' NN IN JJ NN , `` CC VBZ NN IN DT NNS VBD VBN NN DT NN VBZ NNS VBG NN NN MD RB VB VBN .
+0,3,2,3 PER|1,2,1,2 ORG|23,25,24,25 ORG|28,29,28,29 ORG
+
+" the wall street journal " reports the break-in was discovered wednesday .
+'' DT NN NN NN `` VBZ DT NN VBD VBN RB .
+1,5,1,5 ORG
+
+" the journal " says security employees found passwords used to transfer codes were being sent to an e-mail address in st. petersburg , russia .
+'' DT NN `` VBZ NN NNS VBD NNS VBN TO VB NNS VBD VBG VBN TO DT JJ NN IN NN NN , NN .
+1,3,1,3 ORG|5,7,6,7 PER|21,25,21,23 GPE|24,25,24,25 GPE
+
+10/27/2000 14:07:45.71
+NN NN
+
+
+VOA20001008.2100.2700 NEWS STORY 10/08/2000 21:45:00.79
+NNP NN NN NN NN
+
+
+01:45 Universal Time .
+NN NNP NNP .
+
+
+This is VOA News now .
+DT VBZ NNP NNP RB .
+2,4,2,4 ORG
+
+A new and simple blood test may soon be available to help doctors tell which of their diabetic patients is most likely to develop crippling and life-threatening complications .
+DT JJ CC JJ NN NN MD RB VB JJ TO VB NNS VB WDT IN PRP$ JJ NNS VBZ RBS JJ TO VB JJ CC JJ NNS .
+12,13,12,13 PER|16,17,16,17 PER|16,19,18,19 PER
+
+VOA 's Jessica Berman explains .
+NNP POS NNP NNP VBZ .
+0,1,0,1 ORG|0,4,2,4 PER
+
+Researcher Andrew Levi says scientists have long being puzzled by the question of which diabetics develop complications and why .
+NNP NNP NNP VBZ NNS VBP JJ VBG VBN IN DT NN IN WDT NNS VBP NNS CC WRB .
+0,1,0,1 PER|0,3,1,3 PER|4,5,4,5 PER|13,15,14,15 PER
+
+We know that the complications are directly related to a couple of things .
+PRP VBP IN DT NNS VBP RB VBN TO DT NN IN NNS .
+0,1,0,1 PER
+
+One is how long you 've had the diabetes , how well you 've been controlled , but it 's clear that people with the same level of control of their glucose , same duration of the diabetes differ dramatically in their susceptibility to these complications that are so devastating .
+CD VBZ WRB RB PRP VBP VBN DT NN , WRB RB PRP VBP VBN VBN , CC PRP VBZ JJ IN NNS IN DT JJ NN IN NN IN PRP$ NN , JJ NN IN DT NN VBP RB IN PRP$ NN TO DT NNS WDT VBP RB JJ .
+4,5,4,5 PER|12,13,12,13 PER|22,38,22,23 PER|30,31,30,31 PER|41,42,41,42 PER
+
+Dr. Levi says one third of insulin taking patients ends up with kidney failure and 80 % develop blinding eye disease .
+NNP NNP VBZ CD JJ IN NN VBG NNS VBZ RP IN NN NN CC CD NN VB VBG NN NN .
+0,1,0,1 PER|0,2,1,2 PER|3,9,3,5 PER|6,9,8,9 PER|15,17,15,17 PER
+
+Scientists have suspected there must be something different about the genetic make up of diabetics who develop complications ; and that difference may have to do with haptoglobin , a protein whose function is to mop up blood vessel destroying free radicals .
+NNS VBP VBN RB MD VB NN JJ IN DT JJ VBP RP IN NNS WP VBP NNS : CC DT NN MD VB TO VB IN NN , DT NN WP$ NN VBZ TO VB RP NN NN VBG JJ NNS .
+0,1,0,1 PER|14,18,14,15 PER|15,16,15,16 PER
+
+The free radicals are released when oxygen carrying red blood cells called haemoglobin die .
+DT JJ NNS VBP VBN WRB NN VBG JJ NN NNS VBN NN NN .
+
+
+Andrew Levi says there are three different types of haptoglobin and he and his colleagues at Israel 's Technion Institute have found that one type of haptoglobin called Type 1-1 appears protective against diabetic complications while the other two types do not .
+NNP NNP VBZ EX VBP CD JJ NNS IN NN CC PRP CC PRP$ NNS IN NNP POS NNP NNP VBP VBN IN CD NN IN NN VBN NNP CD VBZ JJ IN JJ NNS IN DT JJ CD NNS VBP RB .
+0,2,0,2 PER|11,12,11,12 PER|13,14,13,14 PER|13,20,14,15 PER|16,17,16,17 GPE|16,20,18,20 ORG
+
+Researchers at Technion Institute led by Dr. Levi have developed a simple blood test to let doctors and patients know who is most likely to develop diabetic complications .
+NNS IN NNP NNP VBD IN NNP NNP VBP VBN DT JJ NN NN TO VB NNS CC NNS VBP WP VBZ RBS JJ TO VB JJ NNS .
+0,8,0,1 PER|2,4,2,4 ORG|6,7,6,7 PER|6,8,7,8 PER|16,17,16,17 PER|18,19,18,19 PER|20,21,20,21 PER
+
+In a person that 's not at high risk , when I tell them to go out and start eating badly and not worrying about it , no , that would be not warranted because they are certainly are going to be other complications potentially in diabetes that are not going to be explained by this type .
+IN DT NN WDT VBZ RB IN JJ NN , WRB PRP VBP PRP TO VB RB CC VB VBG RB CC RB VBG IN PRP , DT , WDT MD VB RB VBN IN PRP VBP RB VBP VBG TO VB JJ NNS RB IN NN WDT VBP RB VBG TO VB VBN IN DT NN .
+1,9,2,3 PER|3,4,3,4 PER|11,12,11,12 PER|13,14,13,14 PER
+
+I 'll tell you that what I 'm most excited about this test I think is simple to apply and I think we can appreciate its immediate use in trying to figure out who is at high risk .
+PRP MD VB PRP IN WP PRP VBP RBS JJ IN DT NN PRP VBP VBZ JJ TO VB CC PRP VBP PRP MD VB PRP$ JJ NN IN VBG TO VB RP WP VBZ IN JJ NN .
+0,1,0,1 PER|3,4,3,4 PER|6,7,6,7 PER|13,14,13,14 PER|20,21,20,21 PER|22,23,22,23 PER|33,34,33,34 PER
+
+But because I really think it gives us a real insight into how to prevent these complications , what I 'm really excited about is we are really going to find out an oral simple medication here .
+CC IN PRP RB VBP PRP VBZ PRP DT JJ NN IN WRB TO VB DT NNS , WP PRP VBP RB JJ IN VBZ PRP VBP RB VBG TO VB RP DT JJ JJ NN RB .
+2,3,2,3 PER|7,8,7,8 PER|19,20,19,20 PER|25,26,25,26 PER
+
+It 's going to basically reproduce what the haptoglobin 1-1 type is doing and I think that we are going to be able to basically make people equivalent to haptoglobin Type 1-1 .
+PRP VBZ VBG TO RB VB WP DT NN CD NN VBZ VBG CC PRP VBP IN PRP VBP VBG TO VB JJ TO RB VB NNS JJ TO NN NNP CD .
+14,15,14,15 PER|26,27,26,27 PER
+
+It 's the type to prevent these complications from developing .
+PRP VBZ DT NN TO VB DT NNS IN VBG .
+
+
+Israeli researchers recently described in the New England Journal of Medicine , the results of a small trial with the blood test .
+JJ NNS RB VBN IN DT NNP NNP NNP IN NNP , DT NNS IN DT JJ NN IN DT NN NN .
+0,1,0,1 GPE|0,2,1,2 PER
+
+Of 12 participants with the more protective haptoglobin only one had eye disease .
+IN CD NNS IN DT RBR JJ NN RB CD VBD NN NN .
+1,8,2,3 PER|9,10,9,10 PER
+
+Robert Sherwin is President of the American Diabetes Association .
+NNP NNP VBZ NNP IN DT NNP NNP NNP .
+0,2,0,2 PER|3,9,3,4 PER|6,9,6,9 ORG
+
+Dr. Sherwin says a haptoglobin test looks promising .
+NNP NNP VBZ DT NN NN VBZ JJ .
+0,1,0,1 PER|0,2,1,2 PER
+
+Because right now we do n't have any such test available .
+IN RB RB PRP VBP RB VB DT JJ NN JJ .
+3,4,3,4 PER
+
+We treat all people the same way .
+PRP VBP DT NNS DT JJ NN .
+0,1,0,1 PER|2,4,3,4 PER
+
+There is no question that if one could identify prospectively people at risk the approach to therapy would be very different in different individuals and clearly those people who are at greatest risk we would be much quicker and intervening more aggressively in various aspects of care .
+EX VBZ DT NN IN IN CD MD VB RB NNS IN NN DT NN TO NN MD VB RB JJ IN JJ NNS CC RB DT NNS WP VBP IN JJS NN PRP MD VB RB JJR CC VBG RBR RB IN JJ NNS IN NN .
+6,7,6,7 PER|10,13,10,11 PER|22,24,23,24 PER|26,33,27,28 PER|28,29,28,29 PER|33,34,33,34 PER
+
+The blood test is currently undergoing large-scale clinical trials in Israel , the first step toward getting it approved by government regulators around the world .
+DT NN NN VBZ RB VBG JJ JJ NNS IN NNP , DT JJ NN IN VBG PRP VBD IN NN NNS IN DT NN .
+10,11,10,11 GPE|20,25,21,22 PER|23,25,24,25 LOC
+
+Jessica Bermen , VOA News , Washington .
+NNP NNP , NNP NNP , NNP .
+0,2,0,2 PER|3,5,3,5 ORG|6,7,6,7 GPE
+
+10/08/2000 21:49:05.22
+NN NN
+
+
+MNB20001109.2100.0264 NEWS STORY 11/09/2000 21:04:24.42
+NNP NN NN NN NN
+
+
+if you ask the gore campaign , the fight is far from over. there position was to stand and fight today .
+IN PRP VBP DT VB NN , DT NN VBZ RB IN NN EX NN VBD TO VB CC VB NN .
+1,2,1,2 PER|3,6,5,6 ORG|4,5,4,5 PER|13,14,13,14 ORG
+
+our report tonight from claire shipman .
+PRP$ NN NN IN NN NN .
+0,1,0,1 ORG|4,6,4,6 PER
+
+a confident and seemingly relaxed al gore out for a run in nashville .
+DT JJ CC RB VBD NN VB RP IN DT NN IN NN .
+0,13,5,7 PER|12,13,12,13 GPE
+
+mr. vice president , did you win the election , sir ?
+NN NN NN , VBD PRP VB DT NN , NN .
+0,1,0,1 PER|0,3,2,3 PER|10,11,10,11 PER
+
+we 're having here .
+PRP VBP VBG RB .
+0,1,0,1 PER
+
+he is he fethively starting a second campaign for the white house , this one in the court of public opinion .
+PRP VBZ PRP RB VBG DT JJ NN IN DT JJ NN , DT CD IN DT NN IN JJ NN .
+0,1,0,1 PER|9,12,10,12 ORG
+
+his campaign chairman in florida with a tough message .
+PRP$ NN NN IN NN IN DT JJ NN .
+0,1,0,1 PER|0,5,2,3 PER|4,5,4,5 GPE
+
+what beff learned has left us deeply trubblingd troubled .
+WP NN VBD VBZ VBN PRP RB NN JJ .
+5,6,5,6 PER
+
+calling for a hand recount in some florida counties and announcing .
+VBG IN DT NN NN IN DT NN NNS CC VBG .
+6,9,8,9 GPE|7,8,7,8 GPE
+
+campaign will support lawsuits over the issue of ball olt irregularities in palm beach .
+NN MD VB NNS IN DT NN IN NN NN NNS IN NN NN .
+12,14,12,14 GPE
+
+if the will of the people is to prevail , al gore should be our next president the
+IN DT NN IN DT NNS VBZ TO VB , NN VB MD VB PRP$ JJ NN DT
+4,6,5,6 GPE|10,12,10,12 PER|14,15,14,15 GPE|14,17,16,17 PER
+
+former secretary of state warren christopher also pushes the issue hard .
+JJ NN IN NN NN NN RB VBZ DT NN RB .
+0,4,1,2 PER|0,6,4,6 PER|3,4,3,4 ORG
+
+arising out of this the need for redress to make sure the will of the people can be properly honored in this situation .
+VBG RP IN DT DT NN IN NN TO VB JJ DT NN IN DT NNS MD VB RB VBN IN DT NN .
+14,16,15,16 GPE
+
+and daley , turning up the rhetoric substantially , criticizes the behavior of the bush campaign .
+CC NN , VBG RP DT NN RB , VBZ DT NN IN DT NN NN .
+1,2,1,2 PER|13,16,15,16 ORG|14,15,14,15 PER
+
+i believe actions , to try and put in place a transition , run the risk of dividing the american people and creating a sense of confusion .
+FW VBP NNS , TO VB CC VB IN NN DT NN , VBP DT NN IN VBG DT NN NNS CC VBG DT NN IN NN .
+0,1,0,1 PER|18,21,20,21 GPE|19,20,19,20 GPE
+
+gore officials , meanwhile , under siege by reporters in nashville .
+VB NNS , RB , IN NN IN NNS IN NN .
+0,1,0,1 PER|0,2,1,2 PER|8,11,8,9 PER|10,11,10,11 GPE
+
+i think we our seat belts on .
+FW VB PRP PRP$ NN NNS IN .
+0,1,0,1 PER|2,3,2,3 PER|3,4,3,4 PER
+
+they gore is not simply trying to drag out the inevitable , that he does have a shot at winning with a careful shot of legal and public relations tactics .
+PRP VB VBZ RB RB VBG TO VB RP DT JJ , IN PRP VBZ VB DT NN IN VBG IN DT JJ NN IN JJ CC JJ NNS NNS .
+0,1,0,1 PER|1,2,1,2 PER|13,14,13,14 PER
+
+11/09/2000 21:06:10.62
+NN NN
+
+
+ABC20001017.1830.0661 NEWS STORY 10/17/2000 18:41:01.17
+NNP NN NN NN NN
+
+
+once again there 'll be two presidential candidates missing form the debate .
+RB RB EX MD VB CD JJ NNS VBG NN DT NN .
+5,8,7,8 PER
+
+pat buchanan hardly registers on the political radar this year. and ralph nader , who may make the difference between a gore or bush win in several places .
+NN NN RB VBZ IN DT JJ NN DT NN CC NN NN , WP MD VB DT NN IN DT VB CC NN VBP IN JJ NNS .
+0,2,0,2 PER|11,28,11,13 PER|14,15,14,15 PER|21,22,21,22 PER|23,24,23,24 PER|26,28,27,28 GPE
+
+abc 's linda douglas was with his campaign over the weekend .
+NN POS NN NNS VBD IN PRP$ NN IN DT NN .
+0,1,0,1 ORG|0,4,2,4 PER|6,7,6,7 PER|6,8,7,8 ORG
+
+ralph nader says his campaign is starting to take off. do you feel momentum from last night ?
+NN RBR VBZ PRP$ NN VBZ VBG TO VB NN VBP PRP VB NN IN JJ NN .
+0,2,0,2 PER|3,4,3,4 PER|11,12,11,12 PER
+
+yeah. well , it was pretty big .
+NN RB , PRP VBD RB JJ .
+
+
+7777
+CD
+
+
+at a nader rally in madison square garden , 15,000 people joined actors tim robbins , susan sarandon and other stars to hear his message -- that average americans are powerless .
+IN DT RBR NN IN JJ JJ NN , CD NNS VBD NNS RB NNS , JJ VB CC JJ NNS TO VB PRP$ NN : IN NN NNS VBP JJ .
+2,3,2,3 PER|5,8,5,8 FAC|9,11,10,11 PER|12,13,12,13 PER|12,15,13,15 PER|16,18,16,18 PER|19,21,20,21 PER|23,24,23,24 PER|27,29,28,29 PER
+
+they have lost control of their government .
+PRP VBP VBN NN IN PRP$ NN .
+0,1,0,1 PER|5,6,5,6 PER|5,7,6,7 ORG
+
+they have lost control of their workplace .
+PRP VBP VBN NN IN PRP$ NN .
+0,1,0,1 PER|5,6,5,6 PER
+
+nader condemns corporations , drug companies , pesticide manufacturers , banks , landlords , the media .
+NN VBZ NNS , NN NNS , NN NNS , NNS , NNS , DT NNS .
+0,1,0,1 PER|2,3,2,3 ORG|4,6,5,6 ORG|7,9,8,9 ORG|10,11,10,11 ORG|12,13,12,13 PER|14,16,15,16 ORG
+
+his supporters say they do n't care that he has no chance to become president .
+PRP$ NNS VBP PRP VBP RB VB IN PRP VBZ DT NN TO VB NN .
+0,1,0,1 PER|0,2,1,2 PER|3,4,3,4 PER|8,9,8,9 PER|14,15,14,15 PER
+
+i want to see my vote as a statement that i will no longer compromise .
+FW VBP TO VB PRP$ NN IN DT NN IN FW MD DT JJR NN .
+0,1,0,1 PER|4,5,4,5 PER|10,11,10,11 PER
+
+nader says george bush and al gore are essentially corrupt .
+NN VBZ VB NN CC NN VB VBP RB JJ .
+0,1,0,1 PER|2,4,2,4 PER|5,7,5,7 PER
+
+here 's the difference between bush and gore when it comes to corporate power .
+RB VBZ DT NN IN NN CC VB WRB PRP VBZ TO JJ NN .
+5,6,5,6 PER|7,8,7,8 PER
+
+it 's velocity with which their knees hit the floor when corporations knock on their doors .
+PRP VBZ NN IN WDT PRP$ NNS VBD DT NN WRB NNS VB IN PRP$ NNS .
+5,6,5,6 PER|11,12,11,12 ORG
+
+applause
+NN
+
+
+in a year when most candidates are afraid of appearing negative , ralph nader attacks his rivals with gusto .
+IN DT NN WRB JJS NNS VBP JJ IN VBG JJ , NN IN NNS PRP$ NNS IN NN .
+4,6,5,6 PER|12,14,12,14 PER|15,16,15,16 PER
+
+george w. bush is really a big corporation running for president disguised as a human being .
+VB NN NN VBZ RB DT JJ NN VBG IN NN VBN IN DT JJ NN .
+0,3,0,3 PER|5,16,7,8 PER|10,11,10,11 PER|13,16,15,16 PER
+
+butader is most critical of al gore , often when speaking to democrats .
+NN VBZ RBS JJ IN NN VB , RB WRB VBG TO NNS .
+0,1,0,1 PER|5,7,5,7 PER|12,13,12,13 PER
+
+he has betrayed , he has lied , he has deceived , he has dissembled .
+PRP VBZ VBN , PRP VBZ VBD , PRP VBZ VBN , PRP VBZ VBN .
+0,1,0,1 PER|4,5,4,5 PER|8,9,8,9 PER|12,13,12,13 PER
+
+democrats fear nader may make a differee in some key states , like washington and wisconsin , luring voters away from gore and handing the election to bush. you know , some of the democrats are going to blame you if gore loses .
+NNS VBP RBR MD VB DT NN IN DT JJ NNS , IN NN CC NN , VBG NNS RB IN VB CC VBG DT NN TO NN PRP VBP , DT IN DT NNS VBP VBG TO VB PRP IN VB VBZ .
+0,1,0,1 PER|2,3,2,3 PER|8,16,10,11 GPE|13,14,13,14 GPE|15,16,15,16 GPE|18,19,18,19 PER|21,22,21,22 PER|27,28,27,28 PER|28,29,28,29 PER|31,35,31,32 PER|33,35,34,35 PER|39,40,39,40 PER|41,42,41,42 PER
+
+they ought to blame themselves .
+PRP MD TO VB PRP .
+0,1,0,1 PER|4,5,4,5 PER
+
+who do you think is going to win this year ?
+WP VBP PRP VBP VBZ VBG TO VB DT NN .
+0,1,0,1 PER|2,3,2,3 PER
+
+i do n't know. it 's very close .
+FW VBP RB NN PRP VBZ RB RB .
+0,1,0,1 PER
+
+do you care ?
+VB PRP VB .
+1,2,1,2 PER
+
+no .
+DT .
+
+
+he says this year 's campaign is really abt the next election , about building a serious third party and qualifying for federal campaign money .
+PRP VBZ DT NN POS NN VBZ RB NN DT JJ NN , IN VBG DT JJ JJ NN CC VBG IN JJ NN NN .
+0,1,0,1 PER|15,19,18,19 ORG
+
+thanks for running .
+NNS IN VBG .
+
+
+thanks for voting .
+NNS IN NN .
+
+
+nader is never happier than when he is taking on the system .
+NN VBZ RB JJR IN WRB PRP VBZ VBG IN DT NN .
+0,1,0,1 PER|6,7,6,7 PER
+
+linda douglass , abc news , piscataway , new jersey .
+NNS NNS , NN NN , JJ , JJ NN .
+0,2,0,2 PER|3,5,3,5 ORG|6,10,6,7 GPE|8,10,8,10 GPE
+
+10/17/2000 18:43:15.35
+NN NN
+
+
+PRI20001003.2000.1937 NEWS STORY 10/03/2000 20:32:17.10
+NNP NN NN NN NN
+
+
+More torrential rain in Southern Vietnam is hampering relief efforts for thousands of flood victims .
+JJR JJ NN IN NNP NNP VBZ VBG NN NNS IN NNS IN NN NNS .
+4,6,5,6 LOC|11,15,14,15 PER
+
+Many of them are stranded amid scenes of desolation .
+JJ IN PRP VBP VBN IN NNS IN NN .
+0,3,0,1 PER|2,3,2,3 PER
+
+More than 200 people have died , most of them children .
+JJR IN CD NNS VBP VBN , JJS IN PRP NNS .
+0,4,3,4 PER|7,10,7,8 PER|9,10,9,10 PER|10,11,10,11 PER
+
+Owen Benajones reports .
+NNP NNP NNS .
+0,2,0,2 PER
+
+A significant proportion of the Mekong delta is now under water .
+DT JJ NN IN DT IN NN VBZ RB IN NN .
+0,7,2,3 LOC|4,7,5,7 LOC
+
+In upstream areas near the border with Cambodia , the water level is declining but it 's doing so very slowly , partly because of the new torrential rains .
+IN RB NNS IN DT NN IN NNP , DT NN NN VBZ VBG CC PRP VBZ VBG RB RB RB , RB IN IN DT JJ JJ NNS .
+1,8,2,3 LOC|4,8,5,6 LOC|7,8,7,8 GPE
+
+And as the water moves downstream towards the sea , the flood is spreading ever wider , and in some places getting still deeper .
+CC IN DT NN VBZ JJ IN DT NN , DT NN VBZ VBG RB JJR , CC IN DT NNS VBG RB JJR .
+7,9,8,9 LOC
+
+The authorities have started building sandbag walls to protect the main road into Vietnam 's commercial capital , Ho Chi Min city .
+DT NNS VBP VBN VBG NN NNS TO VB DT JJ NN IN NNP POS JJ NN , NNP NNP NNP NN .
+0,2,1,2 PER|5,7,6,7 FAC|9,22,11,12 FAC|13,14,13,14 GPE|13,17,16,17 GPE|18,22,18,22 GPE
+
+The Red Cross estimates that as things stand , around 50,000 families are in need of assistance .
+DT NNP NNP VBZ IN IN NNS VBP , RB CD NNS VBP IN NN IN NN .
+0,3,1,3 ORG|9,12,11,12 PER
+
+Owen Benajones , BBC News , Hanoi .
+NNP NNP , NNP NNP , NNP .
+0,2,0,2 PER|3,5,3,5 ORG|6,7,6,7 GPE
+
+10/03/2000 20:33:07.44
+NN NN
+
+
+PRI20001023.2000.3268 NEWS STORY 10/23/2000 20:54:28.17
+NNP NN NN NN NN
+
+
+For today 's musical closure , we meet a band that 's just recorded it 's own rendition of a pop hit made famous by Sarah McClauclin .
+IN NN POS JJ NN , PRP VBP DT NN WDT VBZ RB VBN PRP POS JJ NN IN DT NN NN VBD JJ IN NNP NNP .
+6,7,6,7 PER|8,27,9,10 ORG|10,11,10,11 ORG|14,15,14,15 ORG|25,27,25,27 PER
+
+It 's only fair , the band called Solace helped McClauclin write the Grammy winner 'I will remember you' .
+PRP VBZ RB JJ , DT NN VBN NN VBD NNP VB DT NNP NN NN MD VB NN .
+5,9,6,7 ORG|8,9,8,9 ORG|10,11,10,11 PER|15,16,15,16 PER|18,19,18,19 PER
+
+Solace , though , is not just another folk pop band , it 's really known for it 's traditional Irish music .
+NNP , RB , VBZ RB RB DT NN NN NN , PRP VBZ RB VBN IN PRP VBZ JJ JJ NN .
+0,1,0,1 ORG|7,11,10,11 ORG|12,13,12,13 ORG|17,18,17,18 ORG|20,21,20,21 GPE
+
+The World 's Stephen Snyder has our story .
+DT NNP POS NNP NNP VBZ PRP$ NN .
+0,5,3,5 PER|6,7,6,7 ORG
+
+Like the famous Irish group the Chieftains and Alton , the group Solace frequently headlines in Celtic festivals .
+IN DT JJ JJ NN DT NNS CC NNP , DT NN NN RB NNS IN JJ NNS .
+1,5,4,5 ORG|3,4,3,4 GPE|5,7,6,7 ORG|8,9,8,9 ORG|10,12,11,12 ORG|10,13,12,13 ORG|16,17,16,17 PER
+
+They bring audiences to their feet with virtual self playing of traditional fiddle tunes , jigs and reals .
+PRP VBP NNS TO PRP$ NNS IN JJ NN NN IN JJ NN NNS , NN CC NNS .
+0,1,0,1 ORG|2,3,2,3 PER|4,5,4,5 PER
+
+But unlike the other stars of the Irish circuit , Solace got their start in the United States .
+CC IN DT JJ NNS IN DT JJ NN , NN VBD PRP$ NN IN DT NNP NNPS .
+2,9,4,5 PER|7,8,7,8 GPE|10,11,10,11 ORG|12,13,12,13 ORG|15,18,16,18 GPE
+
+Three members of Solace , including superstar fiddler Winfred Horan are Irish Americans , the remaining two are Irish transplants living in New York city .
+CD NNS IN NN , VBG NN NN VBD JJ VBP JJ NNPS , DT VBG CD VBP JJ NNS VBG IN NNP NNP NN .
+0,10,1,2 PER|3,4,3,4 ORG|6,7,6,7 PER|6,8,7,8 PER|6,10,8,10 PER|11,12,11,12 GPE|11,13,12,13 PER|14,17,16,17 PER|18,19,18,19 GPE|18,25,19,20 PER|22,25,22,25 GPE
+
+Winfred Horan stepped into Irish music literally .
+VBN JJ VBD IN JJ NN RB .
+0,2,0,2 PER|4,5,4,5 GPE
+
+From childhood she competed in Irish step dancing competitions winning nine North American titles .
+IN NN PRP VBD IN JJ NN NN NNS VBG CD NNP NNP NNS .
+2,3,2,3 PER|5,6,5,6 GPE|11,13,11,13 GPE
+
+She also took up traditional fiddle at a young age , but soon turned to classical violin .
+PRP RB VBD RP JJ NN IN DT JJ NN , CC RB VBD TO JJ NN .
+0,1,0,1 PER
+
+She devoted fifteen years to classical training and performance including string quartets , orchestras and a stint with the Boston Pops before returning to Irish music in the early 90's .
+PRP VBD IN NNS TO JJ NN CC NN VBG NN NNS , NNS CC DT NN IN DT NNP NNP IN VBG TO JJ NN IN DT JJ NN .
+0,1,0,1 PER|10,12,11,12 ORG|13,14,13,14 ORG|18,21,19,21 ORG|24,25,24,25 GPE
+
+Flute player Shamus Eagan comes from Pennsylvania .
+NNP NN NNP NNP VBZ IN NNP .
+0,2,1,2 PER|0,4,2,4 PER|6,7,6,7 GPE
+
+In Solace he serves as the utility player , handling not only flute but also the Irish hand drum , the Boran and the Indian pipes .
+IN NN PRP VBZ IN DT NN NN , VBG RB RB JJ CC RB DT JJ NN VB , DT NNP CC DT JJ NNS .
+1,2,1,2 ORG|2,3,2,3 PER|5,26,7,8 PER|16,17,16,17 GPE|24,25,24,25 GPE
+
+And Eagan is the only American ever to have won four all Ireland championships , for banjo , tin whistle , flute and mandolin playing .
+CC NNP VBZ DT RB JJ RB TO VB VBN CD DT NNP NNS , IN NN , NN VBP , JJ CC NN NN .
+1,2,1,2 PER|3,25,5,6 PER|12,13,12,13 GPE
+
+Eagan 's work on the film score for the Brothers McMollin , let him to co-author a song with folk pop diva Sarah McClauklin .
+NNP POS NN IN DT NN NN IN DT NNPS NNP , VB PRP TO NN DT NN IN NN NN NN NNP NNP .
+0,1,0,1 PER|13,14,13,14 PER|19,22,21,22 PER|19,24,22,24 PER
+
+On this new CD from Solace , ' The hour before dawn' , Eagan and the group offer a traditional re-rendering of the song McClauklin made famous , 'I will remember you' .
+IN DT JJ NN IN NN , '' DT NN IN NN , NNP CC DT NN VBP DT JJ NN IN DT NN NNP VBD JJ , NN MD VB NN .
+5,6,5,6 ORG|13,14,13,14 PER|15,17,16,17 ORG|24,25,24,25 PER|28,29,28,29 PER|31,32,31,32 PER
+
+That 's Dierdre Scandlin , the newest member of Solace , who came to the group just last year .
+DT VBZ NNP NNP , DT JJS NN IN NN , WP VBD TO DT NN RB JJ NN .
+2,4,2,4 PER|5,19,7,8 PER|9,10,9,10 ORG|11,12,11,12 PER|14,16,15,16 ORG
+
+She says singing a song that Sarah McClauklin had already recorded twice was a little intimidating .
+PRP VBZ VBG DT NN IN NNP NNP VBD RB VBN RB VBD DT RB JJ .
+0,1,0,1 PER|6,8,6,8 PER
+
+But the group made a conscious attempt to come up with the version that would stand on its own , and it does .
+CC DT NN VBD DT JJ NN TO VB RP IN DT NN WDT MD VB IN PRP$ JJ , CC PRP VBZ .
+1,3,2,3 ORG
+
+For The World , I am Stephen Snyder .
+IN DT NNP , PRP VBP NNP NNP .
+4,5,4,5 PER|6,8,6,8 PER
+
+10/23/2000 20:57:56.82
+NN NN
+
+
+CNN20001005.1400.1459 NEWS STORY 10/05/2000 14:24:19.92
+NNP NN NN NN NN
+
+
+the dixie chicks are the big winners at the country music awards in nashville .
+DT NN NNS VBP DT JJ NNS IN DT NN NN NNS IN NN .
+0,3,1,3 ORG|4,14,6,7 ORG|13,14,13,14 GPE
+
+the group won four awards -- entertainer of the year , best vocal group , best album for " fly , " and music video of the year for " goodbye , earl . "
+DT NN VBD CD NNS : NN IN DT NN , JJS JJ NN , JJS NN IN '' VB , `` CC NN NN IN DT NN IN '' NN , NN . ``
+0,2,1,2 ORG
+
+faith hill received the female vocalist award .
+NN NN VBD DT JJ NN NN .
+0,2,0,2 PER
+
+husband tim m graw got the male vocalist honor .
+NN RB NN NN VBD DT JJ NN NN .
+0,1,0,1 PER|0,4,1,4 PER
+
+they are the first married couple to win both honors in the same year .
+PRP VBP DT JJ JJ NN TO VB DT NNS IN DT JJ NN .
+0,1,0,1 PER|2,14,5,6 PER
+
+" i hope you dance , " by lee ann womack , was awarded single of the year and song of the year .
+'' FW VBP PRP VB , `` IN NN NN NN , VBD VBN JJ IN DT NN CC NN IN DT NN .
+8,11,8,11 PER
+
+10/05/2000 14:24:48.07
+NN NN
+
+
+PRI20001117.2000.2028 NEWS STORY 11/17/2000 20:33:48.52
+NNP NN NN NN NN
+
+
+This is The World , a co-production of the BBC World Service , PRI and WGBH in Boston .
+DT VBZ DT NNP , DT NN IN DT NNP NNP NNP , NNP CC NNP IN NNP .
+8,12,9,12 ORG|13,14,13,14 ORG|15,18,15,16 ORG|17,18,17,18 GPE
+
+I am Tony Kahn .
+PRP VBP NNP NNP .
+0,1,0,1 PER|2,4,2,4 PER
+
+Al Gore has won a victory in the fight for the White House this evening .
+NNP NNP VBZ VBN DT NN IN DT NN IN DT NNP NNP DT NN .
+0,2,0,2 PER|10,13,11,13 ORG
+
+The Florida Supreme Court has ruled that certification of election results in the State cannot be made this weekend .
+DT NNP NNP NNP VBZ VBN IN NN IN NN NNS IN DT NNP NN VB VBN DT NN .
+0,4,2,4 ORG|1,2,1,2 GPE|12,14,13,14 GPE
+
+The court will hear more arguments on that , Monday .
+DT NN MD VB JJR NNS IN DT , NNP .
+0,2,1,2 ORG
+
+The tally of the State 's overseas absentee ballots is also underway this hour , with Gore so far trailing George W Bush , though still by a small margin .
+DT NN IN DT NNP POS RB NN NNS VBZ RB RB DT NN , IN NNP RB RB VBG NNP NNP NNP , RB RB IN DT JJ NN .
+3,5,4,5 GPE|16,17,16,17 PER|20,23,20,23 PER
+
+11/17/2000 20:34:17.69
+NN NN
+
+
+VOA20001103.2100.0225 NEWS STORY 11/03/2000 21:03:45.43
+NNP NN NN NN NN
+
+
+Afghanistan 's Taliban faction and the opposition Northern Alliance have agreed to peace talks sponsored by the United Nations .
+NNP POS JJ NN CC DT NN NNP NNP VBP VBN TO NN NNS VBN IN DT NNP NNPS .
+0,1,0,1 GPE|0,4,3,4 ORG|2,3,2,3 ORG|5,9,7,9 ORG|16,19,17,19 ORG
+
+The UN special envoy for Afghanistan Franchesco Bendrel says the world body has received separate letters from the two sides , pledging to participate in the negotiations with serious intent and to not abandon the process unilaterally .
+DT NNP JJ NN IN NNP NNP NNP VBZ DT NN NN VBZ VBN JJ NNS IN DT CD NNS , VBG TO VB IN DT NNS IN JJ NN CC TO RB VB DT NN RB .
+0,6,3,4 PER|1,2,1,2 ORG|5,6,5,6 GPE|6,8,6,8 PER|9,12,11,12 ORG|10,11,10,11 LOC|17,20,19,20 ORG
+
+Mr. Bendrel says he hopes to begin the talks next week , probably by shuttling between the two delegations at first .
+NNP NNP VBZ PRP VBZ TO VB DT NNS IN NN , RB IN VBG IN DT CD NNS IN RB .
+0,1,0,1 PER|0,2,1,2 PER|3,4,3,4 PER|16,19,18,19 PER
+
+If the talks go well , they would then move to indirect talks in the same city and finally face-to-face negotiations .
+IN DT NNS VBP RB , PRP MD RB VB TO JJ NNS IN DT JJ NN CC RB JJ NNS .
+14,17,16,17 GPE
+
+11/03/2000 21:04:22.97
+NN NN
+
+
+PRI20001122.2000.0320 NEWS STORY 11/22/2000 20:05:20.99
+NNP NN NN NN NN
+
+
+The Palestinian faction headed by Yasser Arafat said today that , it will avenge the deaths of four of its members who were killed today by Israeli soldiers .
+DT JJ NN VBN IN NNP NNP VBD NN IN , PRP MD VB DT NNS IN CD IN PRP$ NNS WP VBD VBN NN IN JJ NNS .
+0,7,2,3 ORG|1,2,1,2 GPE|5,7,5,7 PER|11,12,11,12 ORG|17,28,17,18 PER|19,20,19,20 ORG|19,21,20,21 PER|21,22,21,22 PER|26,27,26,27 GPE|26,28,27,28 PER
+
+Later in the day , a car bombing in the Northern Israeli town of Hadera , killed two people and injured at least 50 .
+RB IN DT NN , DT NN NN IN DT JJ JJ NN IN NNP , VBD CD NNS CC VBN IN JJS CD .
+6,7,6,7 VEH|9,15,12,13 GPE|10,12,10,12 LOC|14,15,14,15 GPE|17,19,18,19 PER|21,24,23,24 PER
+
+Israeli Prime Minister Ehud Barak said he would retaliate .
+NNP NNP NNP NNP NNP VBD PRP MD VB .
+0,1,0,1 GPE|0,3,2,3 PER|0,5,3,5 PER|6,7,6,7 PER
+
+Corey Flintoff , NPR news , Washington .
+NNP NNP , NNP NN , NNP .
+0,2,0,2 PER|3,5,3,5 ORG|6,7,6,7 GPE
+
+11/22/2000 20:05:42.60
+NN NN
+
+
+PRI20001211.2000.0650 NEWS STORY 12/11/2000 20:10:50.30
+NNP NN NN NN NN
+
+
+And so the Supreme Court is about to decide a case that will probably determine who becomes the next President .
+CC RB DT NNP NNP VBZ IN TO VB DT NN WDT MD RB VB WP VBZ DT IN NNP .
+2,5,3,5 ORG|15,16,15,16 PER|17,20,19,20 PER
+
+If this strikes you as an extraordinary turn of events , well it strikes many overseas as nearly unbelievable .
+IN DT NNS PRP IN DT JJ NN IN NNS , RB PRP VBZ JJ RB IN RB JJ .
+3,4,3,4 PER|15,16,15,16 LOC
+
+In the democracies of Europe , legal experts are saying it ca n't happen here .
+IN DT NNS IN NNP , JJ NNS VBP VBG PRP MD RB VB RB .
+1,5,2,3 GPE|4,5,4,5 GPE|6,8,7,8 PER|14,15,14,15 GPE
+
+Philippe Shatiney is an editor of the French news weekly , Mahiyan .
+NNP NNP VBZ DT NN IN DT JJ NN RB , NNP .
+0,2,0,2 PER|3,12,4,5 PER|6,12,9,10 ORG|7,8,7,8 GPE|11,12,11,12 ORG
+
+Philippe , could it happen anywhere else .
+NNP , MD PRP VB RB RB .
+0,1,0,1 PER
+
+Oh , I really think not .
+UH , PRP RB VBP RB .
+2,3,2,3 PER
+
+First of all , because there are so few countries which are organized on the American model with it 's , the powers of the state .
+JJ IN DT , IN EX VBP RB JJ NNS WDT VBP VBN IN DT JJ NN IN PRP VBZ , DT NNS IN DT NN .
+7,26,9,10 GPE|10,11,10,11 GPE|15,16,15,16 GPE
+
+So yes I think there is a lot of bemusement here in Europe about the difficulties that the Americans are having in choosing a president .
+RB UH PRP VBP EX VBZ DT NN IN NN RB IN NNP IN DT NNS IN DT NNPS VBP VBG IN VBG DT NN .
+2,3,2,3 PER|10,13,12,13 GPE|17,19,18,19 GPE|23,25,24,25 PER
+
+I think there is also a lot of amusement though , there is a lot of finger pointing .
+PRP VBP EX VBZ RB DT NN IN NN IN , EX VBZ DT NN IN NN VBG .
+0,1,0,1 PER
+
+It 's always funny for the small guys to laugh when the giant trips over his feet .
+PRP VBZ RB JJ IN DT JJ NNS TO VB WRB DT JJ NNS IN PRP$ NNS .
+6,8,7,8 GPE|11,13,12,13 GPE
+
+Well , lets look at the United States Supreme Court itself and our justice system , now is there an institution that is independent of politics that serves anything like the function that the US Supreme Court serves ?
+RB , VBZ VB IN DT NNP NNPS NNP NNP PRP CC PRP$ NN NN , RB VBZ EX DT NN WDT VBZ JJ IN NNS WDT VBZ NN IN DT NN IN DT NNP NNP NNP VBZ .
+2,3,2,3 PER|5,11,6,10 ORG|10,11,10,11 ORG|12,13,12,13 GPE|12,15,14,15 ORG|19,38,20,21 ORG|21,22,21,22 ORG|33,37,34,37 ORG
+
+Well , yes mostly European judicial systems do have a form of the Supreme Court .
+RB , UH RB JJ JJ NNS VBP VB DT NN IN DT NNP NNP .
+4,5,4,5 GPE|4,7,6,7 ORG|12,15,13,15 ORG
+
+However , for example , in France the strict machinery of justice is separated from the constitutional court , which is a separate body , but yes there also the members are appointed by the President and therefore there also , the members of the Coseque constitutionalle are somewhat open to criticism that the decisions are often more motivated by politics than they are by the law .
+RB , IN NN , IN NNP DT JJ NN IN NN VBZ JJ IN DT JJ NN , WDT VBZ DT JJ NN , CC UH EX RB DT NNS VBP VBN IN DT NNP CC RB RB RB , DT NNS IN DT JJ NN VBP RB JJ TO NN IN DT NNS VBP RB RBR VBN IN NNS IN PRP VBP IN DT NN .
+6,7,6,7 GPE|7,12,9,10 ORG|15,24,17,18 ORG|19,20,19,20 ORG|21,24,23,24 ORG|27,28,27,28 ORG|29,31,30,31 PER|34,36,35,36 PER|38,39,38,39 ORG|41,47,42,43 PER|44,47,45,46 ORG
+
+However , I think that the image that we Europeans had , of the American system and especially of the US Supreme Court , was that those justices were above politics and , I think , that is also one of the bad surprises that this election is reserving to us Europeans is that finally your system is not as perfect as we were led to believe .
+RB , PRP VBP IN DT NN IN PRP NNPS VBD , IN DT JJ NN CC RB IN DT NNP NNP NNP , VBD IN DT NNS VBD IN NNS CC , PRP VBP , WDT VBZ RB CD IN DT JJ NNS IN DT NN VBZ VBG TO PRP NNPS VBZ IN RB PRP$ NN VBZ RB RB JJ IN PRP VBD VBN TO VB .
+2,3,2,3 PER|8,9,8,9 GPE|8,10,9,10 GPE|13,16,15,16 ORG|14,15,14,15 GPE|19,23,20,23 ORG|26,28,27,28 PER|50,51,50,51 GPE|50,52,51,52 GPE|55,56,55,56 GPE|55,57,56,57 ORG|62,63,62,63 GPE
+
+I wonder in terms of this particular case , now this is certainly an extreme case in the United States with an unfathomably close election .
+PRP VBP IN NNS IN DT JJ NN , RB DT VBZ RB DT JJ NN IN DT NNP NNPS IN DT RB JJ NN .
+0,1,0,1 PER|17,20,18,20 GPE
+
+How have other Democracies dealt with effective ties , I mean could there for instance be one of elections , you know where our type has gone to the courts .
+WRB VBP JJ NNS VBN IN JJ NNS , PRP VBP MD EX IN NN VB CD IN NNS , PRP VBP WRB PRP$ NN VBZ VBN TO DT NNS .
+2,4,3,4 GPE|9,10,9,10 PER|23,24,23,24 GPE
+
+What happens to yours ?
+WP VBZ TO NNS .
+3,4,3,4 GPE
+
+Well , there have been cases in most recent elections in France where the Coseque constitutionalle having been apprised of doubtful procedures or doubtful ways of counting the votes , have decided either to null the election and have it done over again or to in fact change the winner .
+RB , EX VBP VBN NNS IN JJS JJ NNS IN NNP WRB DT JJ NN VBG VBN VBN IN JJ NNS CC JJ NNS IN VBG DT NNS , VBP VBN RB TO NN DT NN CC VB PRP VBN IN RB CC TO IN NN VBP DT NN .
+11,12,11,12 GPE|13,16,14,15 ORG|48,50,49,50 PER
+
+However , our electoral system is so much more simple in the sense that we have seperate elections for the Presidency , for Parliament , for our Mayors and therefore usually most French voters are faced with the difficulty of choosing a little paper ballotenne with a name on it and putting that in an envelop and then put that in the urn , so there is a much less chance of error , at least , in our French system .
+RB , PRP$ JJ NN VBZ RB RB RBR JJ IN DT NN IN PRP VBP JJ NNS IN DT NNP , IN NNP , IN PRP$ NNS CC RB RB JJS JJ NNS VBP VBN IN DT NN IN VBG DT JJ NN NN IN DT NN IN PRP CC VBG IN IN DT VBP CC RB VB IN IN DT NN , IN EX VBZ DT RB JJR NN IN NN , IN JJS , IN PRP$ JJ NN .
+19,21,20,21 ORG|23,24,23,24 ORG|26,27,26,27 GPE|26,28,27,28 PER|31,34,33,34 PER|32,33,32,33 GPE|79,80,79,80 GPE
+
+Hey , it is interesting there also , when we look at the idea of checks and balances in a non-partisan judiciary , in terms of the checks and balances , that actually originated in France .
+NNP , PRP VBZ JJ RB RB , WRB PRP VBP IN DT NN IN NNS CC NNS IN DT JJ NN , IN NNS IN DT NNS CC NNS , IN RB VBN IN NNP .
+19,22,21,22 ORG|35,36,35,36 GPE
+
+Yes indeed , it was a political idea put forward in the writings of the and another very famous french political observer Alexis de Tocqueville who visited America and wrote an amazingly good book about American democracy , said exactly that , that America seemed to him to be the single country in the world who has managed to apply the separation of powers between the judiciary , the executive , and the legislative in a better way than any other country .
+UH RB , PRP VBD DT JJ NN VBN RB IN DT NNS IN DT CC DT RB JJ JJ JJ NN NNP FW NNP WP VBD NNP CC VBD DT RB JJ NN IN JJ NN , VBD RB IN , IN NNP VBD TO PRP TO VB DT JJ NN IN DT NN WP VBZ VBN TO VB DT NN IN NNS IN DT NN , DT NN , CC DT JJ IN DT JJR NN IN DT JJ NN .
+16,22,21,22 PER|19,20,19,20 GPE|22,25,22,25 PER|25,26,25,26 PER|27,28,27,28 GPE|35,36,35,36 GPE|43,44,43,44 GPE|49,82,51,52 GPE|53,55,54,55 LOC|55,56,55,56 GPE|79,82,81,82 GPE
+
+So it 's quite surprising for us Europeans to see that the Supreme Court would be involved , not really it seems to us in interpreting the law of the land or the constitution of the United States , but more in deciding the merits of a terribly political case .
+RB PRP VBZ RB JJ IN PRP NNPS TO VB IN DT NNP NNP MD VB VBN , RB RB PRP VBZ TO PRP IN VBG DT NN IN DT NN CC DT NN IN DT NNP NNPS , CC RBR IN VBG DT NNS IN DT RB JJ NN .
+6,7,6,7 GPE|6,8,7,8 GPE|11,14,12,14 ORG|35,38,36,38 GPE
+
+Philippe Shatiney , an editor of the French news weekly 'Mahiyan' . Nice to speak with you Philippe .
+NNP NNP , DT NN IN DT JJ NN JJ NN . NNP TO VB IN PRP NNP .
+0,2,0,2 PER|3,11,4,5 PER|6,11,9,10 ORG|7,8,7,8 GPE|10,11,10,11 ORG|16,17,16,17 PER|17,18,17,18 PER
+
+Thank you .
+VB PRP .
+1,2,1,2 PER
+
+12/11/2000 20:14:37.91
+NN NN
+
+
+MNB20001121.2100.2801 NEWS STORY 11/21/2000 21:46:41.06
+NNP NN NN NN NN
+
+
+gregg jarrett , they did get a unanimous court for this decision .
+NN NN , PRP VBD VB DT JJ NN IN DT NN .
+0,2,0,2 PER|3,4,3,4 PER|6,9,8,9 ORG
+
+absolutely .
+RB .
+
+
+brian .
+NN .
+0,1,0,1 PER
+
+it was a very stern , very direct and it left no question , i think , in the minds of anybody that this court unanimously believes that certification should include the man recount .
+PRP VBD DT RB JJ , RB JJ CC PRP VBD DT NN , FW VBP , IN DT NNS IN NN IN DT NN RB VBZ DT NN MD VB DT NN NN .
+14,15,14,15 PER|21,22,21,22 PER|23,25,24,25 ORG
+
+and that is a clear victory for vice president al gore. the language here , really leaves no doubt .
+CC DT VBZ DT JJ NN IN NN NN NN NN DT NN RB , RB VBZ DT NN .
+7,9,8,9 PER|7,11,9,11 PER
+
+the right of the people to cast their vote. the court said , is paramount .
+DT NN IN DT NNS TO VB PRP$ NN DT NN VBD , VBZ JJ .
+3,5,4,5 PER|7,8,7,8 PER|9,11,10,11 ORG
+
+the amended certifications must be accepted by november 26. the reason they are picking that particular day is it allows , brian , enough time for the agrieved party , the losing party to file within 10 days a contest of the certification and that still allows enough time for the contest to be litigated through the courts primarily the circuit court and back to the supreme court if necessary and still meet the december 12 deadline for the electoral college vote here .
+DT VBN NNS MD VB VBN IN NN CD DT NN PRP VBP VBG IN JJ NN VBZ PRP VBZ , NN , JJ NN IN DT VBN NN , DT VBG NN TO VB IN CD NNS DT NN IN DT NN CC WDT RB VBZ JJ NN IN DT NN TO VB VBN IN DT NNS RB DT NN NN CC RB TO DT JJ NN IN JJ CC RB VB DT NN CD NN IN DT JJ NN NN RB .
+11,12,11,12 ORG|21,22,21,22 PER|26,29,28,29 PER|30,33,32,33 PER|56,58,57,58 ORG|59,62,61,62 ORG|65,68,67,68 ORG
+
+now , greg , the only question that mean means anything at this hour , we know their view is the hand counts should now be included .
+RB , NN , DT JJ NN WDT VBP VBZ NN IN DT NN , PRP VBP PRP$ NN VBZ DT NN NNS MD RB VB VBN .
+2,3,2,3 PER|15,16,15,16 PER|17,18,17,18 ORG
+
+will it put al gore over the top in the race to match and exceed the votes of george w. bush ?
+MD PRP VB NN VB IN DT NN IN DT NN TO VB CC VB DT NNS IN NN NN NN .
+3,5,3,5 PER|18,21,18,21 PER
+
+it very well could .
+PRP RB RB MD .
+
+
+although , i must say that the gore campaign has been somewhat disappointed by the number of votes they have not received thus far in the counties that are undertaking the manual recounts , brian .
+IN , FW MD VB IN DT VB NN VBZ VBN RB VBN IN DT NN IN NNS PRP VBP RB VBN RB RB IN DT NNS WDT VBP VBG DT JJ VBZ , NN .
+2,3,2,3 PER|6,9,8,9 ORG|7,8,7,8 PER|18,19,18,19 ORG|25,33,26,27 GPE|27,28,27,28 GPE|34,35,34,35 PER
+
+but a lot of hand counts still must be tallied .
+CC DT NN IN NN NNS RB MD VB VBD .
+
+
+we are also including the undervotes of 10,000 in palm beach and junt votes of 10,000 in miami-dade as well. keep in mind , those were not registered by the computers because they either had a hanging chad or dimpled chad. those must be gone over by hand by each respective canvassing board .
+PRP VBP RB VBG DT NNS IN CD IN NN NN CC NN NNS IN CD IN NN IN NN VBP IN NN , DT VBD RB VBN IN DT NNS IN PRP RB VBD DT VBG NN CC VBD NN DT MD VB VBN IN IN NN IN DT JJ JJ NN .
+0,1,0,1 PER|9,11,9,11 GPE|17,18,17,18 GPE|49,53,52,53 ORG
+
+so there are a lot of votes remaining there .
+IN EX VBP DT NN IN NNS VBG RB .
+
+
+this is a gore campaign to the white house .
+DT VBZ DT VB NN TO DT JJ NN .
+2,5,4,5 ORG|3,4,3,4 PER|6,9,7,9 ORG
+
+greg , just a logistic question , how long is it going take you to get the opinion run to you from the building behind you ?
+NN , RB DT JJ NN , WRB RB VBZ PRP VBG VB PRP TO VB DT NN VBN TO PRP IN DT NN IN PRP .
+0,1,0,1 PER|13,14,13,14 PER|20,21,20,21 PER|25,26,25,26 PER
+
+i would say we should have it here in the next five minutes .
+FW MD VB PRP MD VB PRP RB IN DT JJ CD NNS .
+0,1,0,1 PER|3,4,3,4 ORG|7,8,7,8 LOC
+
+it depends how quickly the line moves .
+PRP VBZ WRB RB DT NN NNS .
+
+
+we have two producers , i believe , near the front of the line. it how quickly they get handed .
+PRP VBP CD NNS , FW VBP , IN DT NN IN DT NN PRP WRB RB PRP VBP VBN .
+0,1,0,1 ORG|2,4,3,4 PER|5,6,5,6 PER|17,18,17,18 PER
+
+it reversed the two orders of the earlier trial court , circuit court judge terry lewis .
+PRP VBD DT CD NNS IN DT JJR NN NN , NN NN NN NN NN .
+6,10,9,10 ORG|11,13,12,13 ORG|11,14,13,14 PER|11,16,14,16 PER
+
+the bottom line , this court rules unanimously the right of the people to have the votes counted is pair month , thus , the amended sertfi occasions to include the hand counts must be accepted by november 26. in fact , it seemed to have some language here , in fact , brian i do have it handed to me now. let me take a the brian , if for some reason the secretary of state would n't accept by the 26th , the certification , it could be certified elsewhere .
+DT JJ NN , DT NN NNS RB DT NN IN DT NNS TO VB DT NNS VBN VBZ NN NN , RB , DT VBD NN NNS TO VB DT NN NNS MD VB VBN IN NN CD IN NN , PRP VBD TO VB DT NN RB , IN NN , NN FW VBP VB PRP VBN TO PRP NN VBD PRP VB DT DT NN , IN IN DT NN DT NN IN NN MD RB VB IN DT JJ , DT NN , PRP MD VB VBN RB .
+4,6,5,6 ORG|11,13,12,13 PER|53,54,53,54 PER|54,55,54,55 PER|60,61,60,61 PER|63,64,63,64 PER|67,68,67,68 PER|73,77,74,75 PER|76,77,76,77 ORG
+
+gregg jarrett , i should point out , he is a former lawyer himself and so can help put this into english .
+NN NN , FW MD VB RP , PRP VBZ DT JJ NN PRP CC RB MD VB VBN DT IN NN .
+0,2,0,2 PER|3,4,3,4 PER|8,9,8,9 PER|10,14,12,13 PER|13,14,13,14 PER
+
+greg , go ahead .
+NN , VB RB .
+0,1,0,1 PER
+
+if you come to a passage we should hear .
+IN PRP VBP TO DT NN PRP MD VB .
+1,2,1,2 PER|6,7,6,7 PER
+
+i 'm flipping through the summary of enacts because that is not important .
+FW VBP VBG IN DT NN IN NNS IN DT VBZ RB JJ .
+0,1,0,1 PER
+
+the summary of facts .
+DT NN IN NNS .
+
+
+you flag us when you come to the first portion we should hear allowed .
+PRP NN PRP WRB PRP VBP TO DT JJ NN PRP MD VB VBN .
+0,1,0,1 PER|2,3,2,3 PER|4,5,4,5 PER|10,11,10,11 PER
+
+11/21/2000 21:50:26.81
+NN NN
+
+
+VOA20001205.2000.2777 NEWS STORY 12/05/2000 20:46:17.03
+NNP NN NN NN NN
+
+
+Ebola virus is one of the most feared in the world .
+NN NN VBZ CD IN DT JJS VBD IN DT NN .
+9,11,10,11 LOC
+
+The deadly disease periodically attacks African villages and kills up to 90 % of those infected .
+DT JJ NN RB VBZ JJ NNS CC VBZ IN TO CD NN IN DT JJ .
+5,6,5,6 GPE|5,7,6,7 GPE|9,16,11,13 PER|14,16,15,16 PER
+
+Now , a team of researchers led by scientists at the National Institutes of Health in Befesta , Maryland has developed a vaccine that prevents Ebola virus infections in monkeys .
+RB , DT NN IN NNS VBN IN NNS IN DT NNP NNPS IN NNP IN NNP , NNP VBZ VBN DT NN WDT VBZ NNP NN NNS IN NNS .
+2,19,5,6 PER|8,19,8,9 PER|10,19,11,15 ORG|16,19,16,17 GPE|18,19,18,19 GPE
+
+Dr. Garry Nabal of NIH says , the experiment with the new vaccine involved giving four monkeys the Ebola virus , then injecting them with a placebo immunization , which has no effect .
+NNP NNP NNP IN NNP VBZ , DT NN IN DT JJ NN VBD VBG CD NNS DT NNP NN , RB VBG PRP IN DT NN NN , WDT VBZ DT NN .
+0,1,0,1 PER|0,5,1,3 PER|4,5,4,5 ORG
+
+Four other monkeys were infected with the Ebola virus DNA and then were injected with a vaccine called Ebola-Adnia virus booster .
+CD JJ NNS VBD VBN IN DT NNP NN NNP CC RB VBD VBN IN DT NN VBN NNP NN NN .
+
+
+In the animals that received the control vaccine , i.e. the same vectors , but not expressing the virus proteins , all of the animals had died within six days after challenge .
+IN DT NNS WDT VBD DT NN NN , FW DT JJ NNS , CC RB VBG DT NN NNS , DT IN DT NNS VBD VBN IN CD NNS IN NN .
+
+
+In contrast , the animals who received the DNA plus the Adnia viral vector that made the viral proteins , not only survived the challenge , but they continued to be symptom-free for over six months , the time point that they were followed .
+IN NN , DT NNS WP VBD DT NNP CC DT NNP JJ NN IN VBD DT JJ NNS , RB RB VBD DT NN , CC PRP VBD TO VB JJ IN IN CD NNS , DT NN NN IN PRP VBD VBN .
+
+
+Scientists must do far more research on this vaccine before a version of it might be used to prevent the disease in humans .
+NNS MD VB RB JJR NN IN DT NN IN DT NN IN PRP MD VB VBN TO VB DT NN IN NNS .
+0,1,0,1 PER|22,23,22,23 PER
+
+12/05/2000 20:47:32.33
+NN NN
+
+
+20001115_AFP_ARB.0089.eng NEWS STORY 11/15/2000
+NN NN NN NN
+
+
+Palestinians in Lebanon Commemorate Independence Anniversary by Burning Israeli and American Flags
+NNPS IN NNP NNP NNP NN IN NN NNP CC JJ NNS
+
+
+Albus ( Lebanon ) 11-15 ( AFP ) -
+NNP -LRB- NNP -RRB- CD -LRB- NNP -RRB- :
+0,4,0,1 GPE|2,3,2,3 GPE|6,7,6,7 ORG
+
+Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence by the Palestinian National Council in Algeria in 1988 .
+NNS IN JJ NNS IN NNP VBD IN PRP$ NNS NN NNP DT JJ NN IN DT JJ NN IN NN IN DT NNP NNP NNP IN NNP IN CD .
+0,6,3,4 PER|2,3,2,3 GPE|5,6,5,6 GPE|8,9,8,9 PER|8,10,9,10 FAC|22,26,23,26 ORG|27,28,27,28 GPE
+
+Around five thousand Palestinians form the Albus Camp near Souer ( 83 km south of Beirut ) gathered and followed a march by children dressed in military clothing who held stones and raised pictures of Mohamed al-Dura , the 12-year-old Palestinian child killed by Israeli army bullets in the Palestinian Territories in early October .
+IN CD CD NNPS VBP DT NNP NNP IN NNP -LRB- CD NN RB IN NNP -RRB- VBN CC VBN DT NN IN NNS VBN IN JJ NN WP VBD NNS CC VBN NNS IN NNP JJ , DT JJ JJ NN VBN IN JJ NN NNS IN DT NNP NNPS IN JJ NNP .
+0,17,3,4 PER|5,17,6,8 FAC|9,17,9,10 GPE|15,16,15,16 GPE|23,54,23,24 PER|26,27,26,27 ORG|28,29,28,29 PER|35,37,35,37 PER|38,54,41,42 PER|40,41,40,41 GPE|44,45,44,45 GPE|44,47,46,47 WEA|45,46,45,46 ORG|48,51,50,51 GPE|49,50,49,50 GPE
+
+A France Presse correspondent reported that around 200 Palestinians marched along the streets of Ayn Alhilwa refugee camp near Saida , one of southern Lebanon 's main cities , toward the headquarters of the Fatah movement led by Palestinian President Yasser Arafat carrying the Palestinian flag .
+DT NNP NNP NN VBD IN IN CD NNPS VBD IN DT NNS IN NNP NNP NN NN IN NNP , CD IN JJ NNP POS JJ NNS , IN DT NN IN DT NNP NN VBN IN NNP NNP NNP NNP VBG DT JJ NN .
+0,4,3,4 PER|1,3,1,3 ORG|6,9,8,9 PER|11,46,12,13 FAC|14,16,14,16 FAC|14,28,17,18 FAC|16,17,16,17 PER|19,20,19,20 GPE|21,28,21,22 GPE|23,25,24,25 LOC|23,28,27,28 GPE|30,36,31,32 FAC|33,36,35,36 ORG|34,35,34,35 ORG|38,39,38,39 GPE|38,40,39,40 PER|38,42,40,42 PER|44,45,44,45 GPE
+
+A group of young people burned the Israeli and American flags outside the headquarters .
+DT NN IN JJ NNS VBD DT NNP CC JJ NNS IN DT NN .
+0,5,1,2 PER|3,5,4,5 PER|7,8,7,8 GPE|9,10,9,10 GPE|12,14,13,14 FAC
+
+Khalid Arif , am official with the Fatah movement in Saida , said the Intifada against Israel which started late last September and has resulted in over two hundred deaths would " continue until the Israeli occupiers and settlers were chased out of the Palestinian Territories . "
+NNP NNP , VBP JJ IN DT NNP NN IN NNP , VBD DT NNP IN NNP WDT VBD JJ JJ NNP CC VBZ VBN IN IN CD CD NNS MD '' VB IN DT NNP NNS CC NNS VBD VBD RP IN DT JJ NNPS . ``
+0,2,0,2 PER|3,11,4,5 PER|6,9,8,9 ORG|7,8,7,8 ORG|10,11,10,11 GPE|16,17,16,17 GPE|34,39,36,39 PER|35,36,35,36 GPE|43,46,45,46 GPE|44,45,44,45 GPE
+
+He added , " The Intifada will continue until a Palestinian state with holy Jerusalem as its capital is created and the refugees return to their homes . "
+PRP VBD , '' DT NNP MD VB IN DT JJ NN IN JJ NNP IN PRP$ NN VBZ VBN CC DT NNS NN TO PRP$ NNS . ``
+0,1,0,1 PER|9,18,11,12 GPE|10,11,10,11 GPE|13,15,14,15 GPE|16,18,17,18 GPE|21,23,22,23 PER|25,26,25,26 PER|25,27,26,27 FAC
+
+In the nearby Ayn Alhilwa refugee camp , students between ages fifteen and sixteen marched through the camp 's alleyways , chanting " Jerusalem is ours " then the burned Israeli and American flags .
+IN DT JJ NNP NNP NN NN , NNS IN NNS IN CC IN VBD IN DT NN POS NNS , VBG '' NNP VBZ JJ `` RB DT VBN NNP CC JJ NNS .
+1,7,6,7 FAC|3,5,3,5 FAC|8,14,8,9 PER|16,18,17,18 FAC|16,20,19,20 FAC|23,24,23,24 GPE|25,26,25,26 PER|30,31,30,31 GPE|32,33,32,33 GPE
+
+Fatah movement called on Palestinians to declare today Wednesday as a day " to embody national independence " and to stop " Israeli occupying forces and settler bandits from entering occupied Palestinian territory , " as a commemoration of the twelfth anniversary of the symbolic announcement of Palestinian independence .
+NNP NN VBN IN NNPS TO VB NN NNP IN DT NN '' TO VBP JJ NN `` CC TO VB '' JJ JJ NNS CC JJR NNS IN VBG JJ JJ NN , `` IN DT NN IN DT JJ NN IN DT JJ NN IN JJ NN .
+0,1,0,1 ORG|0,2,1,2 ORG|4,5,4,5 GPE|22,23,22,23 GPE|30,33,32,33 LOC|31,32,31,32 GPE|47,48,47,48 GPE
+
+Palestinian President Yasser Arafat had symbolically announced a Palestinian state on November 15 , 1988 in Algeria when the first Palestinian Intifada was at its height and which continued for seven years until the Oslo peace accords were signed in 1993 .
+NNP NNP NNP NNP VBD RB VBN DT JJ NN IN NNP CD , CD IN NNP WRB DT JJ NN NNP VBD IN PRP$ NN CC WDT VBD IN CD NNS IN DT NNP NN NNS VBD VBN IN CD .
+0,1,0,1 GPE|0,2,1,2 PER|0,4,2,4 PER|7,10,9,10 GPE|8,9,8,9 GPE|16,17,16,17 GPE|20,21,20,21 GPE|34,35,34,35 GPE
+
+20001115_AFP_ARB.0030.eng NEWS STORY 11/15/2000
+NN NN NN NN
+
+
+More than 15 Palestinians Wounded in Clashes with Israeli Army in Rafah
+JJR IN CD NNPS NNP IN NNPS IN NNP NNP IN NNP
+
+
+Gaza 11-15 ( AFP ) -
+NNP CD -LRB- NNP -RRB- :
+0,1,0,1 GPE|3,4,3,4 ORG
+
+A Palestinian medical source reported today Wednesday that more than fifteen Palestinians were injured this morning in the town of Rafah in the southern Gaza Strip in clashes with the Israeli army .
+DT JJ JJ NN VBD NN NNP IN RBR IN IN NNPS VBD VBN DT NN IN DT NN IN NNP IN DT JJ NNP NNP IN NNS IN DT JJ NN .
+0,4,3,4 PER|1,2,1,2 GPE|8,12,11,12 PER|17,26,18,19 GPE|20,21,20,21 GPE|22,26,24,26 LOC|29,32,31,32 ORG|30,31,30,31 GPE
+
+Medical sources said " at least 15 Palestinians were injured by live bullets fired by Israeli soldiers , including six children all shot in the head . "
+JJ NNS VBD '' IN JJS CD NNPS VBD VBN IN JJ NNS VBN IN JJ NNS , VBG CD NNS DT NN IN DT NN . ``
+0,2,1,2 PER|4,8,7,8 PER|11,17,12,13 WEA|15,16,15,16 GPE|15,17,16,17 PER|19,26,20,21 PER|21,22,21,22 PER
+
+Eyewitnesses said the clashes broke out when the Israeli army began bulldozing Palestinian land near the border with Egypt and opened fire randomly on Palestinian citizens when they threw stones at the soldiers in protest .
+NNS VBD DT NNS VBD RP WRB DT JJ NN VBD VBG JJ NN IN DT NN IN NNP CC VBD NN RB IN JJ NNS WRB PRP VBD NNS IN DT NNS IN NN .
+0,1,0,1 PER|7,10,9,10 ORG|8,9,8,9 GPE|12,13,12,13 GPE|12,19,13,14 LOC|15,19,16,17 LOC|18,19,18,19 GPE|24,26,25,26 PER|27,28,27,28 PER|29,30,29,30 WEA|31,33,32,33 PER
+
+An Israeli tank also fired a rocket .
+DT JJ NN RB VBD DT NN .
+0,3,2,3 VEH|1,2,1,2 GPE|5,7,6,7 WEA
+
+Elsewhere , Israeli bulldozers dug up dozens of hectares of Palestinian farmland near the village of Alkarara ( near the Kosovim checkpoint ) last night for the second day in a row , destroying two houses and a well , where the army erected a new military camp instead .
+RB , JJ NNS VBD RP NNS IN NNS IN JJ NN IN DT NN IN NNP -LRB- IN DT NNP NN -RRB- JJ NN IN DT JJ NN IN DT NN , VBG CD NNS CC DT NN , WRB DT NN VBD DT JJ JJ NN RB .
+2,3,2,3 GPE|2,4,3,4 VEH|6,22,8,9 LOC|10,11,10,11 GPE|10,12,11,12 LOC|13,23,14,15 GPE|16,17,16,17 GPE|19,22,21,22 FAC|20,21,20,21 GPE|34,36,35,36 FAC|37,39,38,39 FAC|40,41,40,41 LOC|41,43,42,43 ORG|44,48,47,48 FAC|46,47,46,47 ORG
+
+The town 's authorities said last night the Israeli army dug up several hectares planted with orange trees in southern Gaza ( Nitsarim ) .
+DT NN POS NNS VBD JJ NN DT JJ NN VBD RP JJ NNS VBN IN NN NNS IN JJ NNP -LRB- NNP -RRB- .
+0,2,0,2 GPE|0,4,3,4 PER|7,10,9,10 ORG|8,9,8,9 GPE|12,23,13,14 LOC|19,21,20,21 LOC|22,23,22,23 GPE
+
+The bulldozing of land began the night before last when an Israeli soldier was killed in a shooting incident in the area .
+DT NN IN NN VBD DT NN IN JJ WRB DT JJ NN VBD VBN IN DT VBG NN IN DT NN .
+10,13,12,13 PER|11,12,11,12 GPE|20,22,21,22 LOC
+
+20001115_AFP_ARB.0184.eng NEWS STORY 11/15/2000
+NN NN NN NN
+
+
+Lesser Security Cabinet Wants to Avoid Escalation of Violence ( Israeli radio )
+NNP NNP NNP NNS TO NNP NN IN NN -LRB- JJ NN -RRB-
+
+
+Jerusalem 11-15 ( AFP ) -
+NNP CD -LRB- NNP -RRB- :
+0,1,0,1 GPE|3,4,3,4 ORG
+
+Official Israeli radio reported that the lesser security cabinet which met this evening Wednesday has made a series of practical decisions pointing to its desire to avoid confrontations with the Palestinians .
+JJ JJ NN VBN IN DT JJR NN NN WDT VBD DT NN NNP VBZ VBN DT NN IN JJ NNS VBG TO PRP$ NN TO VB NNS IN DT NNPS .
+0,3,2,3 ORG|1,2,1,2 GPE|5,13,8,9 ORG|9,10,9,10 ORG|23,24,23,24 ORG|29,31,30,31 GPE
+
+The radio reported " senior political officials " as saying at the close of the security cabinet 's meeting , chaired by Prime Minister Ehud Barak , that the army would continue with the procedure it has followed over the past days and that there would be no escalation .
+DT NN VBN '' JJ JJ NNS `` IN VBG IN DT NN IN DT NN NN POS NN , VBN IN NNP NNP NNP NNP , IN DT NN MD VB IN DT NN PRP VBZ VBN IN DT JJ NNS CC IN EX MD VB DT NN .
+0,2,1,2 ORG|4,7,6,7 PER|14,17,16,17 ORG|22,24,23,24 PER|22,26,24,26 PER|28,30,29,30 ORG|35,36,35,36 ORG
+
+Military officials who also attended the meeting that Palestinian President Yasser Arafat " wants to drag Israel into an escalation which would lead to international intervention . "
+JJ NNS WP RB VBD DT NN IN NNP NNP NNP NNP '' VBZ TO VB NNP IN DT NN WDT MD VB TO JJ NN . ``
+0,1,0,1 ORG|0,7,1,2 PER|2,3,2,3 PER|8,9,8,9 GPE|8,10,9,10 PER|8,12,10,12 PER|16,17,16,17 GPE
+
+The head of the prime minister 's office , Jalaad Shir , had previously said on official television that " a compromise must be found between a studied response not leading to escalation and the need to pave the way for political openness , on the condition that the Palestinians resolutely stop the violence and incitement to violence . "
+DT NN IN DT JJ NN POS NN , NNP NNP , VBD RB VBN IN JJ NN IN '' DT NN MD VB VBN IN DT VBN NN RB VBG TO NN CC DT NN TO VB DT NN IN JJ NN , IN DT NN IN DT NNPS RB VBP DT NN CC NN TO NN . ``
+0,8,1,2 PER|3,6,5,6 PER|3,8,7,8 ORG|9,11,9,11 PER|16,18,17,18 ORG|48,50,49,50 GPE
+
+Shir added " only then will it be possible to think about resuming the political process and on what basis . "
+NNP VBD '' RB RB MD PRP VB JJ TO VB IN VBG DT JJ NN CC IN WP NN . ``
+0,1,0,1 PER
+
+The security cabinet was convened to a session with the aim of examining new measures to deal with the escalation in attacks against Israelis in the West Bank and Gaza Strip .
+DT NN NN VBD VBN TO DT NN IN DT NN IN VBG JJ NNS TO VB IN DT NN IN NNS IN NNPS IN DT NNP NNP CC NNP NNP .
+0,3,2,3 ORG|23,31,23,24 PER|25,31,26,31 LOC
+
+Last week , Barak gave his consent , for the first time since the Intifada began , to elimination of Hussein Abiyat the military leader of Fatah movement led by Arafat killed when a missile fired from a combat helicopter targeted his car .
+JJ NN , NNP VBD PRP$ NN , IN DT JJ NN IN DT NNP VBD , TO NN IN NNP NNP DT JJ NN IN NNP NN VBN IN NNP VBD WRB DT NN VBN IN DT NN NN VBD PRP$ NN .
+3,4,3,4 PER|5,6,5,6 PER|20,22,20,22 PER|22,43,24,25 PER|23,24,23,24 ORG|26,27,26,27 ORG|26,28,27,28 ORG|30,31,30,31 PER|33,35,34,35 WEA|37,40,39,40 VEH|41,42,41,42 PER|41,43,42,43 VEH
+
+Israeli security forces arrested 15 Fatah officials in the West Bank on the night of Tuesday to Wednesday .
+JJ NN NNS VBN CD NNP NNS IN DT NNP NNP IN DT NN IN NNP TO NNP .
+0,1,0,1 GPE|0,3,2,3 ORG|4,7,6,7 PER|5,6,5,6 ORG|8,11,9,11 LOC
+
+In his statement , Barak praised this operation and the elimination of Abiyat , stressing that this policy would continue .
+IN PRP$ NN , NNP VBD DT NN CC DT NN IN NNP , VBG IN DT NN MD VB .
+1,2,1,2 PER|4,5,4,5 PER|12,13,12,13 PER
+
+He said " the long arm of our forces will reach those who attack our civilians and soldiers . "
+PRP VBD '' DT JJ NN IN PRP$ NNS MD VB DT WP VBP PRP$ NNS CC NNS . ``
+0,1,0,1 PER|7,8,7,8 GPE|7,9,8,9 ORG|11,18,11,12 PER|12,13,12,13 PER|14,15,14,15 GPE|14,18,15,18 PER
+
+20000715_AFP_ARB.0072.eng NEWS STORY 07/15/2000
+NN NN NN NN
+
+
+Israeli Military Official Warns of Iranian Nuclear Capability
+NNP NNP NNP NNPS IN NNP NNP NN
+
+
+Jerusalem 7-15 ( AFP ) -
+NNP CD -LRB- NNP -RRB- :
+0,1,0,1 GPE|3,4,3,4 ORG
+
+A high level Israeli army official has said today Saturday that Israel believes Iran is set to begin acquiring nuclear capability for military purposes from 2005 and will be in a position to equip missiles with nuclear warheads , capable of reaching Israel , within ten years .
+DT JJ NN JJ NN NN VBZ VBN NN NNP IN NNP VBZ NNP VBZ VBN TO VB VBG JJ NN IN JJ NNS IN CD CC MD VB IN DT NN TO VB NNS IN JJ NNS , JJ IN VBG NNP , IN JJ NNS .
+0,6,5,6 PER|3,4,3,4 GPE|3,5,4,5 ORG|11,12,11,12 GPE|13,14,13,14 GPE|19,20,19,20 WEA|22,23,22,23 ORG|34,35,34,35 WEA|36,43,37,38 WEA|42,43,42,43 GPE
+
+The official , who wished to remain anonymous , told journalists : " Iran will start accumulating nuclear capability for military purposes from 2005 and will be in a position , within the space of 10 years , to produce nuclear warheads that can be fitted to missiles capable of striking Israel . "
+DT NN , WP VBD TO VB JJ , VBD NNS : '' NNP MD VB VBG JJ NN IN JJ NNS IN CD CC MD VB IN DT NN , IN DT NN IN CD NNS , TO VB JJ NNS WDT MD VB VBN TO NNS JJ IN VBG NNP . ``
+0,8,1,2 PER|3,4,3,4 PER|10,11,10,11 PER|13,14,13,14 GPE|17,18,17,18 WEA|20,21,20,21 ORG|40,52,41,42 WEA|42,43,42,43 WEA|47,52,47,48 WEA|51,52,51,52 GPE
+
+The official made these statements after Tehran announced today Saturday that it had " successfully " completed a new test on the Shahab 3 ground-ground missile with a range of 1300 kilometers .
+DT NN VBD DT NNS IN NNP VBD NN NNP IN PRP VBD '' RB `` VBN DT JJ NN IN DT NNP CD JJ NN IN DT NN IN CD NNS .
+0,2,1,2 PER|6,7,6,7 GPE|11,12,11,12 GPE|21,26,25,26 WEA|22,24,22,24 WEA
+
+The official further said : " Iran is not capable of developing a nuclear program without Moscow 's help . "
+DT NN RBR VBD : '' NNP VBZ RB JJ IN VBG DT JJ NN IN NNP POS NN . ``
+0,2,1,2 PER|6,7,6,7 GPE|13,14,13,14 WEA|16,17,16,17 GPE
+
+He said that according to information obtained by Israel , tests on the Shahab 3 ground-ground missile were in fact " successful and reached their maximum range of 1300 kilometers which allows them to reach strategic centers in Israel . "
+PRP VBD IN VBG TO NN VBN IN NNP , VBZ IN DT NNP CD JJ NN VBD IN NN '' JJ CC VBD PRP$ NN NN IN CD NNS WDT VBZ PRP TO VB JJ NNS IN NNP . ``
+0,1,0,1 PER|8,9,8,9 GPE|12,17,16,17 WEA|13,15,13,15 WEA|24,25,24,25 WEA|32,33,32,33 WEA|38,39,38,39 GPE
+
+The official said that the design of the Shahab missile is based on a North Korean missile called Nodong , itself developed from the Soviet Scud missile .
+DT NN VBD IN DT NN IN DT NNP NN VBZ VBN IN DT JJ JJ NN VBN RB , PRP VBD IN DT NNP NNP NN .
+0,2,1,2 PER|7,10,9,10 WEA|8,9,8,9 WEA|13,19,16,17 WEA|14,16,14,16 GPE|18,19,18,19 WEA|20,21,20,21 WEA|23,27,26,27 WEA|24,25,24,25 GPE|25,26,25,26 WEA
+
+The official also stressed that Iran regards the " destruction of Israel as legitimate , " saying that " Tehran is embroiled in strategic terrorist activities targeting Israel , especially alongside Palestinian and Lebanese organizations . "
+DT NN RB VBD IN NNP VBZ DT '' NN IN NNP IN JJ , `` VBG IN '' NNP VBZ VBN IN JJ JJ NNS VBG NNP , RB IN JJ CC JJ NNS . ``
+0,2,1,2 PER|5,6,5,6 GPE|11,12,11,12 GPE|19,20,19,20 GPE|24,25,24,25 PER|27,28,27,28 GPE|31,32,31,32 GPE|31,35,34,35 ORG|33,34,33,34 GPE
+
+The official further considered that " the Shahab missile will not come into operation for two years and that an improved range of 2000 kilometers would only be achieved after this period . "
+DT JJ RBR VBN IN '' DT NNP NN MD RB VB IN NN IN CD NNS CC IN DT VBN NN IN CD NNS MD RB VB VBN IN DT NN . ``
+0,2,1,2 PER|6,9,8,9 WEA|7,8,7,8 WEA
+
+Israel 's Deputy Defense Minister , Ephraim Sneh , said today Saturday that Israel would " know how to find a suitable response " to the Iranian Shahab 3 ground-ground missile with a 1300 kilometer range .
+NNP POS NNP NNP NNP , NNP NNP , VBD NN NNP IN NNP MD '' VB WRB TO VB DT JJ NN `` TO DT JJ NNP CD JJ NN IN DT CD NN NN .
+0,1,0,1 GPE|0,5,4,5 PER|6,8,6,8 PER|13,14,13,14 GPE|25,36,30,31 WEA|26,27,26,27 GPE|27,29,27,29 WEA
+
+Sneh said on army radio that " Israel will prepare itself to find a suitable response to this threat , " without giving any further details .
+NNP VBD IN NN NN IN '' NNP MD VB PRP TO VB DT JJ NN TO DT NN , `` IN VBG DT JJ NNS .
+0,1,0,1 PER|3,4,3,4 ORG|3,5,4,5 ORG|7,8,7,8 GPE|10,11,10,11 GPE
+
+The Iranian army announced today Saturday that it had " successfully " completed a new test on Shahab 3 ground-ground missiles .
+DT JJ NN VBD NN NNP IN PRP VBD '' RB `` VBN DT JJ NN IN NNP CD JJ NNS .
+0,3,2,3 ORG|1,2,1,2 GPE|7,8,7,8 ORG|17,19,17,19 WEA|17,21,20,21 WEA
+
+An official at the Iranian Ministry of Defense told Tehran Radio that the " Shahab 3 defense missile was tested a second time to ensure it conforms to international standards . "
+DT NN IN DT JJ NNP IN NNP VBD NNP NNP IN DT '' NNP CD NN NN VBD VBN DT JJ NN TO VB PRP VBZ TO JJ NNS . ``
+0,8,1,2 PER|3,8,5,8 ORG|4,5,4,5 GPE|9,11,9,11 ORG|12,18,17,18 WEA|14,16,14,16 WEA|25,26,25,26 WEA
+
+In July 1998 , the first test on this missile was announced .
+IN NNP CD , DT JJ NN IN DT NN VBD VBN .
+8,10,9,10 WEA
+
+It is capable of reaching the majority of countries in the region , including Israel .
+PRP VBZ JJ IN VBG DT NN IN NNS IN DT NN , VBG NNP .
+0,1,0,1 WEA|5,15,6,7 GPE|8,12,8,9 GPE|10,12,11,12 LOC|14,15,14,15 GPE
+
