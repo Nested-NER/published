@@ -24,8 +24,8 @@
 >- Step 1. Run transfer_wv.py to convert the **GloVe** file to gensim file format (**only for ACE04/05 dataset**)
 >- Step 2. Set parameters in config.py
 >- Step 3. Run process_data.py to generate input data
->- Step 4. Run train.py to train ToI-CNN+DTE
->- Step 5. Run test.py to test ToI-CNN+DTE
+>- Step 4. Run train.py to train 
+>- Step 5. Run test.py to test
 
 ### Test Best Model:
 [best models for three datasets](https://drive.google.com/open?id=1Mmn7SsCMpuMrwJfowLZ75Jb6gleVIjTJ)
